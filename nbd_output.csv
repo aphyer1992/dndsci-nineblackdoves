@@ -1,0 +1,3642 @@
+year,type,details,country,location
+0,Omen,Moon Turns Red,Rome,Gallia
+0,Omen,Geese Flying Backwards,Persia,Central Persia
+0,Omen,Rivers of Blood,Germania,South Germania
+0,Omen,Moon Turns Red,Germania,South Germania
+1,Omen,Geese Flying Backwards,Persia,Central Persia
+1,Disaster,Pillaged By Germania,Britannia,Britannia
+1,Disaster,Pillaged By Persia,Germania,North Germania
+1,Omen,Three-Headed Baby,Germania,South Germania
+2,Omen,Rivers of Blood,Rome,Italia
+2,Omen,Moon Turns Red,Rome,Gallia
+2,Disaster,Famine,Persia,North Persia
+2,Omen,Rivers of Blood,Britannia,Britannia
+3,Disaster,Famine,Rome,Grecia
+3,Omen,Geese Flying Backwards,Persia,Central Persia
+3,Omen,Moon Turns Red,Persia,North Persia
+4,Omen,Rivers of Blood,Rome,Italia
+4,Disaster,Famine,Persia,Central Persia
+4,Disaster,Plague,Persia,North Persia
+5,Disaster,Pillaged By Rome,Persia,Outer Persia
+5,Omen,Moon Turns Red,Persia,North Persia
+5,Disaster,Fire,Britannia,Britannia
+5,Disaster,Fire,Germania,North Germania
+6,Omen,Geese Flying Backwards,Rome,Grecia
+6,Omen,Rivers of Blood,Persia,North Persia
+6,Omen,Geese Flying Backwards,Britannia,Britannia
+6,Omen,Rivers of Blood,Germania,South Germania
+7,Disaster,Fire,Persia,Outer Persia
+7,Disaster,Pillaged By Germania,Persia,North Persia
+7,Omen,Rivers of Blood,Britannia,Britannia
+7,Omen,Geese Flying Backwards,Britannia,Britannia
+7,Disaster,Pillaged By Germania,Britannia,Britannia
+8,Omen,Rivers of Blood,Persia,Central Persia
+8,Omen,Moon Turns Red,Persia,Outer Persia
+8,Disaster,Famine,Britannia,Britannia
+9,Omen,Moon Turns Red,Rome,Grecia
+9,Omen,Rivers of Blood,Germania,North Germania
+10,Omen,Geese Flying Backwards,Rome,Italia
+10,Omen,Geese Flying Backwards,Persia,North Persia
+10,Disaster,Pillaged By Germania,Britannia,Britannia
+10,Disaster,Pillaged By Persia,Germania,North Germania
+11,Disaster,Famine,Rome,Italia
+11,Omen,Three-Headed Baby,Rome,Grecia
+11,Omen,Rivers of Blood,Rome,Grecia
+11,Disaster,Famine,Persia,North Persia
+11,Omen,Rivers of Blood,Germania,South Germania
+11,Disaster,Pillaged By Rome,Germania,South Germania
+12,Omen,Three-Headed Baby,Rome,Grecia
+12,Omen,Geese Flying Backwards,Persia,North Persia
+13,Omen,Geese Flying Backwards,Rome,Grecia
+13,Omen,Geese Flying Backwards,Persia,North Persia
+13,Omen,Rivers of Blood,Britannia,Britannia
+14,Omen,Geese Flying Backwards,Rome,Grecia
+14,Omen,Three-Headed Baby,Persia,Central Persia
+15,Omen,Three-Headed Baby,Rome,Grecia
+15,Omen,Geese Flying Backwards,Persia,North Persia
+16,Omen,Moon Turns Red,Rome,Italia
+16,Disaster,Fire,Rome,Gallia
+16,Disaster,Famine,Rome,Grecia
+16,Omen,Three-Headed Baby,Persia,Central Persia
+16,Disaster,Famine,Persia,North Persia
+16,Omen,Geese Flying Backwards,Britannia,Britannia
+16,Disaster,Fire,Germania,South Germania
+17,Disaster,Fire,Persia,Central Persia
+18,Omen,Moon Turns Red,Rome,Italia
+18,Omen,Moon Turns Red,Germania,South Germania
+19,Omen,Three-Headed Baby,Rome,Gallia
+19,Omen,Geese Flying Backwards,Rome,Grecia
+19,Disaster,Fire,Rome,Grecia
+19,Disaster,Fire,Persia,Central Persia
+19,Omen,Three-Headed Baby,Persia,North Persia
+20,Omen,Three-Headed Baby,Rome,Italia
+20,Disaster,Famine,Rome,Grecia
+22,Omen,Three-Headed Baby,Rome,Gallia
+22,Disaster,Famine,Rome,Grecia
+22,Disaster,Pillaged By Germania,Britannia,Britannia
+23,Disaster,Famine,Rome,Italia
+23,Omen,Black Dove,Rome,Grecia
+23,Omen,Three-Headed Baby,Persia,Outer Persia
+23,Disaster,Fire,Persia,North Persia
+23,Omen,Black Dove,Germania,North Germania
+23,Omen,Black Dove,Germania,South Germania
+24,Omen,Three-Headed Baby,Persia,Outer Persia
+24,Omen,Geese Flying Backwards,Britannia,Britannia
+25,Omen,Three-Headed Baby,Persia,Outer Persia
+25,Omen,Three-Headed Baby,Germania,North Germania
+25,Omen,Moon Turns Red,Germania,North Germania
+25,Omen,Moon Turns Red,Germania,South Germania
+26,Omen,Geese Flying Backwards,Rome,Italia
+26,Disaster,Fire,Rome,Gallia
+26,Omen,Geese Flying Backwards,Persia,North Persia
+26,Disaster,Plague,Germania,North Germania
+27,Omen,Geese Flying Backwards,Rome,Grecia
+27,Omen,Geese Flying Backwards,Persia,North Persia
+28,Omen,Rivers of Blood,Rome,Italia
+28,Disaster,Famine,Rome,Italia
+28,Omen,Moon Turns Red,Rome,Gallia
+28,Disaster,Famine,Rome,Grecia
+28,Omen,Rivers of Blood,Persia,North Persia
+28,Disaster,Famine,Persia,North Persia
+28,Omen,Geese Flying Backwards,Britannia,Britannia
+28,Omen,Three-Headed Baby,Germania,South Germania
+29,Disaster,Plague,Rome,Gallia
+29,Disaster,Pillaged By Germania,Rome,Gallia
+29,Omen,Geese Flying Backwards,Rome,Grecia
+29,Disaster,Fire,Persia,Outer Persia
+29,Omen,Three-Headed Baby,Britannia,Britannia
+29,Disaster,Fire,Britannia,Britannia
+29,Disaster,Famine,Britannia,Britannia
+30,Omen,Rivers of Blood,Rome,Italia
+30,Disaster,Famine,Rome,Italia
+30,Disaster,Plague,Rome,Italia
+30,Disaster,Earthquake,Rome,Gallia
+30,Disaster,Pillaged By Persia,Rome,Grecia
+30,Disaster,Plague,Britannia,Britannia
+30,Disaster,Earthquake,Germania,South Germania
+31,Disaster,Earthquake,Rome,Italia
+31,Omen,Moon Turns Red,Rome,Gallia
+31,Disaster,Pillaged By Britannia,Rome,Gallia
+31,Disaster,Earthquake,Rome,Grecia
+31,Omen,Rivers of Blood,Germania,South Germania
+31,Disaster,Earthquake,Germania,South Germania
+31,Disaster,Plague,Germania,South Germania
+32,Disaster,Pillaged By Germania,Rome,Italia
+32,Omen,Geese Flying Backwards,Rome,Grecia
+32,Omen,Geese Flying Backwards,Persia,Central Persia
+32,Omen,Rivers of Blood,Persia,Outer Persia
+32,Omen,Rivers of Blood,Persia,North Persia
+33,Disaster,Pillaged By Britannia,Rome,Gallia
+33,Omen,Geese Flying Backwards,Persia,North Persia
+34,Omen,Geese Flying Backwards,Rome,Grecia
+34,Omen,Three-Headed Baby,Persia,Central Persia
+34,Omen,Moon Turns Red,Persia,Outer Persia
+34,Omen,Three-Headed Baby,Persia,North Persia
+34,Disaster,Pillaged By Germania,Britannia,Britannia
+35,Omen,Moon Turns Red,Rome,Italia
+35,Omen,Rivers of Blood,Rome,Grecia
+35,Disaster,Famine,Rome,Grecia
+35,Omen,Three-Headed Baby,Persia,Central Persia
+35,Disaster,Fire,Persia,Outer Persia
+36,Disaster,Fire,Germania,North Germania
+38,Omen,Moon Turns Red,Rome,Grecia
+38,Omen,Moon Turns Red,Persia,North Persia
+38,Disaster,Pillaged By Rome,Germania,South Germania
+39,Omen,Rivers of Blood,Persia,Central Persia
+39,Omen,Rivers of Blood,Persia,North Persia
+39,Omen,Geese Flying Backwards,Persia,North Persia
+39,Omen,Three-Headed Baby,Germania,South Germania
+40,Omen,Rivers of Blood,Persia,Outer Persia
+40,Omen,Moon Turns Red,Persia,Outer Persia
+40,Omen,Three-Headed Baby,Britannia,Britannia
+41,Omen,Three-Headed Baby,Rome,Italia
+41,Disaster,Famine,Persia,North Persia
+41,Disaster,Fire,Britannia,Britannia
+41,Omen,Moon Turns Red,Germania,South Germania
+41,Disaster,Fire,Germania,South Germania
+42,Omen,Black Dove,Persia,Outer Persia
+42,Omen,Geese Flying Backwards,Persia,North Persia
+42,Omen,Black Dove,Germania,North Germania
+43,Omen,Geese Flying Backwards,Rome,Italia
+43,Omen,Three-Headed Baby,Persia,Central Persia
+43,Omen,Geese Flying Backwards,Persia,North Persia
+43,Omen,Moon Turns Red,Germania,North Germania
+43,Disaster,Fire,Germania,North Germania
+44,Disaster,Fire,Persia,Central Persia
+44,Omen,Geese Flying Backwards,Persia,North Persia
+44,Omen,Moon Turns Red,Britannia,Britannia
+45,Omen,Rivers of Blood,Rome,Italia
+45,Omen,Flaming Comet,Rome,Gallia
+45,Omen,Black Dove,Rome,Grecia
+45,Omen,Geese Flying Backwards,Persia,North Persia
+45,Disaster,Plague,Britannia,Britannia
+45,Disaster,Pillaged By Rome,Germania,South Germania
+46,Omen,Three-Headed Baby,Rome,Italia
+46,Omen,Three-Headed Baby,Rome,Grecia
+46,Disaster,Fire,Rome,Grecia
+46,Disaster,Famine,Rome,Grecia
+46,Omen,Geese Flying Backwards,Persia,North Persia
+46,Omen,Rivers of Blood,Germania,South Germania
+47,Disaster,Earthquake,Rome,Italia
+47,Omen,Three-Headed Baby,Persia,Outer Persia
+47,Omen,Geese Flying Backwards,Persia,North Persia
+47,Disaster,Pillaged By Germania,Britannia,Britannia
+47,Omen,Moon Turns Red,Germania,North Germania
+47,Disaster,Pillaged By Persia,Germania,North Germania
+48,Omen,Moon Turns Red,Rome,Grecia
+48,Disaster,Famine,Persia,North Persia
+50,Omen,Three-Headed Baby,Rome,Gallia
+51,Omen,Rivers of Blood,Persia,North Persia
+51,Disaster,Fire,Britannia,Britannia
+52,Disaster,Fire,Rome,Italia
+53,Disaster,Fire,Persia,Outer Persia
+53,Omen,Moon Turns Red,Persia,North Persia
+53,Disaster,Famine,Persia,North Persia
+53,Disaster,Pillaged By Germania,Britannia,Britannia
+54,Omen,Three-Headed Baby,Rome,Grecia
+54,Disaster,Plague,Persia,North Persia
+54,Omen,Moon Turns Red,Germania,South Germania
+55,Omen,Geese Flying Backwards,Rome,Gallia
+55,Omen,Geese Flying Backwards,Britannia,Britannia
+55,Disaster,Plague,Germania,South Germania
+56,Omen,Geese Flying Backwards,Rome,Italia
+56,Omen,Geese Flying Backwards,Rome,Gallia
+56,Omen,Three-Headed Baby,Persia,Central Persia
+56,Omen,Geese Flying Backwards,Germania,South Germania
+57,Omen,Rivers of Blood,Rome,Italia
+57,Omen,Moon Turns Red,Rome,Gallia
+57,Disaster,Fire,Rome,Gallia
+57,Disaster,Pillaged By Rome,Britannia,Britannia
+57,Disaster,Pillaged By Rome,Germania,South Germania
+58,Disaster,Famine,Rome,Italia
+58,Omen,Geese Flying Backwards,Rome,Grecia
+58,Disaster,Pillaged By Germania,Persia,North Persia
+58,Omen,Rivers of Blood,Germania,South Germania
+59,Disaster,Famine,Rome,Grecia
+59,Omen,Geese Flying Backwards,Persia,Outer Persia
+59,Omen,Three-Headed Baby,Germania,North Germania
+60,Omen,Geese Flying Backwards,Persia,Outer Persia
+60,Omen,Rivers of Blood,Germania,North Germania
+61,Omen,Geese Flying Backwards,Rome,Grecia
+61,Disaster,Pillaged By Persia,Rome,Grecia
+61,Omen,Geese Flying Backwards,Persia,Outer Persia
+62,Omen,Black Dove,Rome,Italia
+62,Disaster,Famine,Rome,Grecia
+62,Omen,Black Dove,Persia,Outer Persia
+62,Omen,Geese Flying Backwards,Britannia,Britannia
+62,Omen,Black Dove,Germania,North Germania
+63,Disaster,Famine,Persia,Outer Persia
+63,Omen,Geese Flying Backwards,Britannia,Britannia
+65,Omen,Rivers of Blood,Persia,Central Persia
+65,Disaster,Famine,Persia,Central Persia
+65,Disaster,Famine,Persia,Outer Persia
+65,Omen,Three-Headed Baby,Germania,North Germania
+65,Omen,Rivers of Blood,Germania,South Germania
+66,Omen,Rivers of Blood,Rome,Italia
+66,Omen,Three-Headed Baby,Britannia,Britannia
+66,Disaster,Pillaged By Germania,Britannia,Britannia
+66,Omen,Rivers of Blood,Germania,North Germania
+66,Disaster,Fire,Germania,North Germania
+67,Omen,Moon Turns Red,Rome,Grecia
+67,Disaster,Pillaged By Rome,Persia,Outer Persia
+68,Omen,Black Dove,Rome,Italia
+68,Omen,Three-Headed Baby,Rome,Gallia
+68,Omen,Black Dove,Persia,Outer Persia
+68,Omen,Black Dove,Persia,North Persia
+68,Omen,Black Dove,Germania,North Germania
+69,Omen,Geese Flying Backwards,Persia,Outer Persia
+69,Disaster,Fire,Persia,North Persia
+69,Omen,Rivers of Blood,Germania,North Germania
+70,Disaster,Pillaged By Rome,Persia,Outer Persia
+71,Omen,Geese Flying Backwards,Rome,Gallia
+71,Disaster,Famine,Persia,Outer Persia
+71,Disaster,Pillaged By Persia,Germania,North Germania
+72,Disaster,Famine,Rome,Gallia
+72,Omen,Geese Flying Backwards,Persia,Outer Persia
+72,Omen,Rivers of Blood,Persia,North Persia
+72,Disaster,Pillaged By Germania,Britannia,Britannia
+73,Omen,Geese Flying Backwards,Persia,Outer Persia
+73,Omen,Moon Turns Red,Germania,North Germania
+74,Omen,Geese Flying Backwards,Persia,Outer Persia
+74,Omen,Geese Flying Backwards,Germania,North Germania
+74,Disaster,Plague,Germania,North Germania
+75,Omen,Rivers of Blood,Rome,Italia
+75,Omen,Rivers of Blood,Rome,Grecia
+75,Disaster,Plague,Persia,North Persia
+76,Disaster,Fire,Rome,Italia
+76,Omen,Three-Headed Baby,Britannia,Britannia
+76,Disaster,Famine,Britannia,Britannia
+76,Omen,Geese Flying Backwards,Germania,North Germania
+77,Omen,Three-Headed Baby,Rome,Grecia
+77,Omen,Rivers of Blood,Rome,Grecia
+77,Disaster,Pillaged By Rome,Persia,Outer Persia
+77,Disaster,Fire,Germania,South Germania
+78,Omen,Geese Flying Backwards,Persia,Central Persia
+79,Omen,Moon Turns Red,Rome,Gallia
+79,Omen,Three-Headed Baby,Persia,Central Persia
+79,Omen,Geese Flying Backwards,Persia,Outer Persia
+79,Omen,Rivers of Blood,Britannia,Britannia
+79,Omen,Geese Flying Backwards,Britannia,Britannia
+80,Disaster,Fire,Rome,Grecia
+80,Disaster,Fire,Persia,Central Persia
+80,Disaster,Famine,Persia,Outer Persia
+81,Omen,Moon Turns Red,Rome,Grecia
+81,Omen,Rivers of Blood,Persia,Central Persia
+81,Omen,Moon Turns Red,Britannia,Britannia
+81,Disaster,Famine,Britannia,Britannia
+81,Omen,Geese Flying Backwards,Germania,North Germania
+82,Omen,Moon Turns Red,Persia,Central Persia
+82,Disaster,Pillaged By Rome,Germania,South Germania
+83,Omen,Moon Turns Red,Germania,North Germania
+84,Omen,Three-Headed Baby,Rome,Grecia
+84,Disaster,Fire,Rome,Grecia
+84,Disaster,Pillaged By Rome,Britannia,Britannia
+84,Disaster,Famine,Germania,North Germania
+85,Omen,Moon Turns Red,Rome,Italia
+85,Omen,Moon Turns Red,Rome,Gallia
+85,Omen,Rivers of Blood,Persia,Central Persia
+86,Omen,Moon Turns Red,Rome,Italia
+86,Disaster,Pillaged By Germania,Britannia,Britannia
+86,Omen,Rivers of Blood,Germania,North Germania
+87,Omen,Geese Flying Backwards,Rome,Italia
+87,Omen,Three-Headed Baby,Persia,Outer Persia
+87,Omen,Geese Flying Backwards,Germania,North Germania
+88,Omen,Three-Headed Baby,Rome,Italia
+88,Omen,Rivers of Blood,Rome,Grecia
+88,Omen,Geese Flying Backwards,Rome,Grecia
+88,Omen,Flaming Comet,Britannia,Britannia
+88,Disaster,Famine,Germania,North Germania
+89,Omen,Geese Flying Backwards,Rome,Italia
+89,Omen,Geese Flying Backwards,Rome,Grecia
+89,Omen,Geese Flying Backwards,Persia,North Persia
+89,Disaster,Famine,Germania,South Germania
+90,Omen,Three-Headed Baby,Rome,Italia
+90,Omen,Geese Flying Backwards,Rome,Italia
+90,Omen,Geese Flying Backwards,Rome,Grecia
+90,Omen,Rivers of Blood,Germania,North Germania
+91,Disaster,Famine,Rome,Italia
+91,Omen,Geese Flying Backwards,Rome,Gallia
+91,Disaster,Fire,Persia,North Persia
+91,Omen,Geese Flying Backwards,Germania,North Germania
+91,Disaster,Pillaged By Rome,Germania,South Germania
+92,Omen,Geese Flying Backwards,Rome,Gallia
+92,Omen,Rivers of Blood,Persia,Central Persia
+92,Omen,Moon Turns Red,Germania,South Germania
+93,Omen,Moon Turns Red,Persia,Central Persia
+93,Disaster,Pillaged By Britannia,Germania,North Germania
+93,Omen,Geese Flying Backwards,Germania,South Germania
+93,Disaster,Plague,Germania,South Germania
+94,Disaster,Plague,Rome,Italia
+94,Disaster,Famine,Rome,Gallia
+94,Omen,Three-Headed Baby,Persia,Central Persia
+94,Omen,Rivers of Blood,Britannia,Britannia
+94,Disaster,Fire,Germania,North Germania
+94,Disaster,Pillaged By Britannia,Germania,North Germania
+94,Disaster,Famine,Germania,South Germania
+95,Omen,Rivers of Blood,Rome,Grecia
+95,Disaster,Plague,Rome,Grecia
+95,Omen,Three-Headed Baby,Persia,Outer Persia
+95,Disaster,Fire,Britannia,Britannia
+95,Disaster,Earthquake,Germania,South Germania
+96,Omen,Moon Turns Red,Rome,Grecia
+96,Disaster,Pillaged By Persia,Germania,North Germania
+96,Disaster,Pillaged By Britannia,Germania,North Germania
+97,Disaster,Earthquake,Persia,North Persia
+97,Disaster,Earthquake,Britannia,Britannia
+97,Disaster,Earthquake,Germania,North Germania
+98,Disaster,Famine,Rome,Gallia
+98,Omen,Rivers of Blood,Germania,South Germania
+99,Omen,Moon Turns Red,Rome,Italia
+99,Omen,Three-Headed Baby,Rome,Gallia
+99,Disaster,Pillaged By Rome,Germania,South Germania
+100,Disaster,Pillaged By Rome,Persia,Outer Persia
+100,Disaster,Famine,Persia,North Persia
+100,Omen,Sun Goes Dark,Britannia,Britannia
+100,Omen,Geese Flying Backwards,Germania,South Germania
+101,Disaster,Fire,Rome,Gallia
+101,Disaster,Fire,Persia,Outer Persia
+101,Disaster,Pillaged By Germania,Britannia,Britannia
+101,Omen,Geese Flying Backwards,Germania,South Germania
+102,Omen,Moon Turns Red,Germania,North Germania
+103,Omen,Moon Turns Red,Britannia,Britannia
+103,Omen,Geese Flying Backwards,Germania,South Germania
+104,Disaster,Pillaged By Rome,Persia,Outer Persia
+104,Omen,Geese Flying Backwards,Persia,North Persia
+104,Omen,Rivers of Blood,Germania,South Germania
+104,Omen,Geese Flying Backwards,Germania,South Germania
+105,Omen,Three-Headed Baby,Germania,South Germania
+106,Omen,Moon Turns Red,Britannia,Britannia
+107,Omen,Geese Flying Backwards,Rome,Gallia
+107,Omen,Geese Flying Backwards,Persia,North Persia
+107,Omen,Rivers of Blood,Britannia,Britannia
+107,Disaster,Plague,Britannia,Britannia
+107,Omen,Geese Flying Backwards,Germania,South Germania
+108,Disaster,Fire,Rome,Gallia
+108,Disaster,Famine,Rome,Gallia
+108,Disaster,Plague,Germania,North Germania
+109,Disaster,Earthquake,Rome,Gallia
+109,Omen,Geese Flying Backwards,Persia,North Persia
+109,Disaster,Earthquake,Britannia,Britannia
+109,Disaster,Plague,Germania,South Germania
+110,Omen,Three-Headed Baby,Rome,Italia
+110,Omen,Moon Turns Red,Persia,Central Persia
+110,Omen,Geese Flying Backwards,Persia,North Persia
+110,Disaster,Fire,Persia,North Persia
+111,Omen,Geese Flying Backwards,Rome,Gallia
+111,Omen,Three-Headed Baby,Persia,Central Persia
+111,Omen,Moon Turns Red,Persia,Outer Persia
+112,Disaster,Fire,Persia,Central Persia
+112,Omen,Rivers of Blood,Persia,Outer Persia
+112,Disaster,Pillaged By Persia,Germania,North Germania
+113,Omen,Three-Headed Baby,Rome,Gallia
+113,Omen,Rivers of Blood,Rome,Grecia
+113,Disaster,Famine,Persia,Central Persia
+114,Omen,Rivers of Blood,Rome,Italia
+114,Omen,Moon Turns Red,Persia,Central Persia
+114,Disaster,Fire,Persia,Outer Persia
+114,Omen,Three-Headed Baby,Persia,North Persia
+114,Disaster,Pillaged By Germania,Persia,North Persia
+114,Omen,Moon Turns Red,Germania,North Germania
+115,Disaster,Plague,Persia,Central Persia
+115,Disaster,Pillaged By Rome,Persia,Outer Persia
+115,Disaster,Pillaged By Rome,Britannia,Britannia
+116,Omen,Three-Headed Baby,Rome,Italia
+116,Omen,Flaming Comet,Persia,Outer Persia
+116,Omen,Moon Turns Red,Britannia,Britannia
+117,Omen,Rivers of Blood,Rome,Italia
+117,Omen,Black Dove,Rome,Italia
+117,Omen,Rivers of Blood,Rome,Grecia
+117,Omen,Black Dove,Persia,Central Persia
+117,Omen,Black Dove,Persia,North Persia
+117,Omen,Black Dove,Germania,North Germania
+117,Omen,Black Dove,Germania,South Germania
+118,Omen,Geese Flying Backwards,Rome,Italia
+118,Omen,Moon Turns Red,Rome,Italia
+118,Disaster,Fire,Rome,Italia
+118,Omen,Three-Headed Baby,Persia,Outer Persia
+118,Omen,Rivers of Blood,Persia,Outer Persia
+118,Disaster,Fire,Germania,North Germania
+118,Omen,Moon Turns Red,Germania,South Germania
+119,Disaster,Famine,Rome,Italia
+119,Omen,Moon Turns Red,Persia,Central Persia
+119,Disaster,Famine,Persia,Central Persia
+119,Disaster,Plague,Germania,South Germania
+120,Disaster,Fire,Rome,Grecia
+120,Disaster,Famine,Persia,North Persia
+120,Disaster,Plague,Germania,North Germania
+121,Omen,Rivers of Blood,Rome,Gallia
+122,Omen,Sun Goes Dark,Rome,Italia
+122,Omen,Geese Flying Backwards,Persia,Central Persia
+122,Omen,Sun Goes Dark,Persia,Central Persia
+122,Omen,Moon Turns Red,Persia,North Persia
+123,Omen,Rivers of Blood,Rome,Gallia
+123,Disaster,Pillaged By Persia,Rome,Grecia
+124,Disaster,Fire,Rome,Gallia
+124,Omen,Geese Flying Backwards,Persia,Central Persia
+124,Omen,Rivers of Blood,Persia,North Persia
+124,Disaster,Pillaged By Rome,Germania,South Germania
+125,Omen,Rivers of Blood,Rome,Italia
+125,Disaster,Fire,Rome,Italia
+125,Omen,Geese Flying Backwards,Persia,Central Persia
+125,Omen,Rivers of Blood,Germania,North Germania
+125,Omen,Moon Turns Red,Germania,South Germania
+126,Disaster,Pillaged By Germania,Rome,Italia
+126,Omen,Geese Flying Backwards,Britannia,Britannia
+127,Disaster,Famine,Rome,Italia
+127,Omen,Rivers of Blood,Rome,Gallia
+127,Disaster,Famine,Persia,Central Persia
+127,Disaster,Famine,Britannia,Britannia
+128,Disaster,Fire,Rome,Italia
+128,Omen,Moon Turns Red,Germania,North Germania
+130,Disaster,Fire,Britannia,Britannia
+131,Omen,Geese Flying Backwards,Persia,Central Persia
+131,Disaster,Fire,Germania,North Germania
+132,Omen,Geese Flying Backwards,Rome,Italia
+132,Disaster,Fire,Rome,Italia
+133,Omen,Geese Flying Backwards,Rome,Italia
+133,Omen,Three-Headed Baby,Rome,Gallia
+133,Disaster,Fire,Persia,Outer Persia
+133,Omen,Three-Headed Baby,Persia,North Persia
+134,Omen,Geese Flying Backwards,Rome,Italia
+134,Omen,Moon Turns Red,Rome,Italia
+134,Disaster,Fire,Rome,Italia
+134,Omen,Geese Flying Backwards,Persia,Central Persia
+134,Omen,Three-Headed Baby,Persia,North Persia
+135,Omen,Geese Flying Backwards,Rome,Gallia
+135,Omen,Three-Headed Baby,Rome,Grecia
+135,Omen,Geese Flying Backwards,Persia,Central Persia
+135,Omen,Moon Turns Red,Persia,Central Persia
+135,Disaster,Famine,Britannia,Britannia
+136,Omen,Geese Flying Backwards,Rome,Italia
+136,Omen,Geese Flying Backwards,Rome,Grecia
+136,Disaster,Fire,Rome,Grecia
+136,Omen,Rivers of Blood,Persia,Central Persia
+136,Disaster,Pillaged By Germania,Britannia,Britannia
+137,Omen,Geese Flying Backwards,Rome,Gallia
+137,Disaster,Famine,Rome,Grecia
+137,Omen,Three-Headed Baby,Persia,Central Persia
+137,Omen,Rivers of Blood,Persia,Outer Persia
+137,Omen,Moon Turns Red,Persia,Outer Persia
+138,Omen,Geese Flying Backwards,Rome,Italia
+138,Omen,Geese Flying Backwards,Rome,Grecia
+138,Omen,Three-Headed Baby,Germania,South Germania
+139,Omen,Geese Flying Backwards,Rome,Grecia
+139,Disaster,Pillaged By Persia,Rome,Grecia
+139,Omen,Three-Headed Baby,Britannia,Britannia
+140,Disaster,Famine,Rome,Italia
+140,Disaster,Fire,Rome,Grecia
+140,Disaster,Famine,Rome,Grecia
+140,Omen,Three-Headed Baby,Persia,Central Persia
+140,Omen,Moon Turns Red,Persia,Central Persia
+140,Omen,Three-Headed Baby,Persia,North Persia
+140,Disaster,Fire,Persia,North Persia
+140,Omen,Rivers of Blood,Germania,North Germania
+140,Omen,Moon Turns Red,Germania,North Germania
+141,Disaster,Pillaged By Germania,Rome,Gallia
+141,Omen,Three-Headed Baby,Persia,Central Persia
+141,Disaster,Plague,Germania,North Germania
+142,Omen,Moon Turns Red,Persia,Outer Persia
+142,Omen,Three-Headed Baby,Persia,North Persia
+143,Omen,Geese Flying Backwards,Persia,Central Persia
+144,Omen,Moon Turns Red,Rome,Grecia
+144,Disaster,Famine,Persia,Central Persia
+145,Omen,Geese Flying Backwards,Rome,Grecia
+145,Omen,Three-Headed Baby,Germania,South Germania
+146,Disaster,Fire,Rome,Gallia
+146,Disaster,Fire,Persia,Central Persia
+146,Omen,Moon Turns Red,Persia,Outer Persia
+147,Omen,Geese Flying Backwards,Rome,Gallia
+147,Omen,Moon Turns Red,Rome,Gallia
+147,Omen,Rivers of Blood,Persia,Outer Persia
+147,Disaster,Plague,Persia,Outer Persia
+147,Omen,Rivers of Blood,Germania,North Germania
+148,Disaster,Plague,Persia,Central Persia
+148,Disaster,Fire,Persia,North Persia
+148,Disaster,Pillaged By Germania,Persia,North Persia
+148,Omen,Rivers of Blood,Germania,South Germania
+148,Omen,Geese Flying Backwards,Germania,South Germania
+149,Omen,Geese Flying Backwards,Rome,Gallia
+149,Disaster,Earthquake,Persia,Central Persia
+149,Omen,Rivers of Blood,Persia,Outer Persia
+149,Disaster,Pillaged By Germania,Persia,North Persia
+149,Omen,Moon Turns Red,Britannia,Britannia
+150,Omen,Geese Flying Backwards,Rome,Gallia
+150,Omen,Rivers of Blood,Britannia,Britannia
+150,Omen,Geese Flying Backwards,Germania,South Germania
+151,Omen,Geese Flying Backwards,Rome,Grecia
+151,Omen,Geese Flying Backwards,Germania,South Germania
+152,Omen,Geese Flying Backwards,Rome,Gallia
+152,Omen,Black Dove,Rome,Grecia
+152,Disaster,Famine,Rome,Grecia
+152,Omen,Black Dove,Persia,Outer Persia
+152,Omen,Black Dove,Persia,North Persia
+152,Omen,Rivers of Blood,Germania,North Germania
+152,Omen,Black Dove,Germania,South Germania
+152,Disaster,Fire,Germania,South Germania
+153,Omen,Geese Flying Backwards,Rome,Gallia
+153,Omen,Geese Flying Backwards,Persia,Central Persia
+153,Omen,Rivers of Blood,Persia,Outer Persia
+153,Disaster,Pillaged By Germania,Persia,North Persia
+153,Omen,Rivers of Blood,Germania,South Germania
+154,Disaster,Fire,Rome,Italia
+154,Disaster,Famine,Persia,Central Persia
+154,Omen,Moon Turns Red,Germania,North Germania
+154,Disaster,Pillaged By Persia,Germania,North Germania
+155,Omen,Geese Flying Backwards,Rome,Gallia
+155,Omen,Geese Flying Backwards,Persia,Outer Persia
+156,Omen,Geese Flying Backwards,Rome,Gallia
+156,Omen,Rivers of Blood,Persia,Outer Persia
+156,Omen,Flaming Comet,Persia,Outer Persia
+157,Omen,Black Dove,Rome,Gallia
+157,Disaster,Fire,Rome,Gallia
+157,Omen,Moon Turns Red,Persia,Central Persia
+157,Omen,Black Dove,Persia,Central Persia
+157,Omen,Three-Headed Baby,Persia,Outer Persia
+157,Omen,Black Dove,Persia,Outer Persia
+157,Disaster,Fire,Persia,Outer Persia
+157,Omen,Geese Flying Backwards,Britannia,Britannia
+157,Omen,Black Dove,Britannia,Britannia
+157,Omen,Three-Headed Baby,Germania,North Germania
+158,Disaster,Famine,Rome,Gallia
+158,Omen,Geese Flying Backwards,Persia,Central Persia
+158,Disaster,Famine,Persia,Outer Persia
+158,Omen,Three-Headed Baby,Britannia,Britannia
+158,Disaster,Famine,Britannia,Britannia
+159,Disaster,Famine,Rome,Italia
+159,Omen,Moon Turns Red,Rome,Grecia
+159,Disaster,Fire,Rome,Grecia
+162,Omen,Rivers of Blood,Rome,Gallia
+162,Disaster,Fire,Persia,Outer Persia
+162,Omen,Moon Turns Red,Britannia,Britannia
+162,Disaster,Fire,Germania,North Germania
+163,Disaster,Pillaged By Persia,Rome,Grecia
+163,Omen,Moon Turns Red,Persia,Central Persia
+163,Disaster,Plague,Britannia,Britannia
+164,Omen,Moon Turns Red,Rome,Italia
+164,Disaster,Plague,Persia,Central Persia
+164,Disaster,Pillaged By Rome,Britannia,Britannia
+165,Disaster,Pillaged By Germania,Britannia,Britannia
+166,Disaster,Fire,Rome,Italia
+166,Omen,Geese Flying Backwards,Persia,Outer Persia
+166,Omen,Rivers of Blood,Persia,North Persia
+166,Disaster,Famine,Persia,North Persia
+167,Omen,Geese Flying Backwards,Rome,Italia
+167,Omen,Geese Flying Backwards,Persia,North Persia
+167,Disaster,Pillaged By Germania,Persia,North Persia
+167,Omen,Rivers of Blood,Germania,North Germania
+167,Omen,Three-Headed Baby,Germania,South Germania
+168,Omen,Moon Turns Red,Rome,Gallia
+168,Omen,Geese Flying Backwards,Persia,North Persia
+168,Disaster,Pillaged By Germania,Persia,North Persia
+168,Omen,Flaming Comet,Britannia,Britannia
+168,Omen,Moon Turns Red,Britannia,Britannia
+169,Disaster,Famine,Persia,North Persia
+169,Omen,Geese Flying Backwards,Germania,South Germania
+170,Disaster,Famine,Rome,Grecia
+170,Omen,Three-Headed Baby,Persia,Outer Persia
+170,Omen,Rivers of Blood,Germania,North Germania
+170,Omen,Three-Headed Baby,Germania,South Germania
+171,Omen,Three-Headed Baby,Persia,Central Persia
+171,Omen,Three-Headed Baby,Germania,North Germania
+171,Omen,Geese Flying Backwards,Germania,South Germania
+172,Disaster,Famine,Persia,North Persia
+173,Omen,Rivers of Blood,Persia,Central Persia
+173,Omen,Three-Headed Baby,Persia,Outer Persia
+173,Omen,Rivers of Blood,Germania,North Germania
+173,Omen,Moon Turns Red,Germania,North Germania
+174,Omen,Moon Turns Red,Germania,North Germania
+174,Disaster,Plague,Germania,North Germania
+175,Omen,Three-Headed Baby,Rome,Gallia
+175,Omen,Moon Turns Red,Rome,Grecia
+175,Omen,Moon Turns Red,Persia,North Persia
+175,Disaster,Plague,Persia,North Persia
+175,Disaster,Fire,Germania,South Germania
+175,Disaster,Famine,Germania,South Germania
+176,Disaster,Earthquake,Rome,Gallia
+176,Omen,Moon Turns Red,Rome,Grecia
+176,Disaster,Fire,Britannia,Britannia
+176,Disaster,Earthquake,Germania,North Germania
+178,Omen,Three-Headed Baby,Rome,Italia
+179,Omen,Rivers of Blood,Persia,Outer Persia
+179,Omen,Three-Headed Baby,Persia,North Persia
+179,Disaster,Pillaged By Persia,Germania,North Germania
+180,Omen,Rivers of Blood,Persia,Outer Persia
+180,Disaster,Pillaged By Rome,Britannia,Britannia
+180,Disaster,Pillaged By Rome,Germania,South Germania
+182,Disaster,Pillaged By Germania,Britannia,Britannia
+182,Omen,Geese Flying Backwards,Germania,North Germania
+183,Omen,Rivers of Blood,Britannia,Britannia
+183,Disaster,Fire,Britannia,Britannia
+184,Omen,Moon Turns Red,Rome,Gallia
+184,Omen,Three-Headed Baby,Persia,Central Persia
+184,Omen,Geese Flying Backwards,Germania,North Germania
+185,Disaster,Plague,Rome,Gallia
+185,Omen,Moon Turns Red,Persia,North Persia
+185,Omen,Geese Flying Backwards,Germania,North Germania
+186,Omen,Black Dove,Rome,Italia
+186,Omen,Black Dove,Rome,Gallia
+186,Omen,Rivers of Blood,Persia,Central Persia
+186,Omen,Black Dove,Persia,Central Persia
+186,Omen,Black Dove,Persia,North Persia
+186,Omen,Moon Turns Red,Britannia,Britannia
+186,Omen,Black Dove,Britannia,Britannia
+187,Omen,Rivers of Blood,Persia,Central Persia
+187,Omen,Moon Turns Red,Persia,Central Persia
+187,Disaster,Fire,Persia,Central Persia
+187,Omen,Three-Headed Baby,Persia,Outer Persia
+187,Omen,Geese Flying Backwards,Germania,North Germania
+188,Disaster,Plague,Persia,Central Persia
+189,Omen,Rivers of Blood,Rome,Italia
+189,Disaster,Pillaged By Britannia,Rome,Gallia
+189,Omen,Geese Flying Backwards,Rome,Grecia
+189,Disaster,Plague,Persia,Outer Persia
+189,Omen,Three-Headed Baby,Germania,South Germania
+189,Disaster,Famine,Germania,South Germania
+190,Disaster,Fire,Rome,Italia
+190,Disaster,Famine,Rome,Grecia
+190,Omen,Rivers of Blood,Britannia,Britannia
+190,Disaster,Fire,Germania,North Germania
+191,Omen,Black Dove,Rome,Gallia
+191,Omen,Black Dove,Rome,Grecia
+191,Omen,Black Dove,Persia,Central Persia
+191,Omen,Black Dove,Persia,North Persia
+191,Omen,Black Dove,Britannia,Britannia
+191,Omen,Rivers of Blood,Germania,North Germania
+191,Omen,Black Dove,Germania,South Germania
+192,Disaster,Fire,Rome,Italia
+192,Omen,Rivers of Blood,Rome,Gallia
+192,Omen,Geese Flying Backwards,Britannia,Britannia
+192,Disaster,Fire,Germania,South Germania
+193,Omen,Black Dove,Rome,Italia
+193,Omen,Black Dove,Rome,Grecia
+193,Disaster,Famine,Persia,Central Persia
+193,Omen,Black Dove,Persia,Outer Persia
+193,Disaster,Fire,Persia,North Persia
+193,Omen,Geese Flying Backwards,Britannia,Britannia
+193,Omen,Black Dove,Germania,North Germania
+193,Omen,Black Dove,Germania,South Germania
+194,Omen,Rivers of Blood,Rome,Gallia
+194,Omen,Rivers of Blood,Persia,North Persia
+194,Disaster,Famine,Britannia,Britannia
+195,Omen,Moon Turns Red,Rome,Italia
+195,Omen,Rivers of Blood,Britannia,Britannia
+195,Omen,Moon Turns Red,Germania,South Germania
+196,Disaster,Famine,Persia,Central Persia
+196,Disaster,Pillaged By Britannia,Germania,North Germania
+196,Omen,Rivers of Blood,Germania,South Germania
+196,Disaster,Plague,Germania,South Germania
+197,Omen,Moon Turns Red,Persia,Central Persia
+197,Omen,Rivers of Blood,Britannia,Britannia
+197,Disaster,Plague,Germania,North Germania
+197,Omen,Rivers of Blood,Germania,South Germania
+198,Omen,Moon Turns Red,Rome,Grecia
+198,Omen,Three-Headed Baby,Persia,North Persia
+198,Omen,Moon Turns Red,Persia,North Persia
+198,Disaster,Plague,Persia,North Persia
+199,Disaster,Famine,Persia,Central Persia
+200,Disaster,Fire,Persia,Outer Persia
+200,Disaster,Fire,Germania,South Germania
+200,Disaster,Famine,Germania,South Germania
+201,Disaster,Earthquake,Rome,Italia
+201,Omen,Three-Headed Baby,Rome,Gallia
+201,Omen,Geese Flying Backwards,Persia,Central Persia
+201,Omen,Moon Turns Red,Germania,South Germania
+201,Disaster,Earthquake,Germania,South Germania
+201,Disaster,Pillaged By Rome,Germania,South Germania
+202,Disaster,Fire,Rome,Grecia
+202,Omen,Flaming Comet,Germania,North Germania
+203,Omen,Rivers of Blood,Rome,Gallia
+203,Omen,Moon Turns Red,Rome,Grecia
+204,Disaster,Plague,Rome,Grecia
+204,Disaster,Pillaged By Persia,Rome,Grecia
+204,Omen,Moon Turns Red,Persia,North Persia
+205,Disaster,Plague,Rome,Italia
+205,Disaster,Pillaged By Britannia,Rome,Gallia
+205,Disaster,Earthquake,Rome,Grecia
+205,Omen,Moon Turns Red,Persia,Central Persia
+205,Omen,Moon Turns Red,Persia,North Persia
+205,Omen,Sun Goes Dark,Germania,North Germania
+206,Disaster,Famine,Rome,Italia
+206,Disaster,Pillaged By Persia,Rome,Grecia
+206,Omen,Moon Turns Red,Persia,Central Persia
+206,Omen,Three-Headed Baby,Germania,North Germania
+207,Omen,Moon Turns Red,Rome,Italia
+207,Omen,Moon Turns Red,Germania,North Germania
+208,Omen,Rivers of Blood,Rome,Italia
+208,Disaster,Fire,Rome,Gallia
+208,Omen,Moon Turns Red,Persia,Central Persia
+209,Disaster,Pillaged By Britannia,Rome,Gallia
+209,Disaster,Pillaged By Germania,Rome,Gallia
+209,Omen,Three-Headed Baby,Rome,Grecia
+209,Omen,Geese Flying Backwards,Persia,Central Persia
+210,Omen,Three-Headed Baby,Persia,Central Persia
+210,Omen,Geese Flying Backwards,Persia,Central Persia
+210,Omen,Rivers of Blood,Persia,Outer Persia
+210,Omen,Rivers of Blood,Persia,North Persia
+211,Omen,Rivers of Blood,Rome,Italia
+211,Omen,Geese Flying Backwards,Rome,Italia
+211,Disaster,Famine,Rome,Gallia
+211,Omen,Rivers of Blood,Rome,Grecia
+211,Omen,Rivers of Blood,Britannia,Britannia
+212,Omen,Geese Flying Backwards,Rome,Italia
+214,Omen,Black Dove,Rome,Italia
+214,Disaster,Fire,Rome,Italia
+214,Disaster,Famine,Rome,Italia
+214,Omen,Three-Headed Baby,Persia,Central Persia
+214,Disaster,Fire,Persia,Central Persia
+214,Omen,Black Dove,Persia,North Persia
+214,Omen,Black Dove,Germania,North Germania
+214,Omen,Three-Headed Baby,Germania,South Germania
+214,Disaster,Fire,Germania,South Germania
+215,Omen,Rivers of Blood,Rome,Grecia
+215,Disaster,Fire,Rome,Grecia
+215,Disaster,Earthquake,Germania,South Germania
+216,Omen,Geese Flying Backwards,Rome,Gallia
+216,Omen,Geese Flying Backwards,Rome,Grecia
+216,Omen,Rivers of Blood,Britannia,Britannia
+216,Omen,Moon Turns Red,Germania,South Germania
+217,Omen,Three-Headed Baby,Britannia,Britannia
+218,Disaster,Famine,Rome,Grecia
+218,Omen,Rivers of Blood,Persia,Central Persia
+219,Disaster,Fire,Rome,Grecia
+219,Disaster,Fire,Persia,Outer Persia
+219,Omen,Three-Headed Baby,Persia,North Persia
+219,Omen,Geese Flying Backwards,Persia,North Persia
+220,Omen,Geese Flying Backwards,Rome,Gallia
+220,Omen,Rivers of Blood,Persia,North Persia
+220,Omen,Geese Flying Backwards,Persia,North Persia
+220,Omen,Moon Turns Red,Persia,North Persia
+220,Omen,Moon Turns Red,Germania,North Germania
+221,Disaster,Famine,Rome,Gallia
+221,Omen,Moon Turns Red,Persia,Central Persia
+221,Disaster,Famine,Persia,North Persia
+221,Disaster,Plague,Persia,North Persia
+221,Omen,Three-Headed Baby,Germania,North Germania
+221,Disaster,Fire,Germania,North Germania
+222,Omen,Black Dove,Rome,Gallia
+222,Disaster,Earthquake,Persia,Central Persia
+222,Omen,Black Dove,Persia,Outer Persia
+222,Omen,Moon Turns Red,Germania,South Germania
+223,Disaster,Famine,Rome,Gallia
+223,Omen,Rivers of Blood,Persia,Outer Persia
+223,Omen,Moon Turns Red,Persia,Outer Persia
+223,Omen,Moon Turns Red,Persia,North Persia
+223,Omen,Three-Headed Baby,Britannia,Britannia
+223,Disaster,Plague,Germania,South Germania
+224,Omen,Geese Flying Backwards,Rome,Italia
+224,Disaster,Pillaged By Persia,Rome,Grecia
+224,Omen,Moon Turns Red,Persia,Central Persia
+224,Disaster,Famine,Persia,North Persia
+224,Omen,Rivers of Blood,Germania,North Germania
+224,Omen,Moon Turns Red,Germania,South Germania
+225,Omen,Three-Headed Baby,Rome,Italia
+225,Omen,Geese Flying Backwards,Rome,Italia
+225,Omen,Rivers of Blood,Rome,Gallia
+225,Omen,Geese Flying Backwards,Persia,North Persia
+225,Omen,Moon Turns Red,Persia,North Persia
+225,Omen,Geese Flying Backwards,Britannia,Britannia
+225,Omen,Moon Turns Red,Germania,North Germania
+226,Omen,Geese Flying Backwards,Rome,Italia
+226,Omen,Moon Turns Red,Rome,Gallia
+226,Disaster,Pillaged By Britannia,Rome,Gallia
+226,Omen,Three-Headed Baby,Persia,Outer Persia
+226,Disaster,Plague,Germania,North Germania
+227,Disaster,Plague,Persia,North Persia
+227,Disaster,Plague,Britannia,Britannia
+228,Omen,Geese Flying Backwards,Rome,Italia
+228,Omen,Moon Turns Red,Rome,Italia
+228,Disaster,Plague,Rome,Gallia
+228,Omen,Moon Turns Red,Rome,Grecia
+228,Omen,Sun Goes Dark,Persia,Central Persia
+228,Disaster,Plague,Persia,Central Persia
+228,Omen,Three-Headed Baby,Persia,Outer Persia
+228,Omen,Moon Turns Red,Britannia,Britannia
+228,Omen,Moon Turns Red,Germania,North Germania
+229,Disaster,Plague,Rome,Italia
+229,Disaster,Pillaged By Rome,Germania,South Germania
+230,Omen,Moon Turns Red,Rome,Gallia
+230,Disaster,Fire,Rome,Grecia
+230,Disaster,Plague,Rome,Grecia
+230,Omen,Moon Turns Red,Persia,Outer Persia
+231,Disaster,Famine,Rome,Italia
+231,Omen,Geese Flying Backwards,Persia,North Persia
+231,Omen,Geese Flying Backwards,Germania,North Germania
+232,Disaster,Pillaged By Britannia,Rome,Gallia
+232,Omen,Geese Flying Backwards,Britannia,Britannia
+233,Omen,Geese Flying Backwards,Rome,Gallia
+233,Disaster,Pillaged By Persia,Rome,Grecia
+233,Disaster,Famine,Persia,North Persia
+233,Disaster,Famine,Britannia,Britannia
+233,Omen,Geese Flying Backwards,Germania,North Germania
+233,Omen,Rivers of Blood,Germania,South Germania
+234,Omen,Rivers of Blood,Rome,Italia
+234,Omen,Geese Flying Backwards,Rome,Gallia
+234,Omen,Moon Turns Red,Persia,North Persia
+234,Omen,Sun Goes Dark,Britannia,Britannia
+234,Disaster,Pillaged By Germania,Britannia,Britannia
+234,Disaster,Famine,Germania,North Germania
+235,Disaster,Famine,Rome,Gallia
+236,Omen,Three-Headed Baby,Germania,South Germania
+237,Omen,Rivers of Blood,Rome,Gallia
+237,Omen,Three-Headed Baby,Persia,Central Persia
+237,Omen,Rivers of Blood,Persia,Outer Persia
+237,Disaster,Pillaged By Rome,Britannia,Britannia
+238,Disaster,Pillaged By Germania,Britannia,Britannia
+238,Omen,Moon Turns Red,Germania,North Germania
+239,Omen,Rivers of Blood,Rome,Gallia
+239,Omen,Rivers of Blood,Rome,Grecia
+239,Omen,Moon Turns Red,Rome,Grecia
+239,Omen,Moon Turns Red,Persia,Outer Persia
+239,Disaster,Plague,Germania,North Germania
+239,Disaster,Pillaged By Persia,Germania,North Germania
+240,Disaster,Earthquake,Persia,North Persia
+240,Disaster,Earthquake,Britannia,Britannia
+241,Omen,Rivers of Blood,Rome,Grecia
+241,Disaster,Pillaged By Germania,Britannia,Britannia
+241,Omen,Three-Headed Baby,Germania,South Germania
+242,Disaster,Fire,Rome,Gallia
+242,Omen,Moon Turns Red,Persia,Central Persia
+242,Disaster,Pillaged By Rome,Britannia,Britannia
+242,Omen,Flaming Comet,Germania,North Germania
+243,Omen,Three-Headed Baby,Persia,Central Persia
+243,Disaster,Pillaged By Rome,Britannia,Britannia
+243,Omen,Rivers of Blood,Germania,North Germania
+243,Omen,Moon Turns Red,Germania,North Germania
+244,Disaster,Fire,Persia,Outer Persia
+244,Omen,Three-Headed Baby,Britannia,Britannia
+245,Omen,Three-Headed Baby,Germania,South Germania
+246,Omen,Three-Headed Baby,Rome,Gallia
+246,Omen,Moon Turns Red,Britannia,Britannia
+246,Disaster,Fire,Germania,South Germania
+248,Omen,Rivers of Blood,Rome,Gallia
+249,Disaster,Pillaged By Rome,Persia,Outer Persia
+251,Omen,Rivers of Blood,Germania,South Germania
+252,Omen,Three-Headed Baby,Persia,North Persia
+252,Disaster,Pillaged By Germania,Britannia,Britannia
+253,Omen,Three-Headed Baby,Persia,Central Persia
+253,Omen,Geese Flying Backwards,Germania,South Germania
+254,Omen,Rivers of Blood,Rome,Italia
+254,Omen,Three-Headed Baby,Persia,Central Persia
+254,Omen,Rivers of Blood,Persia,Central Persia
+254,Disaster,Famine,Persia,North Persia
+254,Omen,Geese Flying Backwards,Germania,South Germania
+255,Omen,Moon Turns Red,Persia,North Persia
+255,Omen,Three-Headed Baby,Germania,South Germania
+255,Omen,Rivers of Blood,Germania,South Germania
+256,Omen,Rivers of Blood,Rome,Italia
+256,Disaster,Pillaged By Germania,Britannia,Britannia
+256,Omen,Three-Headed Baby,Germania,North Germania
+256,Omen,Geese Flying Backwards,Germania,South Germania
+256,Omen,Moon Turns Red,Germania,South Germania
+257,Disaster,Pillaged By Germania,Rome,Italia
+257,Disaster,Fire,Rome,Grecia
+257,Omen,Rivers of Blood,Persia,Central Persia
+257,Omen,Rivers of Blood,Persia,North Persia
+257,Disaster,Famine,Persia,North Persia
+257,Omen,Moon Turns Red,Britannia,Britannia
+257,Omen,Rivers of Blood,Germania,South Germania
+257,Disaster,Famine,Germania,South Germania
+257,Disaster,Plague,Germania,South Germania
+258,Disaster,Earthquake,Rome,Italia
+258,Disaster,Plague,Rome,Italia
+258,Omen,Moon Turns Red,Rome,Grecia
+258,Disaster,Fire,Persia,Outer Persia
+258,Disaster,Earthquake,Germania,North Germania
+259,Omen,Rivers of Blood,Rome,Italia
+259,Disaster,Plague,Rome,Grecia
+259,Disaster,Fire,Persia,Central Persia
+259,Omen,Geese Flying Backwards,Persia,North Persia
+260,Disaster,Fire,Rome,Gallia
+260,Disaster,Famine,Persia,North Persia
+262,Omen,Geese Flying Backwards,Rome,Italia
+262,Omen,Geese Flying Backwards,Persia,North Persia
+262,Omen,Three-Headed Baby,Britannia,Britannia
+262,Omen,Geese Flying Backwards,Germania,North Germania
+263,Omen,Geese Flying Backwards,Rome,Italia
+263,Disaster,Pillaged By Britannia,Rome,Gallia
+263,Disaster,Pillaged By Persia,Rome,Grecia
+263,Omen,Rivers of Blood,Persia,Central Persia
+265,Omen,Moon Turns Red,Rome,Gallia
+265,Omen,Moon Turns Red,Rome,Grecia
+265,Omen,Rivers of Blood,Persia,North Persia
+265,Omen,Three-Headed Baby,Britannia,Britannia
+265,Disaster,Fire,Britannia,Britannia
+265,Omen,Geese Flying Backwards,Germania,North Germania
+266,Disaster,Plague,Rome,Gallia
+266,Disaster,Famine,Germania,North Germania
+266,Omen,Three-Headed Baby,Germania,South Germania
+267,Disaster,Pillaged By Persia,Rome,Grecia
+267,Omen,Moon Turns Red,Persia,Central Persia
+267,Omen,Moon Turns Red,Britannia,Britannia
+267,Disaster,Plague,Britannia,Britannia
+267,Disaster,Pillaged By Rome,Britannia,Britannia
+267,Omen,Rivers of Blood,Germania,South Germania
+267,Disaster,Fire,Germania,South Germania
+267,Disaster,Plague,Germania,South Germania
+268,Disaster,Plague,Persia,Central Persia
+268,Omen,Geese Flying Backwards,Persia,North Persia
+268,Disaster,Earthquake,Germania,North Germania
+268,Disaster,Pillaged By Rome,Germania,South Germania
+269,Disaster,Plague,Persia,Outer Persia
+269,Omen,Geese Flying Backwards,Persia,North Persia
+269,Omen,Geese Flying Backwards,Germania,North Germania
+270,Disaster,Plague,Rome,Grecia
+270,Disaster,Famine,Persia,North Persia
+270,Omen,Moon Turns Red,Britannia,Britannia
+270,Omen,Geese Flying Backwards,Germania,North Germania
+270,Omen,Rivers of Blood,Germania,South Germania
+271,Disaster,Pillaged By Rome,Britannia,Britannia
+271,Omen,Geese Flying Backwards,Germania,North Germania
+272,Omen,Rivers of Blood,Rome,Gallia
+272,Disaster,Pillaged By Germania,Persia,North Persia
+272,Omen,Geese Flying Backwards,Germania,North Germania
+272,Omen,Moon Turns Red,Germania,South Germania
+273,Omen,Rivers of Blood,Persia,North Persia
+273,Omen,Geese Flying Backwards,Persia,North Persia
+273,Disaster,Pillaged By Germania,Persia,North Persia
+273,Omen,Geese Flying Backwards,Germania,North Germania
+274,Omen,Three-Headed Baby,Rome,Grecia
+275,Omen,Moon Turns Red,Rome,Italia
+275,Omen,Geese Flying Backwards,Persia,Central Persia
+275,Disaster,Famine,Britannia,Britannia
+276,Disaster,Plague,Rome,Italia
+276,Disaster,Pillaged By Germania,Rome,Gallia
+276,Omen,Geese Flying Backwards,Persia,Central Persia
+276,Omen,Rivers of Blood,Persia,North Persia
+276,Omen,Geese Flying Backwards,Germania,North Germania
+276,Disaster,Fire,Germania,North Germania
+277,Omen,Geese Flying Backwards,Persia,Central Persia
+277,Omen,Black Dove,Persia,Central Persia
+277,Omen,Geese Flying Backwards,Persia,Outer Persia
+277,Omen,Black Dove,Persia,Outer Persia
+277,Omen,Geese Flying Backwards,Persia,North Persia
+277,Omen,Black Dove,Germania,North Germania
+277,Disaster,Plague,Germania,South Germania
+278,Omen,Moon Turns Red,Rome,Italia
+278,Omen,Geese Flying Backwards,Persia,Central Persia
+278,Omen,Geese Flying Backwards,Persia,Outer Persia
+278,Disaster,Plague,Germania,North Germania
+279,Omen,Moon Turns Red,Rome,Grecia
+279,Disaster,Famine,Persia,Outer Persia
+279,Omen,Rivers of Blood,Germania,North Germania
+279,Disaster,Famine,Germania,North Germania
+280,Omen,Moon Turns Red,Rome,Gallia
+280,Disaster,Plague,Rome,Grecia
+280,Omen,Geese Flying Backwards,Persia,Central Persia
+280,Disaster,Fire,Germania,South Germania
+281,Omen,Rivers of Blood,Rome,Italia
+281,Omen,Moon Turns Red,Rome,Gallia
+281,Disaster,Plague,Persia,Outer Persia
+281,Disaster,Famine,Persia,North Persia
+281,Omen,Geese Flying Backwards,Germania,North Germania
+281,Disaster,Pillaged By Persia,Germania,North Germania
+281,Disaster,Pillaged By Britannia,Germania,North Germania
+282,Disaster,Plague,Rome,Gallia
+282,Disaster,Fire,Persia,Central Persia
+282,Disaster,Famine,Persia,Central Persia
+282,Disaster,Plague,Persia,Central Persia
+282,Disaster,Earthquake,Britannia,Britannia
+282,Disaster,Earthquake,Germania,South Germania
+283,Disaster,Plague,Rome,Italia
+283,Omen,Geese Flying Backwards,Persia,Central Persia
+283,Disaster,Earthquake,Persia,Central Persia
+283,Disaster,Earthquake,Persia,North Persia
+283,Disaster,Plague,Persia,North Persia
+284,Disaster,Pillaged By Germania,Rome,Gallia
+284,Disaster,Famine,Persia,Outer Persia
+285,Omen,Geese Flying Backwards,Rome,Grecia
+285,Omen,Geese Flying Backwards,Persia,Outer Persia
+285,Disaster,Pillaged By Rome,Persia,Outer Persia
+285,Disaster,Pillaged By Germania,Britannia,Britannia
+286,Disaster,Famine,Persia,Central Persia
+286,Omen,Geese Flying Backwards,Britannia,Britannia
+286,Omen,Moon Turns Red,Britannia,Britannia
+287,Omen,Three-Headed Baby,Rome,Gallia
+287,Omen,Geese Flying Backwards,Rome,Gallia
+287,Omen,Moon Turns Red,Rome,Grecia
+287,Disaster,Famine,Rome,Grecia
+287,Omen,Geese Flying Backwards,Persia,Central Persia
+288,Disaster,Fire,Rome,Gallia
+288,Disaster,Famine,Rome,Gallia
+288,Disaster,Plague,Rome,Grecia
+288,Omen,Geese Flying Backwards,Persia,Central Persia
+288,Disaster,Pillaged By Rome,Persia,Outer Persia
+288,Omen,Moon Turns Red,Britannia,Britannia
+289,Disaster,Plague,Rome,Italia
+289,Omen,Moon Turns Red,Rome,Gallia
+289,Omen,Geese Flying Backwards,Rome,Grecia
+289,Disaster,Plague,Persia,Outer Persia
+289,Disaster,Plague,Britannia,Britannia
+289,Disaster,Fire,Germania,South Germania
+290,Disaster,Plague,Rome,Gallia
+290,Disaster,Pillaged By Britannia,Rome,Gallia
+290,Omen,Geese Flying Backwards,Rome,Grecia
+290,Disaster,Plague,Persia,Central Persia
+291,Disaster,Earthquake,Rome,Italia
+291,Omen,Moon Turns Red,Persia,Outer Persia
+291,Omen,Geese Flying Backwards,Britannia,Britannia
+291,Disaster,Earthquake,Britannia,Britannia
+291,Disaster,Earthquake,Germania,South Germania
+291,Disaster,Plague,Germania,South Germania
+292,Omen,Geese Flying Backwards,Rome,Grecia
+292,Disaster,Famine,Britannia,Britannia
+293,Disaster,Famine,Rome,Grecia
+293,Disaster,Famine,Persia,Central Persia
+294,Omen,Moon Turns Red,Persia,Outer Persia
+294,Disaster,Pillaged By Rome,Britannia,Britannia
+294,Omen,Three-Headed Baby,Germania,South Germania
+294,Omen,Geese Flying Backwards,Germania,South Germania
+295,Omen,Geese Flying Backwards,Persia,North Persia
+295,Omen,Three-Headed Baby,Germania,North Germania
+295,Omen,Rivers of Blood,Germania,North Germania
+296,Omen,Three-Headed Baby,Rome,Italia
+296,Disaster,Pillaged By Germania,Rome,Italia
+296,Disaster,Pillaged By Germania,Britannia,Britannia
+296,Disaster,Famine,Germania,South Germania
+297,Omen,Geese Flying Backwards,Persia,Central Persia
+297,Disaster,Fire,Persia,Outer Persia
+297,Omen,Rivers of Blood,Germania,South Germania
+298,Omen,Moon Turns Red,Rome,Italia
+298,Omen,Moon Turns Red,Rome,Grecia
+298,Omen,Rivers of Blood,Persia,Central Persia
+298,Omen,Geese Flying Backwards,Germania,South Germania
+299,Disaster,Pillaged By Rome,Persia,Outer Persia
+299,Disaster,Fire,Britannia,Britannia
+299,Omen,Moon Turns Red,Germania,South Germania
+299,Disaster,Famine,Germania,South Germania
+300,Omen,Rivers of Blood,Persia,North Persia
+300,Omen,Three-Headed Baby,Germania,North Germania
+301,Disaster,Fire,Rome,Gallia
+301,Omen,Rivers of Blood,Rome,Grecia
+301,Omen,Geese Flying Backwards,Persia,Outer Persia
+301,Omen,Rivers of Blood,Persia,North Persia
+301,Omen,Rivers of Blood,Germania,North Germania
+302,Omen,Moon Turns Red,Rome,Gallia
+302,Disaster,Pillaged By Germania,Rome,Gallia
+302,Omen,Rivers of Blood,Persia,Central Persia
+302,Omen,Geese Flying Backwards,Persia,Outer Persia
+302,Disaster,Pillaged By Germania,Persia,North Persia
+302,Omen,Rivers of Blood,Britannia,Britannia
+302,Disaster,Fire,Germania,North Germania
+303,Disaster,Plague,Rome,Gallia
+303,Omen,Moon Turns Red,Persia,Outer Persia
+303,Disaster,Famine,Persia,Outer Persia
+303,Omen,Moon Turns Red,Germania,North Germania
+303,Disaster,Pillaged By Persia,Germania,North Germania
+304,Omen,Three-Headed Baby,Rome,Italia
+304,Omen,Three-Headed Baby,Rome,Grecia
+304,Disaster,Plague,Persia,Outer Persia
+304,Omen,Moon Turns Red,Britannia,Britannia
+304,Disaster,Plague,Britannia,Britannia
+304,Omen,Geese Flying Backwards,Germania,South Germania
+304,Disaster,Plague,Germania,South Germania
+305,Disaster,Fire,Rome,Italia
+305,Omen,Three-Headed Baby,Rome,Grecia
+305,Disaster,Fire,Rome,Grecia
+305,Disaster,Plague,Rome,Grecia
+305,Omen,Three-Headed Baby,Persia,Outer Persia
+305,Omen,Moon Turns Red,Germania,North Germania
+305,Disaster,Famine,Germania,South Germania
+306,Disaster,Plague,Rome,Italia
+306,Omen,Rivers of Blood,Rome,Grecia
+306,Disaster,Plague,Germania,North Germania
+306,Omen,Moon Turns Red,Germania,South Germania
+307,Omen,Three-Headed Baby,Persia,North Persia
+307,Omen,Three-Headed Baby,Britannia,Britannia
+308,Omen,Three-Headed Baby,Rome,Italia
+308,Disaster,Fire,Rome,Italia
+308,Omen,Geese Flying Backwards,Persia,Central Persia
+308,Omen,Rivers of Blood,Persia,North Persia
+308,Omen,Moon Turns Red,Persia,North Persia
+308,Disaster,Fire,Persia,North Persia
+309,Disaster,Pillaged By Persia,Rome,Grecia
+309,Omen,Geese Flying Backwards,Persia,Outer Persia
+309,Omen,Moon Turns Red,Persia,Outer Persia
+309,Omen,Moon Turns Red,Persia,North Persia
+309,Omen,Sun Goes Dark,Germania,North Germania
+309,Omen,Three-Headed Baby,Germania,South Germania
+310,Omen,Rivers of Blood,Persia,Central Persia
+310,Omen,Geese Flying Backwards,Persia,Outer Persia
+310,Omen,Moon Turns Red,Persia,North Persia
+311,Omen,Three-Headed Baby,Rome,Italia
+311,Omen,Rivers of Blood,Rome,Gallia
+311,Disaster,Famine,Rome,Grecia
+311,Omen,Flaming Comet,Persia,Outer Persia
+312,Omen,Rivers of Blood,Rome,Gallia
+312,Omen,Geese Flying Backwards,Persia,Outer Persia
+312,Omen,Three-Headed Baby,Britannia,Britannia
+312,Omen,Moon Turns Red,Britannia,Britannia
+313,Omen,Rivers of Blood,Rome,Gallia
+313,Omen,Moon Turns Red,Rome,Gallia
+313,Omen,Rivers of Blood,Germania,North Germania
+313,Omen,Moon Turns Red,Germania,North Germania
+314,Omen,Geese Flying Backwards,Rome,Italia
+314,Disaster,Fire,Rome,Gallia
+314,Omen,Geese Flying Backwards,Persia,Central Persia
+314,Omen,Geese Flying Backwards,Persia,Outer Persia
+314,Omen,Flaming Comet,Britannia,Britannia
+314,Disaster,Fire,Britannia,Britannia
+314,Disaster,Pillaged By Rome,Britannia,Britannia
+314,Disaster,Pillaged By Germania,Britannia,Britannia
+314,Omen,Rivers of Blood,Germania,North Germania
+314,Disaster,Plague,Germania,North Germania
+314,Disaster,Pillaged By Persia,Germania,North Germania
+314,Omen,Moon Turns Red,Germania,South Germania
+315,Disaster,Famine,Rome,Grecia
+315,Disaster,Fire,Persia,Outer Persia
+315,Disaster,Earthquake,Persia,North Persia
+315,Disaster,Plague,Persia,North Persia
+315,Disaster,Earthquake,Germania,South Germania
+315,Disaster,Plague,Germania,South Germania
+316,Omen,Geese Flying Backwards,Rome,Italia
+316,Disaster,Plague,Rome,Italia
+316,Omen,Black Dove,Rome,Grecia
+316,Omen,Black Dove,Persia,Central Persia
+316,Disaster,Plague,Persia,Central Persia
+316,Disaster,Famine,Persia,Outer Persia
+316,Omen,Rivers of Blood,Persia,North Persia
+316,Omen,Rivers of Blood,Britannia,Britannia
+316,Omen,Black Dove,Britannia,Britannia
+317,Omen,Geese Flying Backwards,Rome,Italia
+317,Disaster,Plague,Rome,Gallia
+317,Disaster,Plague,Rome,Grecia
+317,Disaster,Pillaged By Britannia,Germania,North Germania
+318,Disaster,Famine,Rome,Italia
+318,Disaster,Pillaged By Britannia,Rome,Gallia
+318,Omen,Geese Flying Backwards,Rome,Grecia
+318,Disaster,Plague,Britannia,Britannia
+319,Omen,Moon Turns Red,Persia,Outer Persia
+320,Omen,Moon Turns Red,Rome,Italia
+320,Omen,Geese Flying Backwards,Rome,Gallia
+320,Omen,Rivers of Blood,Persia,Outer Persia
+320,Disaster,Plague,Persia,Outer Persia
+320,Disaster,Pillaged By Germania,Persia,North Persia
+321,Disaster,Famine,Rome,Gallia
+321,Omen,Moon Turns Red,Germania,South Germania
+323,Omen,Geese Flying Backwards,Rome,Grecia
+323,Omen,Moon Turns Red,Persia,North Persia
+323,Omen,Rivers of Blood,Germania,North Germania
+324,Disaster,Famine,Rome,Grecia
+324,Omen,Geese Flying Backwards,Persia,Central Persia
+324,Omen,Geese Flying Backwards,Persia,North Persia
+325,Omen,Geese Flying Backwards,Rome,Italia
+325,Omen,Geese Flying Backwards,Persia,Central Persia
+325,Omen,Geese Flying Backwards,Persia,North Persia
+326,Omen,Geese Flying Backwards,Persia,Central Persia
+326,Omen,Geese Flying Backwards,Britannia,Britannia
+327,Omen,Geese Flying Backwards,Rome,Italia
+327,Disaster,Famine,Persia,Central Persia
+327,Omen,Three-Headed Baby,Britannia,Britannia
+328,Omen,Rivers of Blood,Rome,Gallia
+329,Omen,Flaming Comet,Rome,Italia
+329,Disaster,Pillaged By Britannia,Rome,Gallia
+329,Disaster,Fire,Persia,North Persia
+329,Omen,Moon Turns Red,Germania,North Germania
+329,Disaster,Pillaged By Persia,Germania,North Germania
+330,Omen,Geese Flying Backwards,Rome,Gallia
+330,Disaster,Famine,Britannia,Britannia
+330,Disaster,Plague,Germania,North Germania
+331,Disaster,Fire,Persia,Outer Persia
+332,Omen,Moon Turns Red,Rome,Gallia
+332,Omen,Rivers of Blood,Persia,Central Persia
+332,Omen,Geese Flying Backwards,Persia,Central Persia
+332,Omen,Rivers of Blood,Persia,Outer Persia
+332,Omen,Geese Flying Backwards,Britannia,Britannia
+333,Disaster,Plague,Rome,Gallia
+333,Omen,Three-Headed Baby,Persia,Central Persia
+333,Disaster,Famine,Britannia,Britannia
+334,Disaster,Plague,Rome,Italia
+334,Disaster,Pillaged By Persia,Rome,Grecia
+334,Omen,Geese Flying Backwards,Persia,Central Persia
+334,Disaster,Plague,Britannia,Britannia
+334,Omen,Geese Flying Backwards,Germania,North Germania
+334,Omen,Moon Turns Red,Germania,South Germania
+335,Omen,Rivers of Blood,Rome,Grecia
+335,Disaster,Plague,Rome,Grecia
+335,Omen,Geese Flying Backwards,Persia,North Persia
+335,Omen,Three-Headed Baby,Germania,South Germania
+335,Disaster,Plague,Germania,South Germania
+336,Disaster,Pillaged By Britannia,Rome,Gallia
+336,Disaster,Famine,Persia,North Persia
+336,Disaster,Famine,Britannia,Britannia
+337,Omen,Moon Turns Red,Persia,North Persia
+337,Disaster,Fire,Britannia,Britannia
+337,Omen,Geese Flying Backwards,Germania,North Germania
+338,Omen,Moon Turns Red,Persia,Central Persia
+338,Disaster,Fire,Persia,Outer Persia
+338,Omen,Rivers of Blood,Germania,South Germania
+339,Disaster,Pillaged By Persia,Rome,Grecia
+339,Omen,Geese Flying Backwards,Persia,North Persia
+339,Disaster,Pillaged By Germania,Britannia,Britannia
+339,Disaster,Pillaged By Persia,Germania,North Germania
+340,Omen,Three-Headed Baby,Persia,Central Persia
+340,Omen,Sun Goes Dark,Persia,Central Persia
+340,Disaster,Fire,Persia,Central Persia
+340,Omen,Rivers of Blood,Germania,South Germania
+341,Omen,Rivers of Blood,Rome,Grecia
+342,Omen,Rivers of Blood,Rome,Italia
+343,Disaster,Fire,Germania,North Germania
+345,Omen,Rivers of Blood,Rome,Italia
+346,Omen,Geese Flying Backwards,Rome,Italia
+346,Omen,Three-Headed Baby,Persia,Central Persia
+346,Disaster,Pillaged By Persia,Germania,North Germania
+347,Omen,Geese Flying Backwards,Rome,Italia
+348,Disaster,Famine,Rome,Italia
+348,Omen,Three-Headed Baby,Rome,Grecia
+348,Omen,Rivers of Blood,Rome,Grecia
+348,Omen,Rivers of Blood,Persia,Outer Persia
+348,Omen,Moon Turns Red,Britannia,Britannia
+349,Omen,Rivers of Blood,Rome,Italia
+349,Disaster,Fire,Rome,Grecia
+349,Disaster,Famine,Persia,Outer Persia
+349,Omen,Geese Flying Backwards,Persia,North Persia
+349,Omen,Moon Turns Red,Persia,North Persia
+349,Disaster,Plague,Britannia,Britannia
+349,Omen,Geese Flying Backwards,Germania,North Germania
+350,Omen,Rivers of Blood,Rome,Italia
+350,Disaster,Plague,Rome,Gallia
+350,Disaster,Fire,Persia,Central Persia
+350,Omen,Geese Flying Backwards,Persia,Outer Persia
+350,Disaster,Plague,Germania,North Germania
+351,Omen,Rivers of Blood,Rome,Grecia
+351,Disaster,Famine,Persia,Outer Persia
+351,Omen,Geese Flying Backwards,Persia,North Persia
+351,Disaster,Pillaged By Britannia,Germania,North Germania
+351,Disaster,Plague,Germania,South Germania
+352,Disaster,Plague,Rome,Italia
+352,Disaster,Famine,Persia,North Persia
+352,Disaster,Fire,Britannia,Britannia
+353,Disaster,Fire,Rome,Italia
+353,Omen,Moon Turns Red,Rome,Gallia
+353,Omen,Moon Turns Red,Persia,Central Persia
+354,Omen,Rivers of Blood,Rome,Gallia
+354,Omen,Three-Headed Baby,Rome,Grecia
+354,Omen,Geese Flying Backwards,Persia,Outer Persia
+354,Omen,Moon Turns Red,Persia,North Persia
+355,Omen,Geese Flying Backwards,Persia,Outer Persia
+355,Disaster,Pillaged By Rome,Persia,Outer Persia
+355,Omen,Geese Flying Backwards,Persia,North Persia
+357,Omen,Three-Headed Baby,Rome,Grecia
+357,Disaster,Famine,Persia,Outer Persia
+357,Disaster,Famine,Persia,North Persia
+357,Omen,Moon Turns Red,Britannia,Britannia
+357,Disaster,Pillaged By Rome,Germania,South Germania
+358,Omen,Three-Headed Baby,Germania,South Germania
+359,Omen,Rivers of Blood,Persia,North Persia
+360,Omen,Rivers of Blood,Rome,Gallia
+360,Omen,Geese Flying Backwards,Rome,Gallia
+360,Omen,Moon Turns Red,Rome,Grecia
+360,Omen,Moon Turns Red,Persia,Central Persia
+360,Omen,Three-Headed Baby,Germania,North Germania
+361,Omen,Three-Headed Baby,Rome,Italia
+361,Omen,Rivers of Blood,Rome,Gallia
+361,Omen,Geese Flying Backwards,Rome,Gallia
+361,Omen,Moon Turns Red,Persia,Central Persia
+361,Disaster,Pillaged By Rome,Britannia,Britannia
+362,Omen,Moon Turns Red,Rome,Gallia
+363,Disaster,Fire,Rome,Grecia
+363,Omen,Rivers of Blood,Britannia,Britannia
+363,Omen,Rivers of Blood,Germania,North Germania
+364,Omen,Rivers of Blood,Persia,Central Persia
+364,Omen,Geese Flying Backwards,Persia,Central Persia
+364,Omen,Three-Headed Baby,Persia,Outer Persia
+364,Disaster,Pillaged By Britannia,Germania,North Germania
+365,Disaster,Famine,Rome,Gallia
+365,Omen,Three-Headed Baby,Persia,Outer Persia
+365,Disaster,Fire,Persia,North Persia
+366,Omen,Rivers of Blood,Rome,Italia
+366,Disaster,Famine,Rome,Italia
+366,Omen,Three-Headed Baby,Persia,Central Persia
+366,Omen,Geese Flying Backwards,Persia,Central Persia
+366,Disaster,Fire,Britannia,Britannia
+366,Omen,Geese Flying Backwards,Germania,South Germania
+367,Omen,Rivers of Blood,Britannia,Britannia
+368,Omen,Rivers of Blood,Rome,Italia
+368,Omen,Geese Flying Backwards,Rome,Italia
+368,Disaster,Fire,Persia,Outer Persia
+369,Disaster,Famine,Rome,Italia
+369,Omen,Three-Headed Baby,Persia,Central Persia
+369,Omen,Geese Flying Backwards,Persia,Central Persia
+369,Omen,Geese Flying Backwards,Persia,Outer Persia
+369,Disaster,Pillaged By Germania,Persia,North Persia
+370,Omen,Rivers of Blood,Rome,Italia
+370,Omen,Geese Flying Backwards,Persia,Central Persia
+370,Omen,Three-Headed Baby,Persia,Outer Persia
+370,Omen,Geese Flying Backwards,Persia,Outer Persia
+370,Omen,Three-Headed Baby,Persia,North Persia
+370,Omen,Moon Turns Red,Persia,North Persia
+370,Omen,Moon Turns Red,Britannia,Britannia
+370,Omen,Rivers of Blood,Germania,North Germania
+371,Disaster,Famine,Persia,Central Persia
+371,Disaster,Famine,Persia,Outer Persia
+371,Disaster,Plague,Persia,North Persia
+372,Disaster,Fire,Germania,North Germania
+372,Omen,Three-Headed Baby,Germania,South Germania
+372,Disaster,Fire,Germania,South Germania
+373,Omen,Geese Flying Backwards,Persia,Central Persia
+373,Omen,Moon Turns Red,Britannia,Britannia
+374,Disaster,Fire,Rome,Gallia
+374,Omen,Geese Flying Backwards,Persia,Central Persia
+374,Disaster,Fire,Persia,Outer Persia
+374,Omen,Rivers of Blood,Persia,North Persia
+374,Omen,Geese Flying Backwards,Germania,South Germania
+374,Disaster,Pillaged By Rome,Germania,South Germania
+375,Omen,Geese Flying Backwards,Germania,South Germania
+376,Omen,Moon Turns Red,Rome,Gallia
+376,Omen,Geese Flying Backwards,Persia,Central Persia
+376,Disaster,Fire,Britannia,Britannia
+376,Omen,Geese Flying Backwards,Germania,South Germania
+376,Omen,Moon Turns Red,Germania,South Germania
+377,Omen,Rivers of Blood,Persia,Central Persia
+377,Omen,Moon Turns Red,Persia,North Persia
+377,Disaster,Pillaged By Rome,Britannia,Britannia
+378,Omen,Moon Turns Red,Persia,Central Persia
+378,Disaster,Plague,Persia,North Persia
+378,Disaster,Famine,Germania,South Germania
+379,Disaster,Fire,Rome,Italia
+379,Omen,Three-Headed Baby,Rome,Grecia
+379,Omen,Moon Turns Red,Persia,Central Persia
+379,Omen,Rivers of Blood,Persia,Outer Persia
+379,Omen,Geese Flying Backwards,Persia,Outer Persia
+380,Disaster,Plague,Persia,Central Persia
+380,Omen,Sun Goes Dark,Britannia,Britannia
+381,Omen,Geese Flying Backwards,Germania,South Germania
+382,Omen,Rivers of Blood,Britannia,Britannia
+383,Omen,Three-Headed Baby,Persia,Central Persia
+383,Disaster,Pillaged By Rome,Britannia,Britannia
+383,Omen,Geese Flying Backwards,Germania,South Germania
+384,Disaster,Pillaged By Rome,Britannia,Britannia
+384,Disaster,Famine,Germania,South Germania
+385,Omen,Moon Turns Red,Rome,Italia
+385,Omen,Black Dove,Rome,Grecia
+385,Omen,Black Dove,Persia,Central Persia
+385,Omen,Black Dove,Persia,Outer Persia
+385,Omen,Rivers of Blood,Persia,North Persia
+385,Omen,Geese Flying Backwards,Persia,North Persia
+385,Omen,Black Dove,Persia,North Persia
+385,Disaster,Fire,Britannia,Britannia
+385,Omen,Black Dove,Germania,North Germania
+385,Omen,Black Dove,Germania,South Germania
+386,Omen,Rivers of Blood,Persia,Central Persia
+386,Disaster,Fire,Persia,Outer Persia
+386,Omen,Geese Flying Backwards,Persia,North Persia
+386,Disaster,Fire,Persia,North Persia
+386,Omen,Moon Turns Red,Britannia,Britannia
+386,Disaster,Pillaged By Persia,Germania,North Germania
+386,Omen,Moon Turns Red,Germania,South Germania
+387,Omen,Rivers of Blood,Rome,Gallia
+387,Disaster,Fire,Rome,Gallia
+387,Omen,Moon Turns Red,Persia,North Persia
+387,Omen,Rivers of Blood,Britannia,Britannia
+387,Disaster,Pillaged By Germania,Britannia,Britannia
+387,Disaster,Famine,Germania,South Germania
+388,Omen,Geese Flying Backwards,Persia,North Persia
+388,Omen,Three-Headed Baby,Germania,North Germania
+388,Omen,Geese Flying Backwards,Germania,South Germania
+388,Omen,Moon Turns Red,Germania,South Germania
+389,Omen,Moon Turns Red,Britannia,Britannia
+389,Omen,Geese Flying Backwards,Germania,North Germania
+390,Omen,Geese Flying Backwards,Persia,Central Persia
+390,Disaster,Plague,Britannia,Britannia
+390,Omen,Geese Flying Backwards,Germania,North Germania
+391,Disaster,Famine,Persia,Outer Persia
+391,Omen,Geese Flying Backwards,Germania,North Germania
+391,Disaster,Plague,Germania,North Germania
+392,Omen,Sun Goes Dark,Rome,Italia
+392,Omen,Geese Flying Backwards,Persia,Central Persia
+392,Omen,Moon Turns Red,Persia,Central Persia
+392,Omen,Rivers of Blood,Persia,North Persia
+392,Disaster,Famine,Germania,North Germania
+393,Omen,Three-Headed Baby,Rome,Italia
+393,Omen,Moon Turns Red,Persia,Central Persia
+393,Disaster,Fire,Persia,Central Persia
+393,Disaster,Pillaged By Rome,Britannia,Britannia
+393,Omen,Rivers of Blood,Germania,North Germania
+394,Omen,Geese Flying Backwards,Persia,Central Persia
+394,Omen,Geese Flying Backwards,Persia,Outer Persia
+394,Disaster,Fire,Persia,North Persia
+394,Omen,Moon Turns Red,Germania,North Germania
+397,Omen,Three-Headed Baby,Rome,Italia
+397,Omen,Rivers of Blood,Rome,Gallia
+397,Omen,Three-Headed Baby,Persia,Outer Persia
+398,Omen,Three-Headed Baby,Rome,Italia
+398,Omen,Moon Turns Red,Rome,Gallia
+398,Omen,Three-Headed Baby,Persia,Central Persia
+398,Omen,Rivers of Blood,Germania,North Germania
+399,Disaster,Plague,Rome,Gallia
+399,Disaster,Famine,Persia,Outer Persia
+399,Omen,Rivers of Blood,Britannia,Britannia
+399,Disaster,Pillaged By Germania,Britannia,Britannia
+400,Omen,Three-Headed Baby,Rome,Grecia
+400,Disaster,Plague,Britannia,Britannia
+400,Omen,Moon Turns Red,Germania,South Germania
+401,Disaster,Fire,Rome,Italia
+401,Disaster,Plague,Germania,North Germania
+402,Omen,Three-Headed Baby,Rome,Grecia
+402,Omen,Geese Flying Backwards,Persia,Outer Persia
+403,Disaster,Fire,Rome,Grecia
+403,Omen,Moon Turns Red,Persia,Central Persia
+404,Omen,Rivers of Blood,Rome,Grecia
+404,Omen,Geese Flying Backwards,Persia,Central Persia
+404,Disaster,Plague,Persia,Central Persia
+404,Disaster,Pillaged By Persia,Germania,North Germania
+405,Omen,Rivers of Blood,Rome,Italia
+405,Omen,Flaming Comet,Persia,Central Persia
+405,Omen,Three-Headed Baby,Persia,North Persia
+405,Disaster,Plague,Persia,North Persia
+406,Omen,Moon Turns Red,Rome,Grecia
+407,Omen,Black Dove,Rome,Italia
+407,Omen,Black Dove,Rome,Gallia
+407,Disaster,Famine,Rome,Grecia
+407,Omen,Black Dove,Persia,North Persia
+407,Omen,Geese Flying Backwards,Britannia,Britannia
+407,Omen,Black Dove,Britannia,Britannia
+407,Disaster,Pillaged By Rome,Britannia,Britannia
+407,Omen,Black Dove,Germania,North Germania
+407,Disaster,Fire,Germania,South Germania
+408,Omen,Three-Headed Baby,Rome,Gallia
+408,Omen,Geese Flying Backwards,Rome,Grecia
+408,Disaster,Famine,Britannia,Britannia
+409,Omen,Rivers of Blood,Rome,Italia
+409,Omen,Rivers of Blood,Britannia,Britannia
+409,Omen,Flaming Comet,Britannia,Britannia
+409,Disaster,Pillaged By Germania,Britannia,Britannia
+410,Omen,Rivers of Blood,Rome,Italia
+410,Disaster,Famine,Rome,Grecia
+410,Disaster,Fire,Persia,Central Persia
+410,Omen,Three-Headed Baby,Germania,North Germania
+410,Disaster,Pillaged By Persia,Germania,North Germania
+410,Omen,Rivers of Blood,Germania,South Germania
+411,Omen,Rivers of Blood,Germania,South Germania
+412,Omen,Rivers of Blood,Rome,Italia
+412,Omen,Black Dove,Rome,Gallia
+412,Omen,Geese Flying Backwards,Rome,Grecia
+412,Omen,Black Dove,Rome,Grecia
+412,Omen,Black Dove,Persia,Outer Persia
+413,Disaster,Fire,Rome,Italia
+413,Omen,Three-Headed Baby,Rome,Gallia
+413,Omen,Rivers of Blood,Rome,Gallia
+413,Omen,Geese Flying Backwards,Rome,Grecia
+413,Disaster,Fire,Rome,Grecia
+413,Omen,Three-Headed Baby,Persia,Outer Persia
+413,Omen,Three-Headed Baby,Germania,North Germania
+414,Omen,Rivers of Blood,Rome,Italia
+414,Omen,Geese Flying Backwards,Persia,Outer Persia
+414,Omen,Moon Turns Red,Britannia,Britannia
+415,Disaster,Pillaged By Britannia,Rome,Gallia
+415,Omen,Geese Flying Backwards,Persia,Outer Persia
+416,Omen,Three-Headed Baby,Britannia,Britannia
+417,Omen,Moon Turns Red,Persia,Central Persia
+417,Disaster,Fire,Persia,Central Persia
+417,Omen,Geese Flying Backwards,Persia,Outer Persia
+418,Omen,Three-Headed Baby,Rome,Italia
+418,Disaster,Fire,Rome,Grecia
+418,Disaster,Plague,Persia,Central Persia
+418,Disaster,Famine,Persia,Outer Persia
+418,Omen,Three-Headed Baby,Persia,North Persia
+418,Disaster,Fire,Persia,North Persia
+419,Omen,Moon Turns Red,Persia,Central Persia
+419,Disaster,Plague,Persia,Outer Persia
+419,Disaster,Plague,Persia,North Persia
+419,Omen,Flaming Comet,Germania,South Germania
+420,Disaster,Fire,Rome,Gallia
+421,Omen,Moon Turns Red,Persia,North Persia
+421,Disaster,Fire,Germania,South Germania
+422,Omen,Moon Turns Red,Rome,Gallia
+422,Omen,Sun Goes Dark,Britannia,Britannia
+423,Omen,Moon Turns Red,Rome,Gallia
+423,Disaster,Plague,Rome,Gallia
+424,Omen,Moon Turns Red,Rome,Italia
+424,Disaster,Plague,Rome,Italia
+424,Disaster,Plague,Britannia,Britannia
+424,Disaster,Plague,Germania,South Germania
+425,Omen,Rivers of Blood,Rome,Italia
+426,Omen,Geese Flying Backwards,Rome,Grecia
+426,Disaster,Pillaged By Persia,Rome,Grecia
+426,Omen,Rivers of Blood,Persia,North Persia
+426,Disaster,Pillaged By Persia,Germania,North Germania
+426,Omen,Moon Turns Red,Germania,South Germania
+427,Disaster,Famine,Rome,Grecia
+427,Omen,Moon Turns Red,Persia,Central Persia
+427,Omen,Moon Turns Red,Persia,Outer Persia
+428,Disaster,Pillaged By Germania,Rome,Gallia
+428,Omen,Geese Flying Backwards,Rome,Grecia
+428,Disaster,Fire,Persia,Central Persia
+428,Disaster,Fire,Persia,Outer Persia
+428,Disaster,Plague,Persia,Outer Persia
+428,Disaster,Fire,Germania,North Germania
+429,Disaster,Earthquake,Rome,Grecia
+429,Omen,Rivers of Blood,Persia,Central Persia
+429,Disaster,Earthquake,Persia,Central Persia
+430,Omen,Three-Headed Baby,Rome,Grecia
+430,Omen,Rivers of Blood,Britannia,Britannia
+431,Omen,Geese Flying Backwards,Rome,Grecia
+432,Omen,Rivers of Blood,Rome,Grecia
+433,Omen,Geese Flying Backwards,Rome,Grecia
+433,Disaster,Fire,Persia,Central Persia
+433,Disaster,Pillaged By Rome,Persia,Outer Persia
+433,Disaster,Fire,Persia,North Persia
+434,Disaster,Pillaged By Germania,Rome,Italia
+434,Disaster,Fire,Britannia,Britannia
+435,Disaster,Fire,Rome,Italia
+435,Omen,Moon Turns Red,Persia,Central Persia
+436,Omen,Rivers of Blood,Rome,Italia
+436,Omen,Rivers of Blood,Rome,Gallia
+436,Omen,Geese Flying Backwards,Rome,Grecia
+436,Disaster,Plague,Persia,Central Persia
+436,Disaster,Pillaged By Germania,Britannia,Britannia
+437,Omen,Rivers of Blood,Persia,Outer Persia
+437,Disaster,Fire,Persia,Outer Persia
+437,Disaster,Plague,Persia,Outer Persia
+437,Disaster,Plague,Persia,North Persia
+437,Disaster,Pillaged By Germania,Persia,North Persia
+437,Disaster,Pillaged By Rome,Britannia,Britannia
+437,Omen,Geese Flying Backwards,Germania,North Germania
+438,Omen,Geese Flying Backwards,Rome,Gallia
+438,Disaster,Earthquake,Rome,Grecia
+438,Omen,Rivers of Blood,Persia,Outer Persia
+438,Omen,Rivers of Blood,Britannia,Britannia
+438,Disaster,Famine,Germania,North Germania
+438,Disaster,Plague,Germania,North Germania
+439,Omen,Geese Flying Backwards,Rome,Gallia
+439,Omen,Geese Flying Backwards,Persia,North Persia
+439,Disaster,Plague,Britannia,Britannia
+439,Disaster,Plague,Germania,South Germania
+440,Omen,Rivers of Blood,Rome,Italia
+440,Disaster,Famine,Germania,South Germania
+441,Omen,Three-Headed Baby,Rome,Italia
+441,Omen,Geese Flying Backwards,Rome,Grecia
+442,Omen,Geese Flying Backwards,Rome,Grecia
+443,Omen,Three-Headed Baby,Rome,Italia
+443,Omen,Rivers of Blood,Rome,Gallia
+443,Omen,Three-Headed Baby,Rome,Grecia
+443,Disaster,Famine,Rome,Grecia
+444,Omen,Rivers of Blood,Rome,Gallia
+444,Disaster,Pillaged By Rome,Britannia,Britannia
+444,Omen,Rivers of Blood,Germania,North Germania
+445,Disaster,Fire,Rome,Gallia
+445,Disaster,Pillaged By Germania,Rome,Gallia
+445,Omen,Geese Flying Backwards,Persia,North Persia
+445,Disaster,Pillaged By Germania,Britannia,Britannia
+445,Omen,Moon Turns Red,Germania,South Germania
+445,Disaster,Fire,Germania,South Germania
+446,Disaster,Earthquake,Rome,Italia
+446,Omen,Moon Turns Red,Rome,Grecia
+446,Omen,Three-Headed Baby,Persia,Outer Persia
+446,Omen,Rivers of Blood,Britannia,Britannia
+446,Omen,Rivers of Blood,Germania,North Germania
+446,Disaster,Earthquake,Germania,South Germania
+447,Disaster,Pillaged By Britannia,Rome,Gallia
+447,Omen,Rivers of Blood,Rome,Grecia
+447,Omen,Moon Turns Red,Persia,North Persia
+447,Disaster,Famine,Persia,North Persia
+448,Disaster,Pillaged By Britannia,Rome,Gallia
+448,Omen,Rivers of Blood,Persia,Central Persia
+448,Disaster,Plague,Persia,North Persia
+449,Omen,Geese Flying Backwards,Rome,Gallia
+449,Omen,Moon Turns Red,Rome,Gallia
+449,Omen,Moon Turns Red,Persia,Outer Persia
+450,Omen,Flaming Comet,Rome,Gallia
+450,Disaster,Famine,Rome,Gallia
+450,Disaster,Plague,Persia,Outer Persia
+450,Omen,Moon Turns Red,Germania,South Germania
+451,Omen,Geese Flying Backwards,Rome,Gallia
+451,Disaster,Plague,Persia,Central Persia
+454,Disaster,Famine,Rome,Gallia
+454,Disaster,Fire,Rome,Grecia
+455,Omen,Black Dove,Rome,Italia
+455,Omen,Black Dove,Rome,Grecia
+455,Omen,Black Dove,Persia,Central Persia
+455,Disaster,Fire,Britannia,Britannia
+455,Omen,Black Dove,Germania,North Germania
+456,Omen,Three-Headed Baby,Rome,Italia
+456,Disaster,Fire,Germania,North Germania
+457,Omen,Moon Turns Red,Rome,Grecia
+457,Omen,Rivers of Blood,Britannia,Britannia
+457,Disaster,Pillaged By Germania,Britannia,Britannia
+457,Omen,Three-Headed Baby,Germania,North Germania
+458,Omen,Three-Headed Baby,Persia,Outer Persia
+458,Omen,Moon Turns Red,Germania,North Germania
+459,Omen,Rivers of Blood,Rome,Italia
+459,Omen,Moon Turns Red,Rome,Italia
+459,Omen,Sun Goes Dark,Rome,Italia
+459,Disaster,Fire,Persia,Central Persia
+459,Omen,Moon Turns Red,Britannia,Britannia
+460,Disaster,Famine,Rome,Gallia
+460,Disaster,Pillaged By Persia,Germania,North Germania
+461,Omen,Flaming Comet,Rome,Italia
+461,Omen,Moon Turns Red,Rome,Grecia
+461,Disaster,Famine,Persia,North Persia
+461,Omen,Three-Headed Baby,Germania,South Germania
+461,Omen,Rivers of Blood,Germania,South Germania
+462,Disaster,Famine,Rome,Gallia
+462,Disaster,Plague,Rome,Grecia
+462,Omen,Geese Flying Backwards,Germania,South Germania
+463,Disaster,Plague,Rome,Italia
+463,Omen,Rivers of Blood,Rome,Gallia
+463,Omen,Moon Turns Red,Persia,Central Persia
+463,Disaster,Plague,Persia,Outer Persia
+463,Disaster,Pillaged By Germania,Persia,North Persia
+463,Omen,Flaming Comet,Britannia,Britannia
+464,Omen,Moon Turns Red,Rome,Gallia
+464,Disaster,Plague,Rome,Gallia
+464,Disaster,Plague,Germania,South Germania
+465,Omen,Rivers of Blood,Persia,North Persia
+465,Disaster,Plague,Britannia,Britannia
+465,Omen,Sun Goes Dark,Germania,North Germania
+465,Disaster,Plague,Germania,North Germania
+466,Omen,Three-Headed Baby,Persia,Central Persia
+466,Omen,Moon Turns Red,Persia,Central Persia
+466,Omen,Moon Turns Red,Persia,North Persia
+466,Omen,Rivers of Blood,Britannia,Britannia
+467,Omen,Three-Headed Baby,Rome,Gallia
+467,Disaster,Pillaged By Britannia,Rome,Gallia
+467,Omen,Sun Goes Dark,Persia,Central Persia
+467,Omen,Rivers of Blood,Persia,Outer Persia
+469,Disaster,Pillaged By Persia,Germania,North Germania
+472,Omen,Three-Headed Baby,Persia,Central Persia
+472,Disaster,Famine,Germania,South Germania
+473,Disaster,Fire,Persia,Central Persia
+473,Omen,Flaming Comet,Germania,North Germania
+473,Disaster,Fire,Germania,North Germania
+474,Omen,Three-Headed Baby,Rome,Gallia
+475,Omen,Rivers of Blood,Rome,Italia
+475,Omen,Three-Headed Baby,Rome,Gallia
+475,Omen,Moon Turns Red,Persia,North Persia
+476,Disaster,Plague,Persia,North Persia
+477,Omen,Moon Turns Red,Rome,Gallia
+477,Disaster,Plague,Persia,Central Persia
+477,Omen,Moon Turns Red,Germania,South Germania
+477,Disaster,Pillaged By Rome,Germania,South Germania
+478,Omen,Moon Turns Red,Rome,Italia
+478,Omen,Three-Headed Baby,Persia,Outer Persia
+479,Disaster,Pillaged By Rome,Persia,Outer Persia
+479,Omen,Rivers of Blood,Persia,North Persia
+479,Disaster,Pillaged By Rome,Britannia,Britannia
+479,Omen,Rivers of Blood,Germania,North Germania
+480,Omen,Moon Turns Red,Rome,Grecia
+482,Omen,Three-Headed Baby,Rome,Grecia
+482,Omen,Rivers of Blood,Britannia,Britannia
+483,Omen,Sun Goes Dark,Germania,North Germania
+483,Disaster,Fire,Germania,North Germania
+484,Omen,Moon Turns Red,Rome,Italia
+484,Omen,Three-Headed Baby,Rome,Gallia
+484,Omen,Geese Flying Backwards,Germania,North Germania
+485,Omen,Black Dove,Rome,Italia
+485,Omen,Black Dove,Rome,Gallia
+485,Omen,Black Dove,Britannia,Britannia
+485,Omen,Geese Flying Backwards,Germania,South Germania
+486,Disaster,Fire,Rome,Italia
+486,Omen,Three-Headed Baby,Rome,Gallia
+486,Omen,Rivers of Blood,Persia,North Persia
+486,Omen,Moon Turns Red,Germania,North Germania
+486,Disaster,Famine,Germania,North Germania
+487,Omen,Rivers of Blood,Rome,Italia
+487,Omen,Rivers of Blood,Persia,North Persia
+487,Disaster,Pillaged By Persia,Germania,North Germania
+489,Omen,Black Dove,Rome,Italia
+489,Omen,Black Dove,Rome,Gallia
+489,Disaster,Fire,Rome,Gallia
+489,Omen,Rivers of Blood,Persia,Central Persia
+489,Omen,Black Dove,Persia,Outer Persia
+489,Omen,Black Dove,Germania,North Germania
+489,Omen,Black Dove,Germania,South Germania
+490,Omen,Geese Flying Backwards,Germania,South Germania
+490,Disaster,Fire,Germania,South Germania
+491,Disaster,Fire,Persia,Central Persia
+491,Omen,Rivers of Blood,Persia,Outer Persia
+491,Omen,Geese Flying Backwards,Germania,South Germania
+491,Disaster,Pillaged By Rome,Germania,South Germania
+492,Disaster,Fire,Britannia,Britannia
+492,Disaster,Pillaged By Britannia,Germania,North Germania
+492,Omen,Geese Flying Backwards,Germania,South Germania
+493,Omen,Geese Flying Backwards,Britannia,Britannia
+493,Omen,Rivers of Blood,Germania,North Germania
+493,Omen,Geese Flying Backwards,Germania,South Germania
+493,Disaster,Pillaged By Rome,Germania,South Germania
+494,Omen,Three-Headed Baby,Rome,Grecia
+494,Omen,Moon Turns Red,Persia,Outer Persia
+494,Omen,Rivers of Blood,Britannia,Britannia
+494,Omen,Three-Headed Baby,Germania,North Germania
+494,Omen,Geese Flying Backwards,Germania,South Germania
+495,Disaster,Fire,Rome,Grecia
+495,Omen,Geese Flying Backwards,Britannia,Britannia
+495,Omen,Three-Headed Baby,Germania,North Germania
+496,Disaster,Fire,Persia,North Persia
+496,Omen,Geese Flying Backwards,Britannia,Britannia
+497,Disaster,Fire,Persia,Outer Persia
+497,Omen,Geese Flying Backwards,Persia,North Persia
+497,Disaster,Famine,Germania,South Germania
+498,Disaster,Fire,Rome,Italia
+498,Omen,Geese Flying Backwards,Persia,North Persia
+499,Disaster,Fire,Rome,Gallia
+499,Disaster,Pillaged By Rome,Persia,Outer Persia
+499,Omen,Geese Flying Backwards,Persia,North Persia
+500,Omen,Geese Flying Backwards,Persia,North Persia
+500,Omen,Geese Flying Backwards,Germania,North Germania
+500,Omen,Rivers of Blood,Germania,South Germania
+501,Omen,Geese Flying Backwards,Germania,North Germania
+501,Disaster,Pillaged By Britannia,Germania,North Germania
+502,Omen,Geese Flying Backwards,Rome,Italia
+502,Omen,Rivers of Blood,Rome,Grecia
+502,Omen,Geese Flying Backwards,Persia,North Persia
+502,Disaster,Fire,Britannia,Britannia
+503,Disaster,Famine,Rome,Italia
+503,Omen,Three-Headed Baby,Germania,North Germania
+504,Disaster,Fire,Persia,Central Persia
+504,Disaster,Fire,Germania,North Germania
+505,Omen,Geese Flying Backwards,Persia,North Persia
+505,Disaster,Famine,Britannia,Britannia
+505,Omen,Geese Flying Backwards,Germania,North Germania
+506,Omen,Geese Flying Backwards,Persia,North Persia
+506,Disaster,Fire,Persia,North Persia
+506,Disaster,Fire,Germania,North Germania
+507,Omen,Rivers of Blood,Persia,Outer Persia
+507,Disaster,Pillaged By Rome,Britannia,Britannia
+508,Omen,Moon Turns Red,Germania,North Germania
+508,Omen,Geese Flying Backwards,Germania,South Germania
+508,Disaster,Pillaged By Rome,Germania,South Germania
+510,Omen,Rivers of Blood,Persia,Central Persia
+510,Omen,Geese Flying Backwards,Germania,South Germania
+511,Omen,Three-Headed Baby,Rome,Gallia
+511,Omen,Moon Turns Red,Persia,North Persia
+511,Omen,Moon Turns Red,Germania,South Germania
+512,Omen,Moon Turns Red,Germania,North Germania
+512,Disaster,Famine,Germania,South Germania
+513,Disaster,Fire,Rome,Grecia
+513,Omen,Three-Headed Baby,Persia,Central Persia
+513,Disaster,Pillaged By Rome,Persia,Outer Persia
+513,Omen,Moon Turns Red,Britannia,Britannia
+514,Omen,Moon Turns Red,Persia,Outer Persia
+514,Disaster,Pillaged By Rome,Britannia,Britannia
+514,Omen,Geese Flying Backwards,Germania,South Germania
+515,Omen,Geese Flying Backwards,Rome,Grecia
+516,Omen,Geese Flying Backwards,Rome,Italia
+516,Omen,Moon Turns Red,Rome,Italia
+516,Disaster,Fire,Persia,Central Persia
+516,Omen,Geese Flying Backwards,Germania,South Germania
+517,Disaster,Famine,Rome,Italia
+517,Omen,Rivers of Blood,Rome,Gallia
+517,Omen,Three-Headed Baby,Persia,Outer Persia
+517,Disaster,Famine,Germania,South Germania
+518,Omen,Moon Turns Red,Rome,Italia
+518,Omen,Geese Flying Backwards,Rome,Grecia
+518,Disaster,Fire,Britannia,Britannia
+519,Disaster,Plague,Rome,Italia
+519,Disaster,Famine,Rome,Grecia
+519,Disaster,Fire,Germania,North Germania
+520,Omen,Three-Headed Baby,Persia,Outer Persia
+520,Omen,Moon Turns Red,Persia,North Persia
+521,Omen,Three-Headed Baby,Persia,Central Persia
+521,Disaster,Fire,Persia,Central Persia
+521,Disaster,Fire,Persia,Outer Persia
+521,Omen,Geese Flying Backwards,Germania,South Germania
+522,Disaster,Fire,Rome,Gallia
+523,Omen,Moon Turns Red,Rome,Grecia
+523,Omen,Flaming Comet,Germania,North Germania
+523,Disaster,Famine,Germania,South Germania
+524,Omen,Geese Flying Backwards,Rome,Italia
+524,Omen,Rivers of Blood,Persia,North Persia
+524,Disaster,Pillaged By Persia,Germania,North Germania
+525,Omen,Geese Flying Backwards,Rome,Italia
+525,Omen,Geese Flying Backwards,Germania,South Germania
+526,Disaster,Famine,Germania,North Germania
+527,Omen,Rivers of Blood,Rome,Italia
+527,Omen,Moon Turns Red,Rome,Italia
+527,Disaster,Famine,Rome,Italia
+527,Omen,Moon Turns Red,Rome,Gallia
+527,Disaster,Pillaged By Rome,Britannia,Britannia
+527,Omen,Sun Goes Dark,Germania,North Germania
+528,Omen,Sun Goes Dark,Rome,Italia
+528,Disaster,Plague,Rome,Italia
+528,Disaster,Plague,Rome,Gallia
+528,Omen,Rivers of Blood,Persia,Central Persia
+528,Omen,Geese Flying Backwards,Germania,North Germania
+528,Disaster,Pillaged By Britannia,Germania,North Germania
+528,Omen,Geese Flying Backwards,Germania,South Germania
+529,Disaster,Pillaged By Germania,Rome,Italia
+529,Disaster,Plague,Rome,Grecia
+529,Omen,Sun Goes Dark,Britannia,Britannia
+529,Disaster,Plague,Britannia,Britannia
+529,Omen,Moon Turns Red,Germania,North Germania
+529,Disaster,Famine,Germania,South Germania
+530,Disaster,Plague,Persia,Outer Persia
+530,Omen,Moon Turns Red,Persia,North Persia
+530,Disaster,Plague,Germania,North Germania
+531,Omen,Rivers of Blood,Persia,Central Persia
+531,Disaster,Plague,Persia,North Persia
+531,Disaster,Pillaged By Britannia,Germania,North Germania
+531,Omen,Geese Flying Backwards,Germania,South Germania
+532,Omen,Geese Flying Backwards,Rome,Grecia
+532,Disaster,Plague,Persia,Central Persia
+532,Disaster,Fire,Germania,North Germania
+532,Omen,Moon Turns Red,Germania,South Germania
+533,Omen,Three-Headed Baby,Rome,Grecia
+533,Omen,Rivers of Blood,Persia,Outer Persia
+533,Disaster,Plague,Germania,South Germania
+534,Omen,Rivers of Blood,Rome,Italia
+534,Disaster,Plague,Rome,Italia
+534,Disaster,Plague,Rome,Gallia
+534,Disaster,Famine,Rome,Grecia
+534,Omen,Moon Turns Red,Persia,Central Persia
+535,Omen,Moon Turns Red,Persia,Outer Persia
+537,Omen,Moon Turns Red,Germania,North Germania
+537,Disaster,Pillaged By Persia,Germania,North Germania
+538,Omen,Geese Flying Backwards,Rome,Grecia
+538,Disaster,Plague,Germania,North Germania
+538,Omen,Rivers of Blood,Germania,South Germania
+539,Disaster,Pillaged By Germania,Rome,Gallia
+539,Disaster,Pillaged By Persia,Rome,Grecia
+539,Omen,Moon Turns Red,Persia,Central Persia
+539,Omen,Moon Turns Red,Persia,North Persia
+539,Disaster,Plague,Persia,North Persia
+539,Omen,Three-Headed Baby,Britannia,Britannia
+539,Disaster,Plague,Britannia,Britannia
+539,Omen,Moon Turns Red,Germania,North Germania
+540,Omen,Geese Flying Backwards,Rome,Grecia
+540,Disaster,Plague,Persia,Central Persia
+541,Disaster,Fire,Rome,Italia
+541,Omen,Rivers of Blood,Rome,Gallia
+541,Disaster,Pillaged By Rome,Persia,Outer Persia
+541,Omen,Geese Flying Backwards,Persia,North Persia
+542,Omen,Geese Flying Backwards,Rome,Grecia
+542,Disaster,Famine,Persia,North Persia
+542,Disaster,Pillaged By Rome,Britannia,Britannia
+542,Disaster,Pillaged By Rome,Germania,South Germania
+543,Disaster,Famine,Rome,Grecia
+543,Omen,Moon Turns Red,Germania,North Germania
+543,Omen,Geese Flying Backwards,Germania,South Germania
+544,Disaster,Fire,Persia,Outer Persia
+544,Omen,Geese Flying Backwards,Persia,North Persia
+544,Omen,Three-Headed Baby,Britannia,Britannia
+544,Disaster,Pillaged By Germania,Britannia,Britannia
+544,Omen,Geese Flying Backwards,Germania,South Germania
+545,Disaster,Fire,Rome,Gallia
+545,Disaster,Famine,Germania,South Germania
+546,Disaster,Pillaged By Persia,Rome,Grecia
+546,Omen,Moon Turns Red,Persia,North Persia
+546,Omen,Geese Flying Backwards,Britannia,Britannia
+546,Omen,Rivers of Blood,Germania,North Germania
+547,Omen,Geese Flying Backwards,Persia,Outer Persia
+547,Omen,Geese Flying Backwards,Persia,North Persia
+548,Disaster,Fire,Rome,Italia
+548,Omen,Geese Flying Backwards,Persia,Outer Persia
+548,Disaster,Famine,Persia,North Persia
+548,Omen,Moon Turns Red,Germania,South Germania
+549,Omen,Moon Turns Red,Rome,Grecia
+549,Omen,Geese Flying Backwards,Persia,Outer Persia
+549,Disaster,Plague,Germania,South Germania
+550,Omen,Rivers of Blood,Rome,Gallia
+550,Disaster,Plague,Rome,Grecia
+550,Omen,Geese Flying Backwards,Persia,Outer Persia
+550,Disaster,Fire,Germania,North Germania
+551,Disaster,Plague,Rome,Italia
+551,Omen,Rivers of Blood,Britannia,Britannia
+551,Disaster,Pillaged By Britannia,Germania,North Germania
+552,Omen,Flaming Comet,Rome,Italia
+553,Omen,Rivers of Blood,Rome,Italia
+553,Omen,Moon Turns Red,Rome,Grecia
+553,Omen,Rivers of Blood,Persia,Outer Persia
+553,Omen,Geese Flying Backwards,Persia,North Persia
+553,Omen,Three-Headed Baby,Britannia,Britannia
+553,Omen,Rivers of Blood,Britannia,Britannia
+554,Disaster,Famine,Persia,North Persia
+554,Omen,Three-Headed Baby,Britannia,Britannia
+555,Omen,Three-Headed Baby,Persia,Central Persia
+555,Omen,Geese Flying Backwards,Persia,North Persia
+555,Omen,Moon Turns Red,Britannia,Britannia
+556,Omen,Moon Turns Red,Persia,Central Persia
+556,Omen,Flaming Comet,Persia,Outer Persia
+556,Omen,Three-Headed Baby,Germania,North Germania
+557,Omen,Moon Turns Red,Rome,Italia
+557,Disaster,Plague,Persia,Central Persia
+557,Omen,Geese Flying Backwards,Persia,North Persia
+557,Disaster,Pillaged By Germania,Britannia,Britannia
+558,Disaster,Plague,Persia,Outer Persia
+558,Disaster,Plague,Persia,North Persia
+558,Omen,Moon Turns Red,Germania,North Germania
+558,Disaster,Pillaged By Rome,Germania,South Germania
+559,Omen,Rivers of Blood,Rome,Gallia
+559,Omen,Three-Headed Baby,Rome,Grecia
+559,Disaster,Plague,Rome,Grecia
+559,Omen,Rivers of Blood,Britannia,Britannia
+559,Disaster,Plague,Germania,North Germania
+560,Omen,Rivers of Blood,Persia,Central Persia
+560,Disaster,Pillaged By Rome,Persia,Outer Persia
+561,Omen,Rivers of Blood,Rome,Gallia
+561,Omen,Three-Headed Baby,Britannia,Britannia
+562,Omen,Three-Headed Baby,Rome,Italia
+562,Disaster,Pillaged By Germania,Persia,North Persia
+563,Omen,Rivers of Blood,Persia,Central Persia
+563,Omen,Moon Turns Red,Persia,Outer Persia
+563,Omen,Moon Turns Red,Persia,North Persia
+563,Omen,Geese Flying Backwards,Germania,North Germania
+564,Omen,Geese Flying Backwards,Persia,North Persia
+564,Disaster,Plague,Persia,North Persia
+564,Disaster,Fire,Britannia,Britannia
+564,Omen,Geese Flying Backwards,Germania,North Germania
+565,Omen,Rivers of Blood,Rome,Italia
+565,Omen,Geese Flying Backwards,Persia,North Persia
+565,Omen,Geese Flying Backwards,Germania,North Germania
+565,Disaster,Plague,Germania,North Germania
+565,Omen,Moon Turns Red,Germania,South Germania
+566,Omen,Geese Flying Backwards,Rome,Italia
+566,Disaster,Plague,Britannia,Britannia
+566,Disaster,Pillaged By Rome,Britannia,Britannia
+566,Disaster,Fire,Germania,South Germania
+566,Disaster,Plague,Germania,South Germania
+566,Disaster,Pillaged By Rome,Germania,South Germania
+567,Disaster,Plague,Rome,Italia
+567,Disaster,Earthquake,Rome,Gallia
+567,Omen,Three-Headed Baby,Persia,Central Persia
+567,Omen,Moon Turns Red,Persia,North Persia
+567,Disaster,Famine,Persia,North Persia
+567,Disaster,Earthquake,Germania,South Germania
+568,Omen,Rivers of Blood,Rome,Grecia
+568,Disaster,Fire,Germania,North Germania
+569,Omen,Black Dove,Rome,Italia
+569,Omen,Black Dove,Rome,Grecia
+569,Omen,Geese Flying Backwards,Persia,Central Persia
+569,Omen,Black Dove,Persia,Outer Persia
+569,Omen,Black Dove,Britannia,Britannia
+569,Omen,Black Dove,Germania,North Germania
+569,Omen,Black Dove,Germania,South Germania
+570,Omen,Moon Turns Red,Persia,Central Persia
+570,Omen,Moon Turns Red,Britannia,Britannia
+570,Omen,Rivers of Blood,Germania,North Germania
+570,Omen,Moon Turns Red,Germania,South Germania
+571,Omen,Rivers of Blood,Rome,Grecia
+571,Disaster,Plague,Persia,Central Persia
+571,Disaster,Pillaged By Britannia,Germania,North Germania
+571,Omen,Rivers of Blood,Germania,South Germania
+572,Disaster,Plague,Persia,Outer Persia
+573,Disaster,Plague,Rome,Grecia
+575,Omen,Moon Turns Red,Persia,Outer Persia
+576,Omen,Rivers of Blood,Persia,Central Persia
+576,Disaster,Fire,Persia,Central Persia
+576,Omen,Rivers of Blood,Germania,South Germania
+577,Omen,Geese Flying Backwards,Rome,Italia
+577,Omen,Three-Headed Baby,Persia,North Persia
+578,Disaster,Famine,Rome,Italia
+578,Omen,Geese Flying Backwards,Persia,Central Persia
+579,Omen,Rivers of Blood,Rome,Italia
+579,Disaster,Famine,Persia,Central Persia
+580,Omen,Rivers of Blood,Rome,Italia
+580,Omen,Three-Headed Baby,Rome,Gallia
+580,Omen,Moon Turns Red,Persia,Outer Persia
+580,Disaster,Pillaged By Rome,Persia,Outer Persia
+580,Omen,Moon Turns Red,Germania,North Germania
+581,Omen,Rivers of Blood,Rome,Italia
+581,Omen,Moon Turns Red,Persia,Central Persia
+581,Omen,Three-Headed Baby,Persia,North Persia
+581,Omen,Rivers of Blood,Britannia,Britannia
+581,Disaster,Plague,Germania,North Germania
+582,Omen,Three-Headed Baby,Rome,Gallia
+582,Omen,Moon Turns Red,Persia,Central Persia
+582,Disaster,Plague,Persia,Central Persia
+583,Disaster,Fire,Persia,Outer Persia
+584,Disaster,Fire,Rome,Gallia
+584,Omen,Moon Turns Red,Persia,Outer Persia
+584,Omen,Three-Headed Baby,Germania,South Germania
+585,Disaster,Plague,Persia,Outer Persia
+585,Omen,Geese Flying Backwards,Britannia,Britannia
+585,Disaster,Pillaged By Persia,Germania,North Germania
+585,Disaster,Fire,Germania,South Germania
+586,Omen,Moon Turns Red,Rome,Gallia
+586,Omen,Rivers of Blood,Persia,North Persia
+586,Omen,Rivers of Blood,Britannia,Britannia
+586,Disaster,Famine,Britannia,Britannia
+586,Disaster,Pillaged By Rome,Germania,South Germania
+587,Omen,Rivers of Blood,Rome,Grecia
+587,Disaster,Famine,Persia,North Persia
+587,Disaster,Pillaged By Germania,Britannia,Britannia
+587,Disaster,Pillaged By Persia,Germania,North Germania
+588,Omen,Geese Flying Backwards,Persia,North Persia
+588,Omen,Black Dove,Persia,North Persia
+589,Omen,Geese Flying Backwards,Persia,Central Persia
+589,Disaster,Famine,Persia,North Persia
+589,Omen,Rivers of Blood,Germania,South Germania
+589,Omen,Geese Flying Backwards,Germania,South Germania
+590,Omen,Geese Flying Backwards,Persia,Central Persia
+590,Disaster,Pillaged By Germania,Britannia,Britannia
+590,Omen,Geese Flying Backwards,Germania,South Germania
+591,Disaster,Fire,Rome,Italia
+591,Omen,Three-Headed Baby,Rome,Grecia
+591,Disaster,Famine,Persia,Central Persia
+591,Disaster,Famine,Germania,South Germania
+592,Omen,Geese Flying Backwards,Rome,Italia
+592,Omen,Black Dove,Rome,Grecia
+592,Disaster,Pillaged By Rome,Persia,Outer Persia
+592,Omen,Moon Turns Red,Germania,South Germania
+593,Omen,Black Dove,Rome,Italia
+593,Omen,Black Dove,Rome,Grecia
+593,Omen,Geese Flying Backwards,Persia,Outer Persia
+593,Omen,Moon Turns Red,Persia,Outer Persia
+593,Omen,Black Dove,Persia,Outer Persia
+593,Omen,Black Dove,Persia,North Persia
+593,Omen,Black Dove,Britannia,Britannia
+593,Omen,Black Dove,Germania,South Germania
+594,Omen,Moon Turns Red,Rome,Italia
+594,Disaster,Famine,Rome,Italia
+594,Omen,Geese Flying Backwards,Persia,Outer Persia
+594,Disaster,Plague,Persia,Outer Persia
+594,Omen,Moon Turns Red,Germania,North Germania
+595,Omen,Sun Goes Dark,Rome,Italia
+595,Omen,Black Dove,Rome,Italia
+595,Disaster,Plague,Rome,Italia
+595,Disaster,Fire,Rome,Grecia
+595,Disaster,Plague,Rome,Grecia
+595,Omen,Geese Flying Backwards,Persia,Outer Persia
+595,Omen,Black Dove,Persia,North Persia
+595,Omen,Rivers of Blood,Germania,North Germania
+595,Disaster,Fire,Germania,North Germania
+595,Disaster,Plague,Germania,North Germania
+595,Omen,Black Dove,Germania,South Germania
+596,Disaster,Pillaged By Germania,Rome,Italia
+596,Omen,Moon Turns Red,Rome,Gallia
+596,Disaster,Earthquake,Rome,Grecia
+596,Disaster,Famine,Persia,Outer Persia
+596,Disaster,Earthquake,Persia,Outer Persia
+596,Disaster,Earthquake,Persia,North Persia
+596,Disaster,Plague,Persia,North Persia
+596,Disaster,Earthquake,Britannia,Britannia
+596,Disaster,Earthquake,Germania,North Germania
+596,Disaster,Earthquake,Germania,South Germania
+597,Disaster,Plague,Rome,Gallia
+597,Disaster,Famine,Persia,Central Persia
+597,Disaster,Plague,Persia,Central Persia
+597,Omen,Moon Turns Red,Persia,North Persia
+598,Omen,Black Dove,Rome,Italia
+598,Omen,Black Dove,Rome,Grecia
+598,Omen,Black Dove,Persia,Outer Persia
+598,Disaster,Earthquake,Persia,North Persia
+598,Omen,Black Dove,Britannia,Britannia
+598,Omen,Black Dove,Germania,North Germania
+598,Disaster,Plague,Germania,South Germania
+599,Omen,Geese Flying Backwards,Rome,Italia
+599,Omen,Moon Turns Red,Rome,Gallia
+599,Omen,Geese Flying Backwards,Persia,Central Persia
+599,Omen,Moon Turns Red,Persia,Central Persia
+599,Omen,Geese Flying Backwards,Persia,Outer Persia
+600,Disaster,Famine,Persia,Central Persia
+600,Disaster,Famine,Persia,Outer Persia
+600,Disaster,Pillaged By Rome,Germania,South Germania
+601,Disaster,Fire,Rome,Italia
+601,Omen,Geese Flying Backwards,Persia,Outer Persia
+602,Omen,Geese Flying Backwards,Persia,Outer Persia
+603,Omen,Geese Flying Backwards,Rome,Italia
+603,Omen,Geese Flying Backwards,Persia,North Persia
+603,Disaster,Pillaged By Persia,Germania,North Germania
+604,Disaster,Famine,Rome,Italia
+604,Omen,Moon Turns Red,Persia,Central Persia
+604,Disaster,Famine,Persia,Central Persia
+604,Omen,Geese Flying Backwards,Persia,North Persia
+604,Omen,Flaming Comet,Britannia,Britannia
+605,Disaster,Pillaged By Persia,Rome,Grecia
+605,Disaster,Plague,Persia,Central Persia
+605,Disaster,Famine,Persia,Outer Persia
+605,Disaster,Pillaged By Germania,Britannia,Britannia
+606,Disaster,Plague,Persia,Outer Persia
+606,Disaster,Famine,Persia,North Persia
+606,Disaster,Plague,Persia,North Persia
+607,Disaster,Earthquake,Persia,Central Persia
+607,Disaster,Earthquake,Persia,North Persia
+607,Disaster,Pillaged By Rome,Britannia,Britannia
+607,Disaster,Fire,Germania,North Germania
+607,Disaster,Plague,Germania,North Germania
+607,Omen,Moon Turns Red,Germania,South Germania
+608,Omen,Moon Turns Red,Persia,North Persia
+608,Disaster,Earthquake,Germania,South Germania
+609,Omen,Rivers of Blood,Rome,Italia
+609,Disaster,Famine,Persia,North Persia
+610,Disaster,Pillaged By Germania,Persia,North Persia
+611,Omen,Moon Turns Red,Rome,Italia
+611,Omen,Three-Headed Baby,Rome,Grecia
+612,Omen,Rivers of Blood,Rome,Italia
+612,Disaster,Plague,Rome,Italia
+612,Omen,Geese Flying Backwards,Persia,Outer Persia
+612,Omen,Geese Flying Backwards,Britannia,Britannia
+612,Omen,Moon Turns Red,Germania,North Germania
+613,Omen,Rivers of Blood,Persia,Central Persia
+613,Omen,Geese Flying Backwards,Persia,North Persia
+613,Disaster,Famine,Britannia,Britannia
+614,Omen,Geese Flying Backwards,Persia,North Persia
+615,Disaster,Famine,Persia,North Persia
+615,Disaster,Pillaged By Persia,Germania,North Germania
+616,Omen,Three-Headed Baby,Rome,Gallia
+616,Disaster,Fire,Rome,Grecia
+616,Disaster,Pillaged By Persia,Rome,Grecia
+616,Disaster,Fire,Persia,Central Persia
+617,Disaster,Earthquake,Rome,Italia
+617,Disaster,Earthquake,Persia,Outer Persia
+617,Omen,Rivers of Blood,Germania,North Germania
+618,Disaster,Pillaged By Germania,Rome,Gallia
+618,Omen,Geese Flying Backwards,Rome,Grecia
+618,Omen,Three-Headed Baby,Britannia,Britannia
+618,Disaster,Pillaged By Rome,Britannia,Britannia
+619,Omen,Three-Headed Baby,Rome,Gallia
+619,Omen,Rivers of Blood,Persia,North Persia
+619,Omen,Rivers of Blood,Germania,North Germania
+621,Omen,Geese Flying Backwards,Rome,Grecia
+621,Omen,Three-Headed Baby,Germania,South Germania
+621,Omen,Rivers of Blood,Germania,South Germania
+622,Omen,Rivers of Blood,Rome,Italia
+622,Disaster,Pillaged By Britannia,Rome,Gallia
+622,Disaster,Fire,Germania,North Germania
+622,Disaster,Pillaged By Britannia,Germania,North Germania
+622,Omen,Three-Headed Baby,Germania,South Germania
+623,Omen,Moon Turns Red,Rome,Italia
+623,Omen,Moon Turns Red,Rome,Grecia
+623,Disaster,Fire,Germania,South Germania
+623,Disaster,Earthquake,Germania,South Germania
+624,Disaster,Plague,Rome,Italia
+624,Omen,Three-Headed Baby,Rome,Gallia
+624,Omen,Rivers of Blood,Germania,North Germania
+624,Omen,Geese Flying Backwards,Germania,South Germania
+625,Disaster,Fire,Rome,Gallia
+625,Omen,Rivers of Blood,Rome,Grecia
+625,Omen,Moon Turns Red,Germania,North Germania
+625,Disaster,Pillaged By Persia,Germania,North Germania
+625,Omen,Moon Turns Red,Germania,South Germania
+625,Disaster,Pillaged By Rome,Germania,South Germania
+626,Omen,Sun Goes Dark,Persia,Central Persia
+626,Omen,Three-Headed Baby,Persia,Outer Persia
+626,Omen,Moon Turns Red,Britannia,Britannia
+626,Disaster,Famine,Britannia,Britannia
+626,Disaster,Plague,Germania,South Germania
+627,Omen,Rivers of Blood,Rome,Italia
+627,Omen,Rivers of Blood,Rome,Gallia
+627,Omen,Moon Turns Red,Rome,Gallia
+627,Omen,Rivers of Blood,Persia,North Persia
+627,Disaster,Plague,Britannia,Britannia
+628,Disaster,Plague,Rome,Gallia
+628,Omen,Three-Headed Baby,Rome,Grecia
+628,Omen,Moon Turns Red,Rome,Grecia
+628,Omen,Black Dove,Rome,Grecia
+628,Omen,Black Dove,Persia,Central Persia
+628,Omen,Black Dove,Persia,Outer Persia
+628,Omen,Rivers of Blood,Persia,North Persia
+628,Omen,Black Dove,Persia,North Persia
+628,Omen,Black Dove,Britannia,Britannia
+628,Disaster,Pillaged By Rome,Germania,South Germania
+629,Disaster,Plague,Rome,Grecia
+629,Omen,Three-Headed Baby,Persia,Central Persia
+630,Disaster,Plague,Rome,Italia
+630,Disaster,Fire,Persia,North Persia
+630,Omen,Three-Headed Baby,Britannia,Britannia
+630,Omen,Moon Turns Red,Germania,North Germania
+631,Omen,Rivers of Blood,Rome,Italia
+631,Disaster,Fire,Rome,Gallia
+631,Omen,Rivers of Blood,Persia,North Persia
+631,Omen,Geese Flying Backwards,Persia,North Persia
+631,Disaster,Plague,Germania,North Germania
+632,Disaster,Pillaged By Britannia,Rome,Gallia
+632,Omen,Black Dove,Persia,Outer Persia
+632,Omen,Moon Turns Red,Persia,North Persia
+632,Disaster,Famine,Persia,North Persia
+632,Omen,Sun Goes Dark,Britannia,Britannia
+632,Omen,Black Dove,Britannia,Britannia
+632,Omen,Geese Flying Backwards,Germania,South Germania
+633,Omen,Geese Flying Backwards,Persia,Outer Persia
+633,Omen,Rivers of Blood,Britannia,Britannia
+633,Disaster,Famine,Germania,South Germania
+634,Omen,Rivers of Blood,Rome,Gallia
+634,Disaster,Pillaged By Britannia,Rome,Gallia
+634,Disaster,Pillaged By Persia,Rome,Grecia
+634,Omen,Geese Flying Backwards,Persia,North Persia
+634,Disaster,Pillaged By Britannia,Germania,North Germania
+635,Omen,Three-Headed Baby,Germania,South Germania
+635,Omen,Rivers of Blood,Germania,South Germania
+636,Disaster,Famine,Persia,North Persia
+637,Omen,Rivers of Blood,Rome,Grecia
+637,Disaster,Fire,Persia,Outer Persia
+637,Disaster,Fire,Britannia,Britannia
+637,Disaster,Pillaged By Rome,Britannia,Britannia
+637,Omen,Moon Turns Red,Germania,South Germania
+638,Disaster,Earthquake,Rome,Gallia
+638,Omen,Geese Flying Backwards,Rome,Grecia
+638,Omen,Three-Headed Baby,Persia,Central Persia
+638,Omen,Rivers of Blood,Persia,North Persia
+638,Disaster,Earthquake,Britannia,Britannia
+638,Disaster,Earthquake,Germania,North Germania
+639,Omen,Moon Turns Red,Rome,Gallia
+639,Omen,Geese Flying Backwards,Rome,Grecia
+639,Omen,Rivers of Blood,Persia,Central Persia
+639,Omen,Geese Flying Backwards,Persia,Outer Persia
+639,Disaster,Pillaged By Germania,Britannia,Britannia
+640,Disaster,Famine,Rome,Grecia
+640,Omen,Geese Flying Backwards,Persia,Outer Persia
+641,Disaster,Pillaged By Rome,Britannia,Britannia
+642,Disaster,Fire,Persia,Central Persia
+642,Omen,Rivers of Blood,Germania,North Germania
+643,Disaster,Fire,Rome,Italia
+643,Disaster,Pillaged By Persia,Rome,Grecia
+644,Disaster,Pillaged By Germania,Britannia,Britannia
+644,Omen,Rivers of Blood,Germania,South Germania
+645,Disaster,Pillaged By Germania,Rome,Gallia
+645,Omen,Geese Flying Backwards,Rome,Grecia
+645,Omen,Rivers of Blood,Germania,South Germania
+646,Omen,Rivers of Blood,Rome,Italia
+646,Omen,Rivers of Blood,Persia,Outer Persia
+646,Omen,Geese Flying Backwards,Persia,North Persia
+647,Omen,Rivers of Blood,Persia,Central Persia
+648,Omen,Rivers of Blood,Rome,Italia
+648,Disaster,Fire,Rome,Grecia
+648,Disaster,Fire,Persia,Central Persia
+649,Disaster,Pillaged By Rome,Britannia,Britannia
+650,Omen,Three-Headed Baby,Rome,Italia
+651,Disaster,Fire,Persia,Outer Persia
+651,Omen,Rivers of Blood,Persia,North Persia
+651,Disaster,Fire,Persia,North Persia
+651,Disaster,Pillaged By Rome,Britannia,Britannia
+652,Omen,Rivers of Blood,Persia,Central Persia
+652,Omen,Three-Headed Baby,Germania,North Germania
+653,Omen,Moon Turns Red,Persia,Central Persia
+653,Omen,Three-Headed Baby,Persia,Outer Persia
+653,Disaster,Fire,Germania,North Germania
+654,Omen,Moon Turns Red,Rome,Gallia
+654,Omen,Moon Turns Red,Rome,Grecia
+654,Disaster,Plague,Persia,Central Persia
+654,Omen,Moon Turns Red,Germania,South Germania
+655,Disaster,Plague,Rome,Grecia
+655,Omen,Rivers of Blood,Persia,Central Persia
+655,Disaster,Plague,Persia,Outer Persia
+655,Omen,Rivers of Blood,Germania,North Germania
+656,Omen,Rivers of Blood,Rome,Italia
+656,Disaster,Plague,Rome,Italia
+656,Disaster,Pillaged By Germania,Persia,North Persia
+656,Omen,Rivers of Blood,Britannia,Britannia
+656,Disaster,Pillaged By Rome,Germania,South Germania
+657,Omen,Three-Headed Baby,Rome,Gallia
+657,Disaster,Famine,Persia,Central Persia
+657,Disaster,Fire,Britannia,Britannia
+657,Disaster,Plague,Germania,South Germania
+658,Omen,Rivers of Blood,Persia,Outer Persia
+658,Disaster,Plague,Germania,North Germania
+659,Disaster,Famine,Persia,Central Persia
+660,Disaster,Fire,Rome,Italia
+660,Omen,Three-Headed Baby,Rome,Gallia
+660,Disaster,Pillaged By Rome,Persia,Outer Persia
+660,Disaster,Pillaged By Rome,Germania,South Germania
+662,Omen,Rivers of Blood,Britannia,Britannia
+664,Disaster,Fire,Persia,Outer Persia
+665,Omen,Flaming Comet,Rome,Grecia
+666,Disaster,Fire,Rome,Gallia
+666,Omen,Moon Turns Red,Rome,Grecia
+666,Omen,Moon Turns Red,Persia,Outer Persia
+666,Omen,Moon Turns Red,Britannia,Britannia
+666,Omen,Geese Flying Backwards,Germania,South Germania
+667,Omen,Three-Headed Baby,Rome,Grecia
+667,Omen,Three-Headed Baby,Germania,South Germania
+667,Omen,Geese Flying Backwards,Germania,South Germania
+668,Omen,Geese Flying Backwards,Germania,North Germania
+668,Omen,Geese Flying Backwards,Germania,South Germania
+670,Omen,Three-Headed Baby,Persia,North Persia
+672,Disaster,Fire,Britannia,Britannia
+673,Omen,Three-Headed Baby,Rome,Grecia
+673,Omen,Rivers of Blood,Persia,North Persia
+673,Omen,Rivers of Blood,Germania,North Germania
+673,Omen,Geese Flying Backwards,Germania,North Germania
+674,Omen,Rivers of Blood,Rome,Gallia
+674,Disaster,Pillaged By Germania,Britannia,Britannia
+674,Omen,Moon Turns Red,Germania,North Germania
+674,Disaster,Famine,Germania,North Germania
+675,Omen,Three-Headed Baby,Rome,Grecia
+675,Omen,Rivers of Blood,Persia,Central Persia
+675,Omen,Geese Flying Backwards,Germania,North Germania
+675,Omen,Three-Headed Baby,Germania,South Germania
+676,Omen,Three-Headed Baby,Rome,Grecia
+676,Omen,Moon Turns Red,Germania,South Germania
+677,Omen,Black Dove,Rome,Italia
+677,Omen,Black Dove,Rome,Gallia
+677,Disaster,Fire,Rome,Grecia
+677,Omen,Black Dove,Persia,Central Persia
+677,Omen,Moon Turns Red,Persia,Outer Persia
+677,Omen,Three-Headed Baby,Persia,North Persia
+677,Omen,Black Dove,Persia,North Persia
+677,Disaster,Fire,Persia,North Persia
+677,Omen,Black Dove,Germania,North Germania
+677,Omen,Black Dove,Germania,South Germania
+678,Omen,Moon Turns Red,Rome,Grecia
+678,Omen,Three-Headed Baby,Persia,Central Persia
+678,Omen,Three-Headed Baby,Persia,Outer Persia
+678,Omen,Moon Turns Red,Persia,Outer Persia
+678,Omen,Geese Flying Backwards,Germania,North Germania
+679,Omen,Rivers of Blood,Rome,Italia
+679,Omen,Moon Turns Red,Persia,Outer Persia
+679,Disaster,Plague,Persia,Outer Persia
+680,Disaster,Plague,Rome,Grecia
+680,Omen,Moon Turns Red,Germania,North Germania
+681,Disaster,Plague,Germania,North Germania
+682,Omen,Rivers of Blood,Rome,Grecia
+682,Omen,Moon Turns Red,Persia,Central Persia
+682,Omen,Rivers of Blood,Persia,North Persia
+682,Disaster,Pillaged By Rome,Germania,South Germania
+683,Omen,Rivers of Blood,Rome,Gallia
+683,Disaster,Plague,Persia,Central Persia
+683,Disaster,Pillaged By Rome,Persia,Outer Persia
+683,Omen,Moon Turns Red,Persia,North Persia
+684,Omen,Rivers of Blood,Rome,Gallia
+684,Disaster,Fire,Rome,Gallia
+684,Omen,Rivers of Blood,Persia,North Persia
+684,Disaster,Fire,Britannia,Britannia
+684,Omen,Black Dove,Germania,South Germania
+684,Disaster,Fire,Germania,South Germania
+685,Omen,Moon Turns Red,Rome,Italia
+685,Disaster,Pillaged By Persia,Germania,North Germania
+685,Disaster,Fire,Germania,South Germania
+686,Omen,Rivers of Blood,Persia,North Persia
+687,Omen,Three-Headed Baby,Rome,Italia
+687,Omen,Three-Headed Baby,Persia,Central Persia
+688,Omen,Three-Headed Baby,Rome,Italia
+688,Omen,Moon Turns Red,Britannia,Britannia
+688,Disaster,Famine,Germania,North Germania
+689,Omen,Three-Headed Baby,Rome,Italia
+689,Omen,Black Dove,Rome,Grecia
+689,Omen,Black Dove,Persia,Outer Persia
+689,Omen,Black Dove,Persia,North Persia
+689,Omen,Black Dove,Britannia,Britannia
+689,Omen,Black Dove,Germania,North Germania
+689,Omen,Black Dove,Germania,South Germania
+689,Disaster,Fire,Germania,South Germania
+690,Omen,Moon Turns Red,Rome,Italia
+690,Disaster,Fire,Rome,Italia
+690,Disaster,Fire,Rome,Grecia
+690,Omen,Rivers of Blood,Persia,Central Persia
+690,Omen,Moon Turns Red,Persia,Central Persia
+690,Disaster,Pillaged By Rome,Persia,Outer Persia
+690,Omen,Geese Flying Backwards,Germania,North Germania
+691,Disaster,Plague,Persia,Central Persia
+691,Omen,Rivers of Blood,Britannia,Britannia
+691,Omen,Geese Flying Backwards,Germania,North Germania
+691,Omen,Geese Flying Backwards,Germania,South Germania
+692,Disaster,Famine,Rome,Gallia
+692,Disaster,Fire,Persia,Outer Persia
+692,Omen,Rivers of Blood,Germania,North Germania
+692,Disaster,Pillaged By Britannia,Germania,North Germania
+692,Omen,Geese Flying Backwards,Germania,South Germania
+693,Omen,Three-Headed Baby,Britannia,Britannia
+693,Omen,Geese Flying Backwards,Germania,South Germania
+693,Disaster,Pillaged By Rome,Germania,South Germania
+695,Omen,Rivers of Blood,Rome,Gallia
+695,Omen,Geese Flying Backwards,Rome,Gallia
+695,Disaster,Fire,Rome,Grecia
+695,Omen,Rivers of Blood,Persia,North Persia
+695,Omen,Rivers of Blood,Germania,North Germania
+696,Disaster,Famine,Rome,Gallia
+696,Disaster,Famine,Persia,Outer Persia
+696,Disaster,Pillaged By Germania,Britannia,Britannia
+696,Omen,Geese Flying Backwards,Germania,South Germania
+697,Omen,Geese Flying Backwards,Persia,Outer Persia
+697,Omen,Three-Headed Baby,Britannia,Britannia
+698,Omen,Moon Turns Red,Rome,Grecia
+698,Disaster,Famine,Persia,Outer Persia
+699,Disaster,Fire,Persia,Central Persia
+699,Disaster,Pillaged By Rome,Britannia,Britannia
+700,Omen,Rivers of Blood,Rome,Gallia
+700,Omen,Moon Turns Red,Rome,Gallia
+700,Omen,Three-Headed Baby,Persia,North Persia
+700,Omen,Three-Headed Baby,Britannia,Britannia
+700,Omen,Moon Turns Red,Germania,North Germania
+700,Omen,Moon Turns Red,Germania,South Germania
+701,Disaster,Plague,Rome,Gallia
+701,Disaster,Fire,Britannia,Britannia
+701,Disaster,Plague,Germania,South Germania
+702,Omen,Rivers of Blood,Persia,Outer Persia
+702,Disaster,Pillaged By Rome,Persia,Outer Persia
+702,Omen,Rivers of Blood,Britannia,Britannia
+702,Omen,Rivers of Blood,Germania,South Germania
+704,Disaster,Pillaged By Germania,Britannia,Britannia
+704,Disaster,Pillaged By Persia,Germania,North Germania
+704,Omen,Geese Flying Backwards,Germania,South Germania
+705,Omen,Geese Flying Backwards,Rome,Gallia
+705,Disaster,Fire,Persia,North Persia
+706,Omen,Geese Flying Backwards,Rome,Gallia
+706,Disaster,Fire,Persia,North Persia
+706,Omen,Moon Turns Red,Germania,North Germania
+706,Disaster,Famine,Germania,South Germania
+707,Omen,Three-Headed Baby,Rome,Italia
+707,Omen,Rivers of Blood,Persia,Outer Persia
+707,Omen,Moon Turns Red,Persia,North Persia
+707,Omen,Flaming Comet,Germania,North Germania
+708,Disaster,Famine,Rome,Gallia
+708,Omen,Moon Turns Red,Rome,Grecia
+708,Disaster,Fire,Persia,Outer Persia
+708,Omen,Three-Headed Baby,Germania,North Germania
+709,Omen,Moon Turns Red,Rome,Gallia
+709,Disaster,Plague,Rome,Grecia
+710,Omen,Rivers of Blood,Rome,Italia
+710,Omen,Three-Headed Baby,Rome,Gallia
+710,Omen,Moon Turns Red,Rome,Gallia
+710,Disaster,Plague,Persia,Outer Persia
+710,Disaster,Pillaged By Rome,Persia,Outer Persia
+710,Disaster,Pillaged By Germania,Persia,North Persia
+711,Disaster,Plague,Rome,Gallia
+711,Disaster,Plague,Persia,Central Persia
+711,Omen,Moon Turns Red,Persia,Outer Persia
+711,Disaster,Earthquake,Persia,Outer Persia
+711,Omen,Rivers of Blood,Persia,North Persia
+711,Disaster,Pillaged By Rome,Britannia,Britannia
+712,Omen,Geese Flying Backwards,Rome,Gallia
+712,Disaster,Plague,Persia,North Persia
+712,Disaster,Plague,Britannia,Britannia
+713,Disaster,Famine,Rome,Gallia
+713,Omen,Three-Headed Baby,Rome,Grecia
+713,Omen,Rivers of Blood,Persia,Central Persia
+713,Disaster,Plague,Germania,North Germania
+714,Disaster,Famine,Rome,Italia
+716,Omen,Three-Headed Baby,Persia,Outer Persia
+716,Omen,Moon Turns Red,Persia,Outer Persia
+717,Omen,Rivers of Blood,Britannia,Britannia
+718,Omen,Rivers of Blood,Germania,North Germania
+718,Omen,Rivers of Blood,Germania,South Germania
+718,Disaster,Pillaged By Rome,Germania,South Germania
+719,Omen,Rivers of Blood,Persia,North Persia
+719,Omen,Moon Turns Red,Persia,North Persia
+719,Disaster,Pillaged By Germania,Britannia,Britannia
+720,Omen,Rivers of Blood,Germania,North Germania
+721,Disaster,Fire,Persia,Central Persia
+721,Omen,Three-Headed Baby,Germania,South Germania
+721,Omen,Rivers of Blood,Germania,South Germania
+722,Disaster,Pillaged By Germania,Persia,North Persia
+722,Omen,Geese Flying Backwards,Britannia,Britannia
+723,Disaster,Fire,Rome,Gallia
+723,Omen,Moon Turns Red,Rome,Grecia
+723,Omen,Three-Headed Baby,Britannia,Britannia
+724,Omen,Three-Headed Baby,Rome,Grecia
+724,Omen,Rivers of Blood,Persia,North Persia
+725,Omen,Geese Flying Backwards,Britannia,Britannia
+725,Omen,Three-Headed Baby,Germania,North Germania
+725,Disaster,Fire,Germania,South Germania
+726,Omen,Moon Turns Red,Britannia,Britannia
+726,Disaster,Famine,Britannia,Britannia
+726,Disaster,Pillaged By Rome,Britannia,Britannia
+726,Disaster,Pillaged By Rome,Germania,South Germania
+727,Disaster,Fire,Rome,Gallia
+727,Disaster,Earthquake,Rome,Gallia
+727,Omen,Black Dove,Rome,Grecia
+727,Disaster,Earthquake,Britannia,Britannia
+727,Disaster,Plague,Britannia,Britannia
+727,Disaster,Fire,Germania,North Germania
+728,Disaster,Plague,Rome,Gallia
+729,Omen,Rivers of Blood,Rome,Gallia
+729,Omen,Three-Headed Baby,Persia,North Persia
+729,Omen,Three-Headed Baby,Germania,South Germania
+729,Disaster,Plague,Germania,South Germania
+730,Disaster,Plague,Rome,Italia
+730,Disaster,Fire,Persia,Central Persia
+731,Disaster,Fire,Rome,Gallia
+731,Omen,Rivers of Blood,Germania,North Germania
+732,Omen,Moon Turns Red,Rome,Grecia
+732,Disaster,Fire,Persia,Outer Persia
+733,Omen,Three-Headed Baby,Rome,Grecia
+733,Disaster,Plague,Rome,Grecia
+734,Omen,Rivers of Blood,Rome,Gallia
+734,Omen,Moon Turns Red,Persia,Outer Persia
+734,Omen,Geese Flying Backwards,Britannia,Britannia
+735,Disaster,Plague,Persia,Outer Persia
+735,Omen,Geese Flying Backwards,Britannia,Britannia
+735,Disaster,Pillaged By Germania,Britannia,Britannia
+736,Disaster,Plague,Persia,Central Persia
+736,Disaster,Pillaged By Rome,Persia,Outer Persia
+736,Disaster,Pillaged By Rome,Britannia,Britannia
+736,Disaster,Pillaged By Germania,Britannia,Britannia
+737,Disaster,Earthquake,Rome,Gallia
+737,Disaster,Earthquake,Britannia,Britannia
+737,Disaster,Earthquake,Germania,North Germania
+739,Omen,Rivers of Blood,Rome,Gallia
+739,Omen,Rivers of Blood,Persia,Central Persia
+739,Disaster,Fire,Germania,South Germania
+740,Omen,Rivers of Blood,Rome,Gallia
+740,Omen,Moon Turns Red,Rome,Gallia
+740,Omen,Three-Headed Baby,Persia,North Persia
+740,Disaster,Pillaged By Germania,Persia,North Persia
+741,Omen,Rivers of Blood,Rome,Italia
+741,Disaster,Plague,Rome,Gallia
+741,Disaster,Famine,Britannia,Britannia
+742,Omen,Geese Flying Backwards,Britannia,Britannia
+742,Omen,Moon Turns Red,Germania,North Germania
+742,Omen,Moon Turns Red,Germania,South Germania
+743,Omen,Sun Goes Dark,Rome,Italia
+743,Disaster,Famine,Britannia,Britannia
+744,Omen,Three-Headed Baby,Persia,North Persia
+744,Omen,Flaming Comet,Persia,North Persia
+744,Omen,Geese Flying Backwards,Britannia,Britannia
+745,Disaster,Famine,Britannia,Britannia
+745,Disaster,Pillaged By Germania,Britannia,Britannia
+746,Omen,Rivers of Blood,Rome,Italia
+746,Omen,Moon Turns Red,Persia,Outer Persia
+746,Disaster,Earthquake,Britannia,Britannia
+746,Omen,Geese Flying Backwards,Germania,South Germania
+747,Omen,Rivers of Blood,Rome,Gallia
+747,Omen,Moon Turns Red,Rome,Gallia
+747,Omen,Three-Headed Baby,Persia,Outer Persia
+748,Disaster,Pillaged By Germania,Rome,Gallia
+748,Omen,Moon Turns Red,Rome,Grecia
+749,Omen,Three-Headed Baby,Rome,Italia
+749,Disaster,Fire,Britannia,Britannia
+750,Omen,Flaming Comet,Britannia,Britannia
+751,Omen,Moon Turns Red,Rome,Italia
+751,Omen,Moon Turns Red,Persia,Central Persia
+751,Disaster,Famine,Germania,South Germania
+752,Disaster,Fire,Rome,Italia
+752,Omen,Moon Turns Red,Rome,Gallia
+752,Omen,Moon Turns Red,Persia,Central Persia
+753,Disaster,Plague,Rome,Gallia
+753,Disaster,Fire,Persia,North Persia
+753,Disaster,Pillaged By Germania,Britannia,Britannia
+754,Disaster,Plague,Rome,Italia
+754,Omen,Moon Turns Red,Rome,Grecia
+754,Omen,Black Dove,Persia,Central Persia
+754,Omen,Black Dove,Germania,South Germania
+755,Disaster,Plague,Germania,South Germania
+756,Disaster,Pillaged By Britannia,Rome,Gallia
+756,Omen,Rivers of Blood,Rome,Grecia
+756,Disaster,Fire,Rome,Grecia
+756,Disaster,Fire,Germania,North Germania
+757,Omen,Moon Turns Red,Rome,Italia
+757,Omen,Moon Turns Red,Germania,North Germania
+758,Disaster,Pillaged By Germania,Rome,Gallia
+758,Disaster,Plague,Germania,North Germania
+759,Omen,Moon Turns Red,Persia,Central Persia
+759,Disaster,Fire,Persia,Central Persia
+759,Disaster,Plague,Persia,North Persia
+759,Omen,Rivers of Blood,Germania,North Germania
+760,Omen,Rivers of Blood,Rome,Gallia
+760,Omen,Three-Headed Baby,Rome,Grecia
+760,Disaster,Plague,Persia,Central Persia
+760,Disaster,Fire,Persia,Outer Persia
+760,Omen,Moon Turns Red,Britannia,Britannia
+760,Disaster,Pillaged By Persia,Germania,North Germania
+760,Disaster,Pillaged By Rome,Germania,South Germania
+761,Omen,Rivers of Blood,Rome,Gallia
+761,Omen,Geese Flying Backwards,Rome,Grecia
+761,Omen,Rivers of Blood,Persia,Central Persia
+762,Omen,Three-Headed Baby,Rome,Italia
+762,Omen,Black Dove,Rome,Italia
+762,Omen,Geese Flying Backwards,Rome,Gallia
+762,Omen,Black Dove,Rome,Gallia
+762,Omen,Black Dove,Rome,Grecia
+762,Disaster,Famine,Rome,Grecia
+762,Omen,Black Dove,Persia,Outer Persia
+762,Omen,Black Dove,Persia,North Persia
+762,Omen,Black Dove,Britannia,Britannia
+763,Disaster,Famine,Rome,Gallia
+763,Omen,Geese Flying Backwards,Persia,Central Persia
+764,Omen,Three-Headed Baby,Persia,North Persia
+764,Omen,Three-Headed Baby,Germania,North Germania
+765,Disaster,Famine,Persia,Central Persia
+765,Disaster,Fire,Persia,Outer Persia
+766,Omen,Rivers of Blood,Rome,Italia
+766,Omen,Geese Flying Backwards,Rome,Italia
+766,Disaster,Famine,Rome,Gallia
+766,Omen,Rivers of Blood,Rome,Grecia
+766,Omen,Three-Headed Baby,Persia,North Persia
+766,Disaster,Fire,Germania,South Germania
+767,Omen,Geese Flying Backwards,Rome,Italia
+768,Omen,Geese Flying Backwards,Rome,Gallia
+768,Disaster,Pillaged By Britannia,Rome,Gallia
+768,Omen,Three-Headed Baby,Germania,North Germania
+769,Omen,Geese Flying Backwards,Rome,Gallia
+769,Omen,Rivers of Blood,Persia,North Persia
+769,Omen,Three-Headed Baby,Britannia,Britannia
+770,Disaster,Pillaged By Persia,Rome,Grecia
+771,Omen,Geese Flying Backwards,Rome,Gallia
+772,Omen,Rivers of Blood,Rome,Gallia
+772,Disaster,Fire,Britannia,Britannia
+773,Omen,Geese Flying Backwards,Rome,Italia
+773,Omen,Three-Headed Baby,Persia,North Persia
+774,Omen,Rivers of Blood,Persia,Outer Persia
+774,Disaster,Fire,Persia,North Persia
+774,Omen,Three-Headed Baby,Britannia,Britannia
+775,Disaster,Famine,Rome,Gallia
+775,Disaster,Pillaged By Germania,Britannia,Britannia
+775,Disaster,Fire,Germania,North Germania
+776,Omen,Geese Flying Backwards,Rome,Gallia
+776,Omen,Moon Turns Red,Rome,Gallia
+776,Disaster,Pillaged By Persia,Rome,Grecia
+777,Omen,Geese Flying Backwards,Rome,Grecia
+777,Omen,Geese Flying Backwards,Germania,North Germania
+777,Disaster,Pillaged By Persia,Germania,North Germania
+778,Omen,Geese Flying Backwards,Germania,North Germania
+779,Disaster,Fire,Rome,Grecia
+779,Omen,Geese Flying Backwards,Germania,South Germania
+780,Disaster,Pillaged By Germania,Rome,Gallia
+780,Disaster,Fire,Persia,Central Persia
+780,Omen,Three-Headed Baby,Persia,Outer Persia
+780,Disaster,Famine,Germania,South Germania
+781,Omen,Geese Flying Backwards,Rome,Gallia
+781,Omen,Three-Headed Baby,Persia,Outer Persia
+781,Omen,Geese Flying Backwards,Germania,South Germania
+782,Disaster,Fire,Rome,Italia
+782,Omen,Geese Flying Backwards,Rome,Gallia
+782,Disaster,Fire,Rome,Gallia
+783,Disaster,Fire,Persia,Outer Persia
+784,Omen,Geese Flying Backwards,Rome,Gallia
+784,Omen,Three-Headed Baby,Rome,Grecia
+784,Omen,Three-Headed Baby,Persia,North Persia
+785,Omen,Geese Flying Backwards,Rome,Italia
+785,Omen,Three-Headed Baby,Rome,Gallia
+785,Omen,Sun Goes Dark,Germania,North Germania
+786,Disaster,Famine,Rome,Italia
+786,Omen,Rivers of Blood,Persia,Central Persia
+786,Disaster,Pillaged By Persia,Germania,North Germania
+787,Omen,Geese Flying Backwards,Rome,Gallia
+787,Omen,Black Dove,Persia,Central Persia
+787,Omen,Black Dove,Persia,Outer Persia
+787,Omen,Black Dove,Persia,North Persia
+787,Omen,Black Dove,Britannia,Britannia
+788,Disaster,Famine,Rome,Gallia
+788,Omen,Three-Headed Baby,Persia,Outer Persia
+788,Omen,Three-Headed Baby,Persia,North Persia
+788,Disaster,Pillaged By Persia,Germania,North Germania
+789,Disaster,Fire,Persia,Outer Persia
+790,Disaster,Famine,Rome,Gallia
+790,Omen,Rivers of Blood,Persia,Central Persia
+790,Omen,Rivers of Blood,Persia,North Persia
+791,Omen,Moon Turns Red,Rome,Italia
+791,Omen,Geese Flying Backwards,Rome,Gallia
+791,Disaster,Fire,Britannia,Britannia
+791,Disaster,Pillaged By Britannia,Germania,North Germania
+792,Disaster,Pillaged By Britannia,Rome,Gallia
+792,Disaster,Pillaged By Germania,Rome,Gallia
+792,Omen,Three-Headed Baby,Germania,South Germania
+793,Disaster,Earthquake,Rome,Gallia
+793,Disaster,Fire,Rome,Grecia
+793,Disaster,Earthquake,Britannia,Britannia
+793,Disaster,Earthquake,Germania,South Germania
+794,Omen,Rivers of Blood,Rome,Gallia
+794,Disaster,Pillaged By Germania,Rome,Gallia
+794,Disaster,Fire,Persia,Outer Persia
+794,Disaster,Pillaged By Persia,Germania,North Germania
+795,Disaster,Pillaged By Persia,Rome,Grecia
+795,Omen,Black Dove,Persia,Central Persia
+795,Omen,Rivers of Blood,Persia,Outer Persia
+795,Omen,Black Dove,Persia,Outer Persia
+795,Omen,Moon Turns Red,Germania,North Germania
+795,Omen,Black Dove,Germania,South Germania
+796,Omen,Geese Flying Backwards,Persia,Central Persia
+796,Disaster,Fire,Persia,Central Persia
+796,Disaster,Fire,Germania,North Germania
+796,Disaster,Plague,Germania,North Germania
+796,Omen,Geese Flying Backwards,Germania,South Germania
+797,Disaster,Pillaged By Britannia,Rome,Gallia
+797,Omen,Three-Headed Baby,Persia,Outer Persia
+797,Disaster,Plague,Britannia,Britannia
+797,Disaster,Earthquake,Germania,North Germania
+797,Omen,Rivers of Blood,Germania,South Germania
+797,Omen,Geese Flying Backwards,Germania,South Germania
+797,Disaster,Earthquake,Germania,South Germania
+797,Disaster,Plague,Germania,South Germania
+798,Omen,Moon Turns Red,Rome,Italia
+798,Omen,Three-Headed Baby,Rome,Gallia
+798,Omen,Geese Flying Backwards,Rome,Gallia
+798,Disaster,Famine,Germania,South Germania
+799,Disaster,Fire,Rome,Gallia
+799,Disaster,Fire,Persia,North Persia
+801,Omen,Rivers of Blood,Rome,Italia
+801,Omen,Moon Turns Red,Persia,North Persia
+802,Disaster,Famine,Persia,Central Persia
+802,Disaster,Plague,Persia,North Persia
+802,Omen,Moon Turns Red,Germania,South Germania
+803,Omen,Geese Flying Backwards,Rome,Gallia
+803,Disaster,Plague,Persia,Central Persia
+803,Omen,Rivers of Blood,Persia,Outer Persia
+803,Omen,Moon Turns Red,Germania,South Germania
+803,Disaster,Plague,Germania,South Germania
+804,Omen,Geese Flying Backwards,Rome,Gallia
+804,Disaster,Plague,Rome,Gallia
+804,Disaster,Plague,Persia,Outer Persia
+804,Disaster,Pillaged By Rome,Persia,Outer Persia
+804,Omen,Rivers of Blood,Britannia,Britannia
+805,Omen,Rivers of Blood,Rome,Gallia
+805,Disaster,Plague,Rome,Grecia
+805,Omen,Rivers of Blood,Persia,Central Persia
+805,Disaster,Earthquake,Persia,Outer Persia
+805,Disaster,Fire,Britannia,Britannia
+805,Disaster,Plague,Britannia,Britannia
+805,Disaster,Pillaged By Britannia,Germania,North Germania
+806,Disaster,Plague,Rome,Italia
+806,Omen,Rivers of Blood,Rome,Gallia
+806,Omen,Geese Flying Backwards,Persia,Outer Persia
+807,Omen,Geese Flying Backwards,Persia,Outer Persia
+808,Omen,Geese Flying Backwards,Rome,Italia
+808,Omen,Sun Goes Dark,Persia,Central Persia
+808,Omen,Geese Flying Backwards,Persia,Outer Persia
+809,Omen,Geese Flying Backwards,Persia,Outer Persia
+809,Omen,Moon Turns Red,Britannia,Britannia
+810,Omen,Rivers of Blood,Persia,Central Persia
+810,Omen,Rivers of Blood,Persia,Outer Persia
+811,Omen,Moon Turns Red,Persia,Outer Persia
+812,Disaster,Plague,Persia,Outer Persia
+813,Disaster,Plague,Persia,Central Persia
+813,Omen,Geese Flying Backwards,Persia,Outer Persia
+814,Omen,Three-Headed Baby,Rome,Gallia
+814,Omen,Moon Turns Red,Rome,Gallia
+814,Omen,Moon Turns Red,Germania,North Germania
+815,Omen,Flaming Comet,Persia,North Persia
+815,Omen,Three-Headed Baby,Germania,North Germania
+816,Omen,Rivers of Blood,Rome,Italia
+816,Disaster,Famine,Persia,Outer Persia
+816,Disaster,Fire,Persia,North Persia
+817,Omen,Three-Headed Baby,Rome,Gallia
+817,Omen,Rivers of Blood,Britannia,Britannia
+817,Omen,Moon Turns Red,Germania,South Germania
+818,Omen,Three-Headed Baby,Rome,Italia
+818,Omen,Black Dove,Rome,Italia
+818,Disaster,Fire,Rome,Italia
+818,Omen,Black Dove,Rome,Gallia
+818,Omen,Three-Headed Baby,Rome,Grecia
+818,Omen,Sun Goes Dark,Persia,Central Persia
+818,Omen,Black Dove,Persia,Outer Persia
+818,Omen,Black Dove,Persia,North Persia
+818,Omen,Black Dove,Germania,North Germania
+818,Disaster,Fire,Germania,North Germania
+818,Omen,Black Dove,Germania,South Germania
+819,Omen,Rivers of Blood,Rome,Grecia
+819,Omen,Rivers of Blood,Persia,Central Persia
+819,Omen,Rivers of Blood,Germania,South Germania
+821,Omen,Three-Headed Baby,Rome,Gallia
+821,Omen,Rivers of Blood,Rome,Gallia
+821,Omen,Three-Headed Baby,Persia,North Persia
+821,Disaster,Famine,Germania,South Germania
+822,Omen,Geese Flying Backwards,Rome,Italia
+823,Omen,Three-Headed Baby,Rome,Gallia
+823,Disaster,Fire,Rome,Grecia
+824,Disaster,Fire,Rome,Italia
+824,Disaster,Famine,Persia,Central Persia
+824,Omen,Sun Goes Dark,Britannia,Britannia
+825,Disaster,Fire,Rome,Gallia
+825,Omen,Geese Flying Backwards,Persia,Central Persia
+825,Omen,Geese Flying Backwards,Germania,South Germania
+827,Omen,Rivers of Blood,Persia,Central Persia
+827,Omen,Geese Flying Backwards,Persia,Central Persia
+827,Disaster,Famine,Germania,South Germania
+828,Omen,Flaming Comet,Persia,Central Persia
+828,Omen,Three-Headed Baby,Persia,Outer Persia
+828,Omen,Rivers of Blood,Persia,Outer Persia
+829,Disaster,Pillaged By Persia,Rome,Grecia
+829,Omen,Geese Flying Backwards,Persia,Central Persia
+829,Omen,Moon Turns Red,Britannia,Britannia
+830,Omen,Three-Headed Baby,Persia,Central Persia
+830,Omen,Geese Flying Backwards,Persia,Central Persia
+830,Disaster,Pillaged By Rome,Germania,South Germania
+831,Omen,Rivers of Blood,Germania,South Germania
+832,Omen,Three-Headed Baby,Rome,Italia
+832,Disaster,Famine,Persia,Central Persia
+833,Omen,Moon Turns Red,Rome,Gallia
+833,Omen,Moon Turns Red,Persia,Central Persia
+834,Omen,Three-Headed Baby,Rome,Grecia
+834,Omen,Three-Headed Baby,Persia,Outer Persia
+834,Disaster,Fire,Germania,North Germania
+835,Omen,Rivers of Blood,Rome,Grecia
+836,Disaster,Fire,Rome,Gallia
+836,Disaster,Fire,Persia,Outer Persia
+836,Omen,Rivers of Blood,Britannia,Britannia
+836,Disaster,Pillaged By Persia,Germania,North Germania
+836,Disaster,Pillaged By Rome,Germania,South Germania
+837,Omen,Moon Turns Red,Persia,North Persia
+838,Disaster,Pillaged By Persia,Germania,North Germania
+839,Omen,Moon Turns Red,Persia,Central Persia
+839,Omen,Moon Turns Red,Persia,North Persia
+839,Disaster,Fire,Britannia,Britannia
+839,Disaster,Pillaged By Rome,Britannia,Britannia
+839,Omen,Moon Turns Red,Germania,North Germania
+840,Disaster,Earthquake,Rome,Gallia
+840,Omen,Three-Headed Baby,Rome,Grecia
+840,Omen,Geese Flying Backwards,Persia,Central Persia
+840,Disaster,Earthquake,Britannia,Britannia
+840,Disaster,Earthquake,Germania,North Germania
+840,Disaster,Plague,Germania,North Germania
+841,Omen,Rivers of Blood,Germania,South Germania
+842,Omen,Moon Turns Red,Rome,Italia
+842,Omen,Moon Turns Red,Rome,Gallia
+842,Disaster,Pillaged By Rome,Germania,South Germania
+843,Omen,Three-Headed Baby,Rome,Italia
+843,Omen,Geese Flying Backwards,Rome,Gallia
+843,Disaster,Plague,Rome,Gallia
+843,Disaster,Fire,Rome,Grecia
+843,Omen,Three-Headed Baby,Persia,North Persia
+843,Omen,Moon Turns Red,Persia,North Persia
+844,Disaster,Plague,Rome,Italia
+844,Omen,Geese Flying Backwards,Rome,Gallia
+844,Disaster,Plague,Britannia,Britannia
+844,Omen,Flaming Comet,Germania,South Germania
+844,Disaster,Plague,Germania,South Germania
+845,Omen,Moon Turns Red,Persia,Central Persia
+845,Omen,Three-Headed Baby,Persia,Outer Persia
+845,Omen,Geese Flying Backwards,Persia,Outer Persia
+846,Omen,Moon Turns Red,Rome,Gallia
+846,Disaster,Plague,Persia,Central Persia
+846,Omen,Rivers of Blood,Germania,North Germania
+847,Disaster,Pillaged By Germania,Rome,Italia
+847,Omen,Geese Flying Backwards,Persia,Outer Persia
+847,Disaster,Plague,Persia,Outer Persia
+847,Omen,Rivers of Blood,Persia,North Persia
+847,Disaster,Pillaged By Germania,Britannia,Britannia
+848,Omen,Moon Turns Red,Rome,Italia
+849,Omen,Moon Turns Red,Rome,Gallia
+849,Disaster,Fire,Germania,South Germania
+850,Omen,Three-Headed Baby,Rome,Italia
+850,Disaster,Plague,Rome,Gallia
+850,Omen,Geese Flying Backwards,Persia,Outer Persia
+850,Omen,Three-Headed Baby,Persia,North Persia
+850,Omen,Moon Turns Red,Persia,North Persia
+851,Disaster,Plague,Rome,Italia
+851,Omen,Three-Headed Baby,Persia,North Persia
+851,Omen,Moon Turns Red,Britannia,Britannia
+851,Disaster,Plague,Britannia,Britannia
+852,Disaster,Plague,Rome,Grecia
+852,Disaster,Fire,Persia,North Persia
+852,Omen,Moon Turns Red,Britannia,Britannia
+852,Disaster,Plague,Germania,North Germania
+853,Omen,Rivers of Blood,Rome,Grecia
+853,Omen,Moon Turns Red,Britannia,Britannia
+853,Disaster,Plague,Germania,South Germania
+854,Omen,Moon Turns Red,Persia,Outer Persia
+855,Disaster,Famine,Persia,Outer Persia
+856,Omen,Geese Flying Backwards,Rome,Gallia
+856,Omen,Geese Flying Backwards,Persia,Outer Persia
+856,Omen,Moon Turns Red,Persia,North Persia
+857,Omen,Three-Headed Baby,Rome,Italia
+857,Omen,Geese Flying Backwards,Rome,Gallia
+857,Omen,Moon Turns Red,Rome,Gallia
+857,Disaster,Famine,Persia,Outer Persia
+858,Omen,Three-Headed Baby,Rome,Gallia
+858,Omen,Black Dove,Rome,Gallia
+858,Disaster,Fire,Persia,North Persia
+858,Omen,Black Dove,Germania,North Germania
+859,Omen,Moon Turns Red,Persia,Central Persia
+859,Disaster,Pillaged By Rome,Persia,Outer Persia
+860,Omen,Rivers of Blood,Rome,Italia
+860,Omen,Sun Goes Dark,Persia,Central Persia
+860,Disaster,Plague,Persia,Central Persia
+860,Omen,Three-Headed Baby,Germania,South Germania
+861,Omen,Moon Turns Red,Rome,Italia
+861,Disaster,Fire,Rome,Gallia
+861,Omen,Three-Headed Baby,Rome,Grecia
+861,Disaster,Plague,Persia,North Persia
+862,Disaster,Plague,Rome,Italia
+862,Disaster,Pillaged By Rome,Persia,Outer Persia
+863,Disaster,Plague,Rome,Gallia
+863,Disaster,Pillaged By Germania,Persia,North Persia
+863,Omen,Rivers of Blood,Germania,South Germania
+863,Disaster,Plague,Germania,South Germania
+864,Omen,Moon Turns Red,Rome,Grecia
+864,Omen,Rivers of Blood,Persia,Central Persia
+864,Omen,Rivers of Blood,Persia,North Persia
+864,Omen,Sun Goes Dark,Germania,North Germania
+864,Disaster,Plague,Germania,North Germania
+865,Omen,Moon Turns Red,Britannia,Britannia
+866,Omen,Three-Headed Baby,Persia,Central Persia
+866,Omen,Moon Turns Red,Germania,South Germania
+867,Omen,Three-Headed Baby,Persia,Outer Persia
+867,Omen,Rivers of Blood,Germania,South Germania
+868,Omen,Moon Turns Red,Rome,Italia
+868,Omen,Rivers of Blood,Rome,Gallia
+868,Omen,Three-Headed Baby,Rome,Grecia
+868,Omen,Three-Headed Baby,Persia,North Persia
+868,Omen,Rivers of Blood,Britannia,Britannia
+868,Omen,Geese Flying Backwards,Britannia,Britannia
+868,Disaster,Fire,Britannia,Britannia
+868,Omen,Three-Headed Baby,Germania,North Germania
+869,Disaster,Pillaged By Rome,Germania,South Germania
+871,Omen,Moon Turns Red,Rome,Italia
+871,Omen,Geese Flying Backwards,Persia,Central Persia
+871,Omen,Geese Flying Backwards,Britannia,Britannia
+871,Omen,Moon Turns Red,Germania,North Germania
+871,Disaster,Fire,Germania,North Germania
+872,Omen,Geese Flying Backwards,Persia,Central Persia
+872,Omen,Moon Turns Red,Persia,Central Persia
+872,Omen,Moon Turns Red,Persia,Outer Persia
+872,Omen,Geese Flying Backwards,Britannia,Britannia
+872,Disaster,Fire,Germania,North Germania
+872,Omen,Three-Headed Baby,Germania,South Germania
+873,Disaster,Fire,Rome,Italia
+873,Disaster,Fire,Rome,Grecia
+873,Disaster,Famine,Persia,Central Persia
+873,Disaster,Plague,Persia,Central Persia
+873,Omen,Flaming Comet,Britannia,Britannia
+873,Omen,Three-Headed Baby,Germania,South Germania
+874,Omen,Three-Headed Baby,Rome,Grecia
+874,Disaster,Earthquake,Persia,Central Persia
+874,Disaster,Pillaged By Britannia,Germania,North Germania
+874,Omen,Rivers of Blood,Germania,South Germania
+874,Disaster,Pillaged By Rome,Germania,South Germania
+875,Omen,Black Dove,Persia,Central Persia
+875,Omen,Rivers of Blood,Persia,North Persia
+875,Omen,Black Dove,Britannia,Britannia
+876,Omen,Geese Flying Backwards,Britannia,Britannia
+877,Omen,Rivers of Blood,Rome,Grecia
+877,Omen,Geese Flying Backwards,Rome,Grecia
+877,Omen,Geese Flying Backwards,Britannia,Britannia
+877,Omen,Three-Headed Baby,Germania,South Germania
+877,Omen,Rivers of Blood,Germania,South Germania
+878,Disaster,Pillaged By Germania,Rome,Italia
+878,Disaster,Famine,Rome,Grecia
+878,Omen,Geese Flying Backwards,Persia,Central Persia
+878,Omen,Rivers of Blood,Persia,Outer Persia
+878,Disaster,Pillaged By Rome,Persia,Outer Persia
+878,Disaster,Pillaged By Germania,Persia,North Persia
+878,Omen,Geese Flying Backwards,Britannia,Britannia
+878,Omen,Moon Turns Red,Germania,North Germania
+878,Omen,Moon Turns Red,Germania,South Germania
+879,Omen,Moon Turns Red,Rome,Grecia
+879,Omen,Geese Flying Backwards,Persia,Central Persia
+879,Disaster,Fire,Germania,North Germania
+879,Disaster,Plague,Germania,South Germania
+880,Omen,Rivers of Blood,Rome,Italia
+880,Disaster,Plague,Rome,Gallia
+880,Omen,Three-Headed Baby,Persia,Central Persia
+880,Omen,Geese Flying Backwards,Persia,Central Persia
+880,Disaster,Fire,Persia,North Persia
+880,Omen,Flaming Comet,Germania,North Germania
+881,Disaster,Plague,Rome,Italia
+881,Omen,Moon Turns Red,Persia,North Persia
+882,Omen,Moon Turns Red,Rome,Italia
+882,Omen,Three-Headed Baby,Persia,Outer Persia
+882,Omen,Rivers of Blood,Persia,Outer Persia
+882,Omen,Three-Headed Baby,Persia,North Persia
+882,Omen,Rivers of Blood,Germania,North Germania
+882,Omen,Moon Turns Red,Germania,South Germania
+883,Disaster,Pillaged By Britannia,Rome,Gallia
+883,Omen,Rivers of Blood,Rome,Grecia
+883,Omen,Three-Headed Baby,Persia,North Persia
+883,Omen,Three-Headed Baby,Germania,North Germania
+883,Disaster,Pillaged By Persia,Germania,North Germania
+884,Omen,Geese Flying Backwards,Persia,Central Persia
+884,Omen,Three-Headed Baby,Persia,Outer Persia
+884,Omen,Rivers of Blood,Germania,North Germania
+885,Omen,Geese Flying Backwards,Persia,Central Persia
+885,Omen,Three-Headed Baby,Germania,South Germania
+886,Omen,Geese Flying Backwards,Rome,Italia
+886,Disaster,Fire,Rome,Grecia
+886,Disaster,Famine,Persia,Central Persia
+886,Disaster,Pillaged By Germania,Britannia,Britannia
+887,Omen,Geese Flying Backwards,Rome,Italia
+887,Disaster,Fire,Rome,Gallia
+887,Omen,Three-Headed Baby,Persia,Outer Persia
+887,Disaster,Fire,Persia,Outer Persia
+888,Omen,Moon Turns Red,Rome,Italia
+888,Disaster,Pillaged By Britannia,Rome,Gallia
+888,Omen,Geese Flying Backwards,Rome,Grecia
+888,Omen,Geese Flying Backwards,Germania,South Germania
+889,Omen,Rivers of Blood,Rome,Italia
+889,Omen,Three-Headed Baby,Rome,Grecia
+889,Omen,Geese Flying Backwards,Rome,Grecia
+889,Omen,Geese Flying Backwards,Persia,Central Persia
+889,Omen,Geese Flying Backwards,Persia,Outer Persia
+889,Omen,Moon Turns Red,Britannia,Britannia
+890,Omen,Moon Turns Red,Rome,Gallia
+890,Omen,Black Dove,Rome,Grecia
+890,Omen,Black Dove,Persia,Central Persia
+890,Omen,Geese Flying Backwards,Persia,Outer Persia
+890,Omen,Black Dove,Persia,Outer Persia
+890,Omen,Black Dove,Persia,North Persia
+890,Disaster,Fire,Persia,North Persia
+890,Omen,Black Dove,Britannia,Britannia
+890,Omen,Moon Turns Red,Germania,North Germania
+890,Omen,Three-Headed Baby,Germania,South Germania
+890,Omen,Geese Flying Backwards,Germania,South Germania
+890,Omen,Black Dove,Germania,South Germania
+891,Disaster,Plague,Rome,Gallia
+891,Omen,Geese Flying Backwards,Persia,Central Persia
+891,Omen,Geese Flying Backwards,Persia,Outer Persia
+891,Disaster,Fire,Britannia,Britannia
+891,Disaster,Plague,Germania,North Germania
+892,Omen,Three-Headed Baby,Rome,Grecia
+892,Omen,Geese Flying Backwards,Persia,Outer Persia
+892,Disaster,Famine,Persia,North Persia
+892,Disaster,Plague,Britannia,Britannia
+892,Omen,Geese Flying Backwards,Germania,South Germania
+893,Omen,Moon Turns Red,Persia,Central Persia
+893,Disaster,Famine,Persia,Outer Persia
+893,Omen,Geese Flying Backwards,Persia,North Persia
+894,Omen,Geese Flying Backwards,Persia,Central Persia
+895,Omen,Rivers of Blood,Rome,Italia
+895,Omen,Rivers of Blood,Rome,Grecia
+895,Omen,Geese Flying Backwards,Persia,North Persia
+895,Omen,Three-Headed Baby,Germania,South Germania
+895,Omen,Geese Flying Backwards,Germania,South Germania
+896,Omen,Geese Flying Backwards,Rome,Italia
+896,Omen,Geese Flying Backwards,Persia,Central Persia
+896,Disaster,Fire,Britannia,Britannia
+897,Omen,Geese Flying Backwards,Rome,Italia
+897,Disaster,Famine,Persia,Central Persia
+897,Omen,Geese Flying Backwards,Persia,Outer Persia
+897,Disaster,Pillaged By Rome,Persia,Outer Persia
+898,Omen,Geese Flying Backwards,Germania,South Germania
+898,Disaster,Fire,Germania,South Germania
+899,Omen,Geese Flying Backwards,Rome,Gallia
+899,Omen,Rivers of Blood,Persia,Central Persia
+899,Disaster,Famine,Persia,Outer Persia
+899,Omen,Rivers of Blood,Persia,North Persia
+900,Omen,Geese Flying Backwards,Rome,Gallia
+900,Disaster,Famine,Rome,Grecia
+900,Disaster,Pillaged By Rome,Persia,Outer Persia
+900,Omen,Three-Headed Baby,Germania,North Germania
+900,Omen,Moon Turns Red,Germania,South Germania
+901,Omen,Three-Headed Baby,Rome,Gallia
+901,Omen,Rivers of Blood,Rome,Gallia
+901,Omen,Geese Flying Backwards,Rome,Gallia
+901,Disaster,Fire,Rome,Gallia
+901,Omen,Geese Flying Backwards,Germania,South Germania
+902,Disaster,Famine,Rome,Gallia
+902,Omen,Rivers of Blood,Persia,North Persia
+902,Omen,Three-Headed Baby,Britannia,Britannia
+902,Omen,Geese Flying Backwards,Britannia,Britannia
+903,Omen,Geese Flying Backwards,Rome,Italia
+903,Omen,Three-Headed Baby,Rome,Gallia
+903,Omen,Geese Flying Backwards,Rome,Gallia
+903,Omen,Geese Flying Backwards,Persia,Outer Persia
+903,Disaster,Famine,Britannia,Britannia
+903,Omen,Geese Flying Backwards,Germania,South Germania
+904,Disaster,Famine,Rome,Italia
+904,Disaster,Famine,Rome,Gallia
+904,Disaster,Famine,Persia,Outer Persia
+905,Omen,Rivers of Blood,Rome,Italia
+905,Omen,Three-Headed Baby,Rome,Gallia
+905,Omen,Geese Flying Backwards,Persia,Outer Persia
+905,Omen,Moon Turns Red,Persia,Outer Persia
+905,Disaster,Fire,Britannia,Britannia
+906,Omen,Flaming Comet,Rome,Gallia
+906,Disaster,Famine,Persia,Outer Persia
+906,Disaster,Plague,Persia,Outer Persia
+906,Omen,Geese Flying Backwards,Britannia,Britannia
+906,Omen,Geese Flying Backwards,Germania,North Germania
+906,Omen,Rivers of Blood,Germania,South Germania
+907,Disaster,Pillaged By Germania,Rome,Italia
+907,Disaster,Earthquake,Rome,Grecia
+907,Disaster,Plague,Rome,Grecia
+907,Omen,Geese Flying Backwards,Persia,Outer Persia
+907,Omen,Rivers of Blood,Persia,North Persia
+907,Omen,Rivers of Blood,Britannia,Britannia
+907,Disaster,Famine,Britannia,Britannia
+907,Disaster,Pillaged By Germania,Britannia,Britannia
+907,Disaster,Fire,Germania,North Germania
+907,Disaster,Famine,Germania,South Germania
+908,Disaster,Plague,Rome,Italia
+908,Omen,Geese Flying Backwards,Rome,Gallia
+908,Disaster,Famine,Persia,Outer Persia
+908,Omen,Geese Flying Backwards,Britannia,Britannia
+908,Disaster,Earthquake,Britannia,Britannia
+908,Disaster,Famine,Germania,North Germania
+908,Disaster,Earthquake,Germania,North Germania
+908,Omen,Moon Turns Red,Germania,South Germania
+909,Omen,Sun Goes Dark,Britannia,Britannia
+909,Disaster,Famine,Britannia,Britannia
+910,Omen,Rivers of Blood,Rome,Italia
+910,Omen,Three-Headed Baby,Rome,Gallia
+911,Omen,Rivers of Blood,Rome,Gallia
+911,Omen,Moon Turns Red,Germania,North Germania
+911,Omen,Rivers of Blood,Germania,South Germania
+912,Omen,Moon Turns Red,Rome,Grecia
+912,Omen,Geese Flying Backwards,Britannia,Britannia
+912,Disaster,Pillaged By Germania,Britannia,Britannia
+913,Omen,Rivers of Blood,Rome,Grecia
+913,Disaster,Plague,Rome,Grecia
+913,Omen,Geese Flying Backwards,Britannia,Britannia
+914,Omen,Three-Headed Baby,Rome,Italia
+914,Disaster,Fire,Persia,Central Persia
+914,Disaster,Famine,Persia,Outer Persia
+914,Disaster,Plague,Persia,Outer Persia
+914,Omen,Rivers of Blood,Persia,North Persia
+914,Omen,Rivers of Blood,Germania,North Germania
+915,Disaster,Pillaged By Germania,Rome,Gallia
+915,Disaster,Earthquake,Rome,Grecia
+915,Disaster,Earthquake,Persia,Central Persia
+915,Disaster,Pillaged By Rome,Persia,Outer Persia
+915,Omen,Three-Headed Baby,Persia,North Persia
+915,Omen,Moon Turns Red,Germania,South Germania
+916,Omen,Moon Turns Red,Rome,Grecia
+916,Omen,Three-Headed Baby,Britannia,Britannia
+916,Disaster,Plague,Germania,South Germania
+917,Omen,Rivers of Blood,Rome,Italia
+917,Disaster,Famine,Rome,Gallia
+917,Omen,Rivers of Blood,Rome,Grecia
+917,Omen,Rivers of Blood,Germania,North Germania
+917,Disaster,Plague,Germania,North Germania
+918,Omen,Three-Headed Baby,Rome,Italia
+918,Disaster,Pillaged By Britannia,Rome,Gallia
+918,Omen,Three-Headed Baby,Persia,North Persia
+918,Disaster,Plague,Persia,North Persia
+918,Disaster,Pillaged By Germania,Persia,North Persia
+919,Disaster,Plague,Persia,Central Persia
+919,Disaster,Pillaged By Rome,Persia,Outer Persia
+919,Disaster,Earthquake,Persia,North Persia
+919,Omen,Moon Turns Red,Germania,South Germania
+920,Disaster,Fire,Germania,South Germania
+921,Disaster,Fire,Rome,Grecia
+921,Omen,Three-Headed Baby,Persia,Central Persia
+923,Disaster,Fire,Rome,Grecia
+923,Disaster,Fire,Persia,Outer Persia
+924,Omen,Moon Turns Red,Persia,North Persia
+924,Disaster,Pillaged By Germania,Persia,North Persia
+924,Omen,Rivers of Blood,Germania,North Germania
+925,Omen,Rivers of Blood,Rome,Gallia
+926,Omen,Black Dove,Rome,Italia
+926,Omen,Black Dove,Rome,Gallia
+926,Omen,Black Dove,Rome,Grecia
+926,Omen,Black Dove,Persia,Outer Persia
+926,Omen,Black Dove,Germania,North Germania
+926,Omen,Black Dove,Germania,South Germania
+927,Omen,Three-Headed Baby,Rome,Italia
+927,Omen,Rivers of Blood,Rome,Gallia
+928,Disaster,Fire,Rome,Gallia
+928,Omen,Rivers of Blood,Britannia,Britannia
+929,Omen,Geese Flying Backwards,Persia,Outer Persia
+929,Disaster,Fire,Germania,North Germania
+930,Omen,Moon Turns Red,Rome,Gallia
+930,Omen,Three-Headed Baby,Persia,North Persia
+930,Omen,Moon Turns Red,Germania,North Germania
+931,Disaster,Fire,Rome,Grecia
+931,Omen,Geese Flying Backwards,Persia,Outer Persia
+931,Omen,Rivers of Blood,Persia,North Persia
+931,Omen,Three-Headed Baby,Britannia,Britannia
+932,Disaster,Famine,Rome,Gallia
+932,Omen,Moon Turns Red,Rome,Grecia
+932,Disaster,Fire,Persia,Central Persia
+933,Omen,Rivers of Blood,Rome,Gallia
+933,Omen,Geese Flying Backwards,Persia,Outer Persia
+933,Disaster,Fire,Britannia,Britannia
+933,Disaster,Pillaged By Rome,Britannia,Britannia
+933,Disaster,Famine,Germania,South Germania
+934,Disaster,Fire,Rome,Italia
+934,Disaster,Famine,Rome,Italia
+934,Omen,Rivers of Blood,Rome,Grecia
+934,Omen,Rivers of Blood,Persia,Outer Persia
+934,Disaster,Famine,Persia,Outer Persia
+934,Disaster,Earthquake,Britannia,Britannia
+934,Disaster,Fire,Germania,North Germania
+935,Omen,Geese Flying Backwards,Rome,Italia
+935,Disaster,Earthquake,Rome,Gallia
+935,Disaster,Earthquake,Rome,Grecia
+936,Disaster,Famine,Rome,Italia
+936,Omen,Moon Turns Red,Rome,Gallia
+936,Disaster,Pillaged By Germania,Persia,North Persia
+937,Omen,Rivers of Blood,Rome,Italia
+937,Disaster,Pillaged By Persia,Rome,Grecia
+937,Omen,Three-Headed Baby,Persia,North Persia
+937,Disaster,Fire,Germania,South Germania
+938,Omen,Rivers of Blood,Persia,Outer Persia
+938,Omen,Geese Flying Backwards,Germania,North Germania
+939,Omen,Moon Turns Red,Rome,Italia
+939,Omen,Rivers of Blood,Persia,North Persia
+940,Disaster,Plague,Rome,Italia
+940,Omen,Three-Headed Baby,Persia,North Persia
+941,Omen,Rivers of Blood,Rome,Italia
+941,Omen,Three-Headed Baby,Persia,Central Persia
+941,Omen,Rivers of Blood,Persia,Outer Persia
+941,Disaster,Pillaged By Rome,Britannia,Britannia
+941,Disaster,Pillaged By Germania,Britannia,Britannia
+942,Omen,Moon Turns Red,Rome,Grecia
+942,Disaster,Fire,Persia,North Persia
+942,Disaster,Earthquake,Germania,North Germania
+943,Omen,Geese Flying Backwards,Persia,Central Persia
+943,Omen,Three-Headed Baby,Persia,Outer Persia
+943,Omen,Rivers of Blood,Persia,Outer Persia
+943,Disaster,Pillaged By Rome,Persia,Outer Persia
+943,Disaster,Famine,Britannia,Britannia
+943,Omen,Rivers of Blood,Germania,North Germania
+944,Omen,Three-Headed Baby,Rome,Gallia
+944,Omen,Rivers of Blood,Rome,Gallia
+944,Omen,Geese Flying Backwards,Persia,Central Persia
+945,Omen,Three-Headed Baby,Rome,Gallia
+945,Omen,Rivers of Blood,Rome,Grecia
+945,Disaster,Famine,Persia,Central Persia
+945,Omen,Geese Flying Backwards,Germania,North Germania
+945,Omen,Moon Turns Red,Germania,North Germania
+946,Omen,Rivers of Blood,Rome,Italia
+946,Omen,Geese Flying Backwards,Persia,Central Persia
+946,Disaster,Plague,Germania,North Germania
+947,Omen,Geese Flying Backwards,Persia,Central Persia
+947,Omen,Black Dove,Persia,Outer Persia
+947,Omen,Geese Flying Backwards,Britannia,Britannia
+947,Disaster,Pillaged By Germania,Britannia,Britannia
+948,Omen,Geese Flying Backwards,Persia,Central Persia
+949,Disaster,Famine,Persia,Central Persia
+949,Omen,Geese Flying Backwards,Persia,Outer Persia
+949,Disaster,Fire,Persia,Outer Persia
+949,Omen,Three-Headed Baby,Britannia,Britannia
+949,Omen,Geese Flying Backwards,Britannia,Britannia
+949,Omen,Sun Goes Dark,Germania,North Germania
+950,Omen,Moon Turns Red,Persia,North Persia
+950,Omen,Geese Flying Backwards,Germania,South Germania
+951,Omen,Geese Flying Backwards,Persia,Outer Persia
+951,Disaster,Pillaged By Rome,Persia,Outer Persia
+951,Omen,Rivers of Blood,Britannia,Britannia
+951,Disaster,Famine,Germania,South Germania
+952,Disaster,Famine,Persia,Outer Persia
+952,Omen,Moon Turns Red,Persia,North Persia
+952,Omen,Rivers of Blood,Germania,North Germania
+952,Omen,Geese Flying Backwards,Germania,South Germania
+953,Disaster,Fire,Rome,Italia
+953,Omen,Geese Flying Backwards,Persia,Outer Persia
+953,Omen,Rivers of Blood,Persia,North Persia
+953,Disaster,Plague,Persia,North Persia
+953,Omen,Three-Headed Baby,Britannia,Britannia
+953,Disaster,Famine,Germania,South Germania
+954,Disaster,Fire,Rome,Gallia
+954,Disaster,Fire,Rome,Grecia
+954,Disaster,Famine,Persia,Outer Persia
+954,Disaster,Fire,Germania,North Germania
+954,Disaster,Plague,Germania,North Germania
+955,Disaster,Famine,Britannia,Britannia
+955,Disaster,Plague,Germania,South Germania
+956,Disaster,Plague,Rome,Italia
+956,Disaster,Pillaged By Rome,Britannia,Britannia
+956,Omen,Geese Flying Backwards,Germania,South Germania
+956,Disaster,Pillaged By Rome,Germania,South Germania
+957,Disaster,Plague,Rome,Gallia
+957,Disaster,Pillaged By Britannia,Germania,North Germania
+958,Omen,Geese Flying Backwards,Rome,Gallia
+958,Omen,Geese Flying Backwards,Persia,Outer Persia
+958,Omen,Rivers of Blood,Persia,North Persia
+958,Omen,Flaming Comet,Britannia,Britannia
+959,Omen,Geese Flying Backwards,Rome,Gallia
+959,Omen,Geese Flying Backwards,Britannia,Britannia
+959,Omen,Three-Headed Baby,Germania,South Germania
+960,Omen,Moon Turns Red,Rome,Italia
+960,Omen,Geese Flying Backwards,Rome,Gallia
+960,Omen,Rivers of Blood,Britannia,Britannia
+960,Disaster,Famine,Britannia,Britannia
+960,Omen,Three-Headed Baby,Germania,South Germania
+960,Omen,Moon Turns Red,Germania,South Germania
+961,Omen,Flaming Comet,Persia,Central Persia
+961,Omen,Geese Flying Backwards,Persia,Outer Persia
+961,Disaster,Pillaged By Germania,Britannia,Britannia
+962,Omen,Moon Turns Red,Rome,Grecia
+962,Disaster,Famine,Persia,Outer Persia
+962,Disaster,Pillaged By Rome,Persia,Outer Persia
+962,Disaster,Pillaged By Persia,Germania,North Germania
+962,Disaster,Famine,Germania,South Germania
+963,Disaster,Fire,Persia,Central Persia
+963,Omen,Moon Turns Red,Britannia,Britannia
+964,Omen,Geese Flying Backwards,Rome,Gallia
+964,Disaster,Fire,Rome,Gallia
+964,Omen,Three-Headed Baby,Persia,North Persia
+964,Disaster,Pillaged By Germania,Britannia,Britannia
+965,Omen,Black Dove,Rome,Grecia
+965,Omen,Moon Turns Red,Persia,North Persia
+965,Omen,Black Dove,Germania,North Germania
+965,Disaster,Pillaged By Rome,Germania,South Germania
+966,Omen,Geese Flying Backwards,Persia,Central Persia
+966,Omen,Rivers of Blood,Persia,North Persia
+966,Disaster,Plague,Persia,North Persia
+966,Omen,Geese Flying Backwards,Britannia,Britannia
+967,Omen,Rivers of Blood,Rome,Italia
+967,Omen,Geese Flying Backwards,Rome,Gallia
+967,Disaster,Famine,Persia,Central Persia
+967,Omen,Geese Flying Backwards,Persia,Outer Persia
+967,Omen,Moon Turns Red,Persia,Outer Persia
+967,Omen,Geese Flying Backwards,Britannia,Britannia
+967,Disaster,Fire,Britannia,Britannia
+967,Omen,Three-Headed Baby,Germania,North Germania
+969,Omen,Geese Flying Backwards,Rome,Gallia
+969,Omen,Three-Headed Baby,Rome,Grecia
+969,Omen,Moon Turns Red,Persia,Central Persia
+969,Disaster,Famine,Persia,Outer Persia
+969,Omen,Rivers of Blood,Persia,North Persia
+969,Disaster,Pillaged By Germania,Britannia,Britannia
+969,Disaster,Pillaged By Rome,Germania,South Germania
+970,Omen,Geese Flying Backwards,Rome,Gallia
+970,Disaster,Famine,Britannia,Britannia
+971,Disaster,Famine,Rome,Italia
+971,Omen,Rivers of Blood,Rome,Grecia
+971,Disaster,Fire,Rome,Grecia
+974,Omen,Rivers of Blood,Persia,North Persia
+975,Omen,Geese Flying Backwards,Rome,Grecia
+975,Disaster,Fire,Persia,Central Persia
+975,Omen,Three-Headed Baby,Persia,Outer Persia
+975,Omen,Moon Turns Red,Persia,Outer Persia
+975,Omen,Rivers of Blood,Persia,North Persia
+976,Disaster,Fire,Rome,Gallia
+976,Omen,Geese Flying Backwards,Rome,Grecia
+976,Disaster,Plague,Persia,Outer Persia
+976,Omen,Rivers of Blood,Persia,North Persia
+977,Omen,Moon Turns Red,Rome,Italia
+977,Omen,Geese Flying Backwards,Rome,Grecia
+977,Disaster,Plague,Persia,Central Persia
+977,Disaster,Fire,Persia,North Persia
+978,Omen,Sun Goes Dark,Rome,Italia
+978,Disaster,Plague,Rome,Italia
+978,Disaster,Pillaged By Britannia,Rome,Gallia
+978,Omen,Rivers of Blood,Persia,Central Persia
+978,Omen,Geese Flying Backwards,Persia,Outer Persia
+978,Disaster,Fire,Germania,North Germania
+978,Disaster,Pillaged By Britannia,Germania,North Germania
+979,Disaster,Plague,Rome,Gallia
+979,Omen,Geese Flying Backwards,Rome,Grecia
+979,Omen,Geese Flying Backwards,Persia,Outer Persia
+979,Disaster,Earthquake,Persia,North Persia
+979,Omen,Rivers of Blood,Germania,North Germania
+979,Omen,Geese Flying Backwards,Germania,North Germania
+980,Omen,Rivers of Blood,Rome,Grecia
+980,Disaster,Pillaged By Germania,Persia,North Persia
+980,Omen,Rivers of Blood,Germania,North Germania
+981,Omen,Geese Flying Backwards,Rome,Grecia
+981,Omen,Geese Flying Backwards,Persia,Outer Persia
+983,Disaster,Famine,Persia,Outer Persia
+984,Omen,Moon Turns Red,Britannia,Britannia
+984,Omen,Sun Goes Dark,Britannia,Britannia
+985,Omen,Three-Headed Baby,Persia,Outer Persia
+985,Disaster,Famine,Britannia,Britannia
+986,Omen,Rivers of Blood,Rome,Gallia
+986,Omen,Three-Headed Baby,Rome,Grecia
+986,Omen,Rivers of Blood,Britannia,Britannia
+986,Omen,Moon Turns Red,Germania,North Germania
+987,Disaster,Pillaged By Persia,Rome,Grecia
+987,Disaster,Fire,Germania,South Germania
+988,Omen,Black Dove,Rome,Italia
+988,Disaster,Fire,Rome,Grecia
+988,Omen,Three-Headed Baby,Britannia,Britannia
+988,Omen,Moon Turns Red,Britannia,Britannia
+988,Disaster,Pillaged By Rome,Britannia,Britannia
+988,Omen,Black Dove,Germania,South Germania
+989,Disaster,Pillaged By Persia,Rome,Grecia
+989,Disaster,Pillaged By Germania,Britannia,Britannia
+990,Disaster,Famine,Persia,Central Persia
+990,Omen,Geese Flying Backwards,Persia,North Persia
+990,Omen,Three-Headed Baby,Britannia,Britannia
+990,Omen,Rivers of Blood,Germania,North Germania
+991,Omen,Three-Headed Baby,Rome,Italia
+991,Omen,Moon Turns Red,Rome,Grecia
+992,Omen,Rivers of Blood,Rome,Italia
+992,Disaster,Famine,Persia,North Persia
+992,Disaster,Fire,Germania,South Germania
+992,Disaster,Pillaged By Rome,Germania,South Germania
+993,Omen,Moon Turns Red,Rome,Italia
+993,Omen,Rivers of Blood,Persia,Central Persia
+993,Omen,Geese Flying Backwards,Persia,Outer Persia
+993,Disaster,Fire,Britannia,Britannia
+993,Disaster,Earthquake,Germania,North Germania
+993,Disaster,Earthquake,Germania,South Germania
+993,Disaster,Pillaged By Rome,Germania,South Germania
+994,Omen,Rivers of Blood,Rome,Grecia
+994,Omen,Rivers of Blood,Persia,Outer Persia
+994,Omen,Moon Turns Red,Persia,North Persia
+994,Disaster,Pillaged By Britannia,Germania,North Germania
+995,Omen,Moon Turns Red,Germania,South Germania
+996,Disaster,Famine,Persia,Outer Persia
+996,Omen,Moon Turns Red,Germania,South Germania
+996,Disaster,Plague,Germania,South Germania
+997,Disaster,Plague,Rome,Italia
+999,Disaster,Pillaged By Persia,Rome,Grecia
+999,Disaster,Fire,Persia,North Persia
+1000,Omen,Geese Flying Backwards,Rome,Grecia
+1000,Omen,Rivers of Blood,Persia,Central Persia
+1000,Omen,Geese Flying Backwards,Persia,Central Persia
+1000,Disaster,Fire,Persia,Outer Persia
+1000,Omen,Moon Turns Red,Britannia,Britannia
+1000,Disaster,Pillaged By Persia,Germania,North Germania
+1001,Omen,Moon Turns Red,Rome,Italia
+1001,Omen,Moon Turns Red,Rome,Grecia
+1001,Disaster,Famine,Rome,Grecia
+1001,Omen,Geese Flying Backwards,Persia,Central Persia
+1002,Disaster,Fire,Rome,Gallia
+1002,Omen,Geese Flying Backwards,Persia,Central Persia
+1002,Omen,Geese Flying Backwards,Persia,North Persia
+1002,Omen,Rivers of Blood,Germania,South Germania
+1003,Disaster,Pillaged By Germania,Rome,Italia
+1003,Omen,Geese Flying Backwards,Rome,Grecia
+1003,Disaster,Famine,Persia,Central Persia
+1003,Omen,Geese Flying Backwards,Persia,North Persia
+1004,Disaster,Pillaged By Germania,Rome,Gallia
+1004,Omen,Rivers of Blood,Persia,Outer Persia
+1005,Omen,Moon Turns Red,Rome,Italia
+1006,Disaster,Fire,Britannia,Britannia
+1007,Omen,Geese Flying Backwards,Rome,Grecia
+1007,Omen,Geese Flying Backwards,Persia,Outer Persia
+1008,Omen,Moon Turns Red,Rome,Italia
+1008,Disaster,Fire,Rome,Italia
+1008,Omen,Black Dove,Rome,Gallia
+1008,Disaster,Famine,Rome,Grecia
+1008,Omen,Moon Turns Red,Persia,North Persia
+1008,Disaster,Fire,Persia,North Persia
+1008,Omen,Black Dove,Britannia,Britannia
+1008,Omen,Three-Headed Baby,Germania,North Germania
+1008,Omen,Black Dove,Germania,North Germania
+1008,Omen,Moon Turns Red,Germania,South Germania
+1009,Disaster,Plague,Rome,Italia
+1009,Omen,Rivers of Blood,Rome,Gallia
+1009,Omen,Geese Flying Backwards,Persia,Outer Persia
+1009,Disaster,Plague,Persia,North Persia
+1009,Omen,Geese Flying Backwards,Germania,North Germania
+1010,Disaster,Plague,Persia,Central Persia
+1010,Omen,Rivers of Blood,Persia,Outer Persia
+1010,Omen,Geese Flying Backwards,Persia,Outer Persia
+1010,Omen,Three-Headed Baby,Britannia,Britannia
+1010,Disaster,Plague,Germania,South Germania
+1011,Omen,Black Dove,Rome,Gallia
+1011,Disaster,Plague,Rome,Gallia
+1011,Omen,Three-Headed Baby,Persia,Outer Persia
+1011,Omen,Geese Flying Backwards,Persia,Outer Persia
+1011,Omen,Geese Flying Backwards,Persia,North Persia
+1011,Omen,Rivers of Blood,Britannia,Britannia
+1011,Omen,Three-Headed Baby,Germania,North Germania
+1011,Disaster,Plague,Germania,North Germania
+1012,Disaster,Pillaged By Germania,Rome,Gallia
+1012,Disaster,Pillaged By Persia,Rome,Grecia
+1012,Omen,Geese Flying Backwards,Persia,Outer Persia
+1012,Disaster,Famine,Persia,North Persia
+1012,Omen,Three-Headed Baby,Britannia,Britannia
+1012,Disaster,Pillaged By Persia,Germania,North Germania
+1013,Omen,Moon Turns Red,Persia,Outer Persia
+1013,Omen,Geese Flying Backwards,Germania,North Germania
+1014,Omen,Geese Flying Backwards,Rome,Italia
+1015,Omen,Geese Flying Backwards,Rome,Italia
+1015,Omen,Rivers of Blood,Persia,Outer Persia
+1015,Disaster,Famine,Persia,North Persia
+1015,Disaster,Pillaged By Britannia,Germania,North Germania
+1016,Omen,Three-Headed Baby,Persia,Central Persia
+1016,Disaster,Fire,Germania,South Germania
+1017,Disaster,Fire,Rome,Italia
+1017,Omen,Geese Flying Backwards,Persia,North Persia
+1017,Omen,Geese Flying Backwards,Germania,North Germania
+1017,Disaster,Pillaged By Rome,Germania,South Germania
+1018,Omen,Moon Turns Red,Persia,Central Persia
+1018,Omen,Rivers of Blood,Persia,North Persia
+1018,Omen,Flaming Comet,Britannia,Britannia
+1018,Omen,Geese Flying Backwards,Germania,North Germania
+1019,Omen,Rivers of Blood,Rome,Gallia
+1019,Omen,Moon Turns Red,Persia,North Persia
+1020,Omen,Geese Flying Backwards,Rome,Italia
+1020,Disaster,Fire,Persia,Central Persia
+1020,Omen,Geese Flying Backwards,Persia,North Persia
+1020,Disaster,Fire,Germania,North Germania
+1021,Omen,Rivers of Blood,Persia,North Persia
+1021,Disaster,Famine,Persia,North Persia
+1021,Omen,Geese Flying Backwards,Germania,North Germania
+1022,Omen,Rivers of Blood,Rome,Italia
+1022,Omen,Flaming Comet,Rome,Italia
+1022,Disaster,Pillaged By Persia,Rome,Grecia
+1023,Omen,Rivers of Blood,Persia,Central Persia
+1023,Omen,Moon Turns Red,Britannia,Britannia
+1023,Omen,Moon Turns Red,Germania,North Germania
+1023,Disaster,Fire,Germania,South Germania
+1024,Omen,Geese Flying Backwards,Rome,Italia
+1024,Omen,Three-Headed Baby,Persia,Outer Persia
+1024,Omen,Rivers of Blood,Germania,North Germania
+1025,Omen,Geese Flying Backwards,Rome,Italia
+1025,Omen,Flaming Comet,Germania,North Germania
+1026,Disaster,Fire,Rome,Gallia
+1026,Omen,Moon Turns Red,Persia,Central Persia
+1026,Omen,Three-Headed Baby,Persia,Outer Persia
+1027,Disaster,Famine,Rome,Italia
+1027,Omen,Three-Headed Baby,Rome,Grecia
+1027,Omen,Rivers of Blood,Rome,Grecia
+1027,Disaster,Fire,Persia,Central Persia
+1028,Omen,Rivers of Blood,Rome,Grecia
+1029,Omen,Rivers of Blood,Rome,Grecia
+1029,Omen,Sun Goes Dark,Persia,Central Persia
+1029,Omen,Rivers of Blood,Persia,Outer Persia
+1029,Omen,Three-Headed Baby,Britannia,Britannia
+1029,Disaster,Fire,Britannia,Britannia
+1029,Omen,Moon Turns Red,Germania,North Germania
+1030,Disaster,Pillaged By Persia,Rome,Grecia
+1030,Omen,Moon Turns Red,Persia,Outer Persia
+1030,Disaster,Plague,Germania,North Germania
+1031,Omen,Three-Headed Baby,Rome,Gallia
+1031,Omen,Rivers of Blood,Rome,Grecia
+1031,Disaster,Famine,Persia,Central Persia
+1031,Omen,Rivers of Blood,Persia,Outer Persia
+1031,Disaster,Pillaged By Rome,Britannia,Britannia
+1032,Omen,Three-Headed Baby,Rome,Grecia
+1032,Omen,Geese Flying Backwards,Persia,Central Persia
+1032,Disaster,Fire,Britannia,Britannia
+1032,Omen,Geese Flying Backwards,Germania,North Germania
+1032,Disaster,Pillaged By Rome,Germania,South Germania
+1033,Omen,Moon Turns Red,Britannia,Britannia
+1034,Disaster,Fire,Rome,Grecia
+1034,Disaster,Pillaged By Persia,Germania,North Germania
+1034,Omen,Moon Turns Red,Germania,South Germania
+1035,Omen,Three-Headed Baby,Persia,Outer Persia
+1035,Disaster,Fire,Persia,Outer Persia
+1036,Omen,Rivers of Blood,Rome,Grecia
+1036,Omen,Rivers of Blood,Britannia,Britannia
+1037,Disaster,Fire,Germania,South Germania
+1038,Disaster,Fire,Persia,North Persia
+1038,Omen,Rivers of Blood,Britannia,Britannia
+1039,Omen,Rivers of Blood,Persia,Outer Persia
+1039,Omen,Rivers of Blood,Britannia,Britannia
+1039,Disaster,Fire,Britannia,Britannia
+1040,Disaster,Fire,Rome,Italia
+1040,Disaster,Pillaged By Britannia,Germania,North Germania
+1041,Disaster,Pillaged By Rome,Britannia,Britannia
+1041,Omen,Three-Headed Baby,Germania,North Germania
+1041,Omen,Geese Flying Backwards,Germania,North Germania
+1042,Omen,Three-Headed Baby,Germania,North Germania
+1043,Disaster,Pillaged By Germania,Britannia,Britannia
+1044,Omen,Three-Headed Baby,Rome,Gallia
+1044,Omen,Rivers of Blood,Persia,Outer Persia
+1044,Omen,Rivers of Blood,Germania,North Germania
+1045,Omen,Rivers of Blood,Rome,Italia
+1045,Disaster,Pillaged By Germania,Persia,North Persia
+1046,Disaster,Pillaged By Rome,Germania,South Germania
+1047,Disaster,Fire,Persia,Outer Persia
+1048,Omen,Rivers of Blood,Persia,North Persia
+1049,Disaster,Pillaged By Rome,Persia,Outer Persia
+1050,Omen,Rivers of Blood,Rome,Grecia
+1050,Omen,Moon Turns Red,Persia,Central Persia
+1050,Omen,Moon Turns Red,Persia,North Persia
+1050,Disaster,Pillaged By Rome,Germania,South Germania
+1051,Disaster,Fire,Rome,Gallia
+1052,Disaster,Pillaged By Rome,Persia,Outer Persia
+1052,Disaster,Pillaged By Germania,Persia,North Persia
+1052,Omen,Rivers of Blood,Germania,South Germania
+1053,Omen,Rivers of Blood,Persia,Outer Persia
+1053,Omen,Geese Flying Backwards,Persia,North Persia
+1053,Omen,Three-Headed Baby,Germania,North Germania
+1053,Omen,Rivers of Blood,Germania,North Germania
+1054,Omen,Three-Headed Baby,Rome,Grecia
+1054,Disaster,Famine,Persia,North Persia
+1054,Disaster,Pillaged By Germania,Britannia,Britannia
+1054,Disaster,Fire,Germania,North Germania
+1055,Omen,Rivers of Blood,Rome,Grecia
+1055,Omen,Geese Flying Backwards,Persia,North Persia
+1056,Omen,Three-Headed Baby,Persia,Outer Persia
+1056,Omen,Three-Headed Baby,Germania,South Germania
+1057,Omen,Rivers of Blood,Rome,Grecia
+1057,Omen,Rivers of Blood,Persia,Outer Persia
+1057,Omen,Geese Flying Backwards,Persia,North Persia
+1057,Disaster,Fire,Persia,North Persia
+1058,Omen,Three-Headed Baby,Rome,Italia
+1058,Omen,Geese Flying Backwards,Persia,North Persia
+1058,Omen,Moon Turns Red,Persia,North Persia
+1058,Disaster,Fire,Britannia,Britannia
+1059,Omen,Three-Headed Baby,Persia,Central Persia
+1059,Disaster,Famine,Persia,North Persia
+1059,Omen,Rivers of Blood,Britannia,Britannia
+1059,Omen,Geese Flying Backwards,Germania,South Germania
+1060,Omen,Rivers of Blood,Rome,Gallia
+1060,Disaster,Famine,Persia,Central Persia
+1060,Disaster,Famine,Germania,South Germania
+1061,Disaster,Fire,Rome,Grecia
+1061,Disaster,Famine,Rome,Grecia
+1061,Omen,Moon Turns Red,Persia,North Persia
+1062,Omen,Black Dove,Rome,Grecia
+1062,Omen,Black Dove,Persia,Central Persia
+1062,Disaster,Famine,Persia,Central Persia
+1062,Omen,Rivers of Blood,Persia,Outer Persia
+1062,Disaster,Plague,Persia,North Persia
+1063,Disaster,Plague,Persia,Central Persia
+1063,Disaster,Fire,Germania,North Germania
+1064,Disaster,Fire,Rome,Italia
+1065,Disaster,Pillaged By Britannia,Rome,Gallia
+1065,Omen,Moon Turns Red,Persia,Central Persia
+1066,Disaster,Pillaged By Rome,Persia,Outer Persia
+1066,Disaster,Pillaged By Germania,Persia,North Persia
+1067,Disaster,Pillaged By Rome,Persia,Outer Persia
+1068,Omen,Rivers of Blood,Rome,Italia
+1068,Omen,Moon Turns Red,Persia,Central Persia
+1068,Disaster,Fire,Persia,North Persia
+1068,Omen,Three-Headed Baby,Britannia,Britannia
+1069,Disaster,Pillaged By Germania,Persia,North Persia
+1069,Omen,Moon Turns Red,Britannia,Britannia
+1069,Omen,Rivers of Blood,Germania,South Germania
+1071,Disaster,Famine,Rome,Grecia
+1071,Disaster,Fire,Germania,North Germania
+1072,Omen,Moon Turns Red,Rome,Italia
+1072,Omen,Three-Headed Baby,Rome,Gallia
+1072,Omen,Geese Flying Backwards,Persia,Central Persia
+1072,Omen,Rivers of Blood,Germania,South Germania
+1073,Omen,Geese Flying Backwards,Persia,Central Persia
+1073,Omen,Moon Turns Red,Germania,North Germania
+1073,Disaster,Famine,Germania,South Germania
+1074,Omen,Geese Flying Backwards,Persia,Central Persia
+1074,Omen,Three-Headed Baby,Persia,Outer Persia
+1074,Disaster,Pillaged By Persia,Germania,North Germania
+1075,Omen,Geese Flying Backwards,Persia,Central Persia
+1075,Omen,Flaming Comet,Persia,Outer Persia
+1075,Omen,Rivers of Blood,Persia,North Persia
+1075,Omen,Three-Headed Baby,Germania,South Germania
+1075,Disaster,Pillaged By Rome,Germania,South Germania
+1076,Disaster,Fire,Rome,Italia
+1076,Omen,Geese Flying Backwards,Persia,Central Persia
+1076,Omen,Three-Headed Baby,Persia,Outer Persia
+1076,Omen,Moon Turns Red,Persia,North Persia
+1076,Disaster,Pillaged By Rome,Britannia,Britannia
+1076,Disaster,Pillaged By Persia,Germania,North Germania
+1077,Omen,Sun Goes Dark,Rome,Italia
+1077,Disaster,Pillaged By Germania,Rome,Gallia
+1077,Omen,Three-Headed Baby,Britannia,Britannia
+1078,Disaster,Pillaged By Germania,Rome,Italia
+1078,Omen,Geese Flying Backwards,Rome,Grecia
+1078,Omen,Geese Flying Backwards,Persia,Central Persia
+1078,Omen,Three-Headed Baby,Persia,Outer Persia
+1078,Omen,Geese Flying Backwards,Persia,Outer Persia
+1079,Omen,Geese Flying Backwards,Rome,Grecia
+1079,Omen,Moon Turns Red,Persia,Outer Persia
+1080,Omen,Rivers of Blood,Rome,Italia
+1080,Omen,Black Dove,Rome,Italia
+1080,Omen,Black Dove,Rome,Gallia
+1080,Omen,Black Dove,Rome,Grecia
+1080,Omen,Black Dove,Persia,Central Persia
+1080,Omen,Black Dove,Persia,Outer Persia
+1080,Disaster,Fire,Persia,Outer Persia
+1080,Disaster,Famine,Persia,Outer Persia
+1080,Omen,Black Dove,Persia,North Persia
+1080,Omen,Rivers of Blood,Britannia,Britannia
+1080,Omen,Black Dove,Britannia,Britannia
+1080,Omen,Black Dove,Germania,North Germania
+1080,Omen,Black Dove,Germania,South Germania
