@@ -1,0 +1,49 @@
+Year,Province,Empire,Omen or Disaster,Details
+0,Britannia,British,Omen,Geese Flying Backwards
+0,Britannia,British,Disaster,Famine
+0,Gallia,Roman,Disaster,Pillaged By German Empire
+0,Gallia,Roman,Disaster,Fire
+0,Outer Persia,Persian,Omen,Two-Headed Baby
+0,West Germania,German,Disaster,Fire
+1,Britannia,British,Omen,Geese Flying Backwards
+1,Gallia,Roman,Omen,Geese Flying Backwards
+1,Gallia,Roman,Disaster,Famine
+1,Gallia,Roman,Disaster,Plague
+1,Grecia,Roman,Omen,Geese Flying Backwards
+1,Grecia,Roman,Disaster,Pillaged By Persian Empire
+1,Outer Persia,Persian,Disaster,Fire
+1,West Germania,German,Omen,Rivers of Blood
+2,Inner Persia,Persian,Omen,Sky Black at Noon
+2,Italia,Roman,Omen,Rivers of Blood
+2,Italia,Roman,Disaster,Fire
+2,Outer Persia,Persian,Omen,Rivers of Blood
+2,Outer Persia,Persian,Disaster,Fire
+2,West Germania,German,Omen,Rivers of Blood
+2,West Germania,German,Disaster,Plague
+3,Inner Persia,Persian,Omen,Two-Headed Baby
+3,Inner Persia,Persian,Omen,Rivers of Blood
+3,Inner Persia,Persian,Omen,Black Doves
+3,Italia,Roman,Disaster,Plague
+3,Outer Persia,Persian,Omen,Rivers of Blood
+3,Outer Persia,Persian,Omen,Geese Flying Backwards
+3,Outer Persia,Persian,Disaster,Pillaged By Roman Empire
+3,West Germania,German,Disaster,Fire
+4,Britannia,British,Disaster,Famine
+4,Gallia,Roman,Disaster,Pillaged By British Empire
+4,Inner Persia,Persian,Omen,Rivers of Blood
+4,Inner Persia,Persian,Disaster,Fire
+4,Northern Persia,Persian,Omen,Rivers of Blood
+4,Outer Persia,Persian,Omen,Black Doves
+4,West Germania,German,Omen,Two-Headed Baby
+5,East Germania,German,Omen,Two-Headed Baby
+5,East Germania,German,Omen,Black Doves
+5,Grecia,Roman,Omen,Two-Headed Baby
+5,Grecia,Roman,Omen,Rivers of Blood
+5,Grecia,Roman,Omen,Black Doves
+5,Inner Persia,Persian,Omen,Two-Headed Baby
+5,Inner Persia,Persian,Disaster,Famine
+5,Northern Persia,Persian,Omen,Rivers of Blood
+5,Outer Persia,Persian,Omen,Geese Flying Backwards
+5,Outer Persia,Persian,Disaster,Famine
+5,Outer Persia,Persian,Disaster,Pillaged By Roman Empire
+5,West Germania,German,Omen,Rivers of Blood

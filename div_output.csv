@@ -1,0 +1,55 @@
+Year,Province,Empire,Flaming Comet,Sky Black at Noon,Two-Headed Baby,Geese Flying Backwards,Moon Turns Red,Rivers of Blood,Black Doves,Fire,Famine,Plague,Earthquake,Pillaged By Roman Empire,Pillaged By Persian Empire,Pillaged By British Empire,Pillaged By German Empire
+0,Britannia,British,0,0,0,1,0,0,0,0,1,0,0,0,0,0,0
+0,East Germania,German,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+0,Gallia,Roman,0,0,0,0,0,0,0,1,0,0,0,0,0,0,1
+0,Grecia,Roman,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+0,Inner Persia,Persian,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+0,Italia,Roman,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+0,Northern Persia,Persian,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+0,Outer Persia,Persian,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0
+0,West Germania,German,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0
+1,Britannia,British,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0
+1,East Germania,German,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+1,Gallia,Roman,0,0,0,1,0,0,0,0,1,1,0,0,0,0,0
+1,Grecia,Roman,0,0,0,1,0,0,0,0,0,0,0,0,1,0,0
+1,Inner Persia,Persian,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+1,Italia,Roman,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+1,Northern Persia,Persian,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+1,Outer Persia,Persian,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0
+1,West Germania,German,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0
+2,Britannia,British,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2,East Germania,German,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2,Gallia,Roman,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2,Grecia,Roman,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2,Inner Persia,Persian,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0
+2,Italia,Roman,0,0,0,0,0,1,0,1,0,0,0,0,0,0,0
+2,Northern Persia,Persian,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2,Outer Persia,Persian,0,0,0,0,0,1,0,1,0,0,0,0,0,0,0
+2,West Germania,German,0,0,0,0,0,1,0,0,0,1,0,0,0,0,0
+3,Britannia,British,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+3,East Germania,German,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+3,Gallia,Roman,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+3,Grecia,Roman,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+3,Inner Persia,Persian,0,0,1,0,0,1,1,0,0,0,0,0,0,0,0
+3,Italia,Roman,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0
+3,Northern Persia,Persian,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+3,Outer Persia,Persian,0,0,0,1,0,1,0,0,0,0,0,1,0,0,0
+3,West Germania,German,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0
+4,Britannia,British,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0
+4,East Germania,German,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+4,Gallia,Roman,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0
+4,Grecia,Roman,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+4,Inner Persia,Persian,0,0,0,0,0,1,0,1,0,0,0,0,0,0,0
+4,Italia,Roman,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+4,Northern Persia,Persian,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0
+4,Outer Persia,Persian,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0
+4,West Germania,German,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0
+5,Britannia,British,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+5,East Germania,German,0,0,1,0,0,0,1,0,0,0,0,0,0,0,0
+5,Gallia,Roman,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+5,Grecia,Roman,0,0,1,0,0,1,1,0,0,0,0,0,0,0,0
+5,Inner Persia,Persian,0,0,1,0,0,0,0,0,1,0,0,0,0,0,0
+5,Italia,Roman,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+5,Northern Persia,Persian,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0
+5,Outer Persia,Persian,0,0,0,1,0,0,0,0,1,0,0,1,0,0,0
+5,West Germania,German,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0
